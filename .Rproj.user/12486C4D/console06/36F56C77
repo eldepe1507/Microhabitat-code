@@ -3,3 +3,198 @@
 ]0;~/Documents/PhD/Data/Chapter-Microhabitat/Experiments_with_created_MH_tiles/R_analysis/Manipulated_tilesd-i184-28-142:Manipulated_tiles Laura$ init[K[K[K[Kgit init
 Initialized empty Git repository in /Users/Laura/Documents/PhD/Data/Chapter-Microhabitat/Experiments_with_created_MH_tiles/R_analysis/Manipulated_tiles/.git/
 ]0;~/Documents/PhD/Data/Chapter-Microhabitat/Experiments_with_created_MH_tiles/R_analysis/Manipulated_tilesd-i184-28-142:Manipulated_tiles Laura$ git add .
+]0;~/Documents/PhD/Data/Chapter-Microhabitat/Experiments_with_created_MH_tiles/R_analysis/Manipulated_tilesd-i184-28-142:Manipulated_tiles Laura$ git commit -m "First comm it"
+[master (root-commit) 4a94c14] First commit
+ 129 files changed, 32107 insertions(+)
+ create mode 100644 .Rhistory
+ create mode 100644 .Rproj.user/12486C4D/console06/36F56C77
+ create mode 100644 .Rproj.user/12486C4D/console06/36F56C77.env
+ create mode 100644 .Rproj.user/12486C4D/console06/INDEX001
+ create mode 100644 .Rproj.user/12486C4D/pcs/debug-breakpoints.pper
+ create mode 100644 .Rproj.user/12486C4D/pcs/files-pane.pper
+ create mode 100644 .Rproj.user/12486C4D/pcs/source-pane.pper
+ create mode 100644 .Rproj.user/12486C4D/pcs/windowlayoutstate.pper
+ create mode 100644 .Rproj.user/12486C4D/pcs/workbench-pane.pper
+ create mode 100644 .Rproj.user/12486C4D/rmd-outputs
+ create mode 100644 .Rproj.user/12486C4D/saved_source_markers
+ create mode 100644 .Rproj.user/12486C4D/sdb/per/t/9286BD1B
+ create mode 100644 .Rproj.user/12486C4D/sdb/prop/1CDF4E55
+ create mode 100644 .Rproj.user/12486C4D/sdb/prop/3100EB6B
+ create mode 100644 .Rproj.user/12486C4D/sdb/prop/45ED3DF8
+ create mode 100644 .Rproj.user/12486C4D/sdb/prop/4A64C704
+ create mode 100644 .Rproj.user/12486C4D/sdb/prop/7F63F970
+ create mode 100644 .Rproj.user/12486C4D/sdb/prop/92DF4722
+ create mode 100644 .Rproj.user/12486C4D/sdb/prop/B2792E6D
+ create mode 100644 .Rproj.user/12486C4D/sdb/prop/B3A9184
+ create mode 100644 .Rproj.user/12486C4D/sdb/prop/D27AC7C8
+ create mode 100644 .Rproj.user/12486C4D/sdb/prop/D93F0DAA
+ create mode 100644 .Rproj.user/12486C4D/sdb/prop/D9D6B044
+ create mode 100644 .Rproj.user/12486C4D/sdb/prop/F36DFBFC
+ create mode 100644 .Rproj.user/12486C4D/sdb/prop/F71CF1D8
+ create mode 100644 .Rproj.user/12486C4D/sdb/prop/INDEX
+ create mode 100644 .Rproj.user/12486C4D/sdb/s-170C5DDD/9286BD1B
+ create mode 100644 .Rproj.user/12486C4D/sdb/s-170C5DDD/lock_file
+ create mode 100644 .Rproj.user/12486C4D/session-persistent-state
+ create mode 100644 .Rproj.user/12486C4D/sources/prop/1CDF4E55
+ create mode 100644 .Rproj.user/12486C4D/sources/prop/3100EB6B
+ create mode 100644 .Rproj.user/12486C4D/sources/prop/45ED3DF8
+ create mode 100644 .Rproj.user/12486C4D/sources/prop/4A64C704
+ create mode 100644 .Rproj.user/12486C4D/sources/prop/7F63F970
+ create mode 100644 .Rproj.user/12486C4D/sources/prop/92DF4722
+ create mode 100644 .Rproj.user/12486C4D/sources/prop/B2792E6D
+ create mode 100644 .Rproj.user/12486C4D/sources/prop/B3A9184
+ create mode 100644 .Rproj.user/12486C4D/sources/prop/D27AC7C8
+ create mode 100644 .Rproj.user/12486C4D/sources/prop/D93F0DAA
+ create mode 100644 .Rproj.user/12486C4D/sources/prop/D9D6B044
+ create mode 100644 .Rproj.user/12486C4D/sources/prop/F36DFBFC
+ create mode 100644 .Rproj.user/12486C4D/sources/prop/F71CF1D8
+ create mode 100644 .Rproj.user/12486C4D/sources/prop/INDEX
+ create mode 100644 .Rproj.user/12486C4D/sources/s-8B59C94A/31043E75
+ create mode 100644 .Rproj.user/12486C4D/sources/s-8B59C94A/31043E75-contents
+ create mode 100644 .Rproj.user/12486C4D/sources/s-8B59C94A/356F1D2A
+ create mode 100644 .Rproj.user/12486C4D/sources/s-8B59C94A/356F1D2A-contents
+ create mode 100644 .Rproj.user/12486C4D/sources/s-8B59C94A/3C86FE98
+ create mode 100644 .Rproj.user/12486C4D/sources/s-8B59C94A/3C86FE98-contents
+ create mode 100644 .Rproj.user/12486C4D/sources/s-8B59C94A/7DC22365
+ create mode 100644 .Rproj.user/12486C4D/sources/s-8B59C94A/7DC22365-contents
+ create mode 100644 .Rproj.user/12486C4D/sources/s-8B59C94A/952F1E99
+ create mode 100644 .Rproj.user/12486C4D/sources/s-8B59C94A/952F1E99-contents
+ create mode 100644 .Rproj.user/12486C4D/sources/s-8B59C94A/lock_file
+ create mode 100644 .Rproj.user/shared/notebooks/D36DDCCF-Week1Day1_DataManipulation/1/s/c1kv137fd7xj8/000002.csv
+ create mode 100644 .Rproj.user/shared/notebooks/D36DDCCF-Week1Day1_DataManipulation/1/s/c1kv137fd7xj8/000003.error
+ create mode 100644 .Rproj.user/shared/notebooks/D36DDCCF-Week1Day1_DataManipulation/1/s/c6aeemii3bbvd/000002.metadata
+ create mode 100644 .Rproj.user/shared/notebooks/D36DDCCF-Week1Day1_DataManipulation/1/s/c6aeemii3bbvd/000002.rdf
+ create mode 100644 .Rproj.user/shared/notebooks/D36DDCCF-Week1Day1_DataManipulation/1/s/chunks.json
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names
+ create mode 100644 .Rproj.user/shared/notebooks/paths
+ create mode 100644 Manipulated_tiles.Rproj
+ create mode 100644 Rplots.pdf
+ create mode 100644 data/Copy of Fishbites-MHtiles-Lob.vs.noLob.csv
+ create mode 100644 data/Correlation-bites-raw.csv
+ create mode 100644 data/Correlation-bites-raw.xlsx
+ create mode 100644 data/Correlation-combined.csv
+ create mode 100644 data/Correlation-recruitnumber.csv
+ create mode 100644 data/Fishbites-MHtiles-Lob.vs.noLob.csv
+ create mode 100644 data/Lobophora-recruitment-crevicesize.csv
+ create mode 100644 data/Lobophora-recruitment-singlespecies-correlation.csv
+ create mode 100644 data/Lobophora-recruitment-singlespecies-correlation.xlsx
+ create mode 100644 data/Recruitment.data.extendedR.csv
+ create mode 100644 data/ThalliMeasurements.csv
+ create mode 100644 data/Turf-Lobrecruit-correlation.csv
+ create mode 100644 data/check-countingofbiteoccurrences.csv
+ create mode 100644 data/check-mergeofcorrelationdatawithonly1species.csv
+ create mode 100644 data/check-mergingofall.csv
+ create mode 100644 data/check-selectingcolumnswithcount1.csv
+ create mode 100644 data/check-selectingrowswhenLOBbefore==0indataonly1species.csv
+ create mode 100644 data/check-translationbind.csv
+ create mode 100644 data/checkjoining-bothvideosets-raw.csv
+ create mode 100644 data/checkjoining-bothvideosets.csv
+ create mode 100644 data/checkjoining-bothvideosets_old.csv
+ create mode 100644 data/checkmanipulation.csv
+ create mode 100644 data/checkmerging.csv
+ create mode 100644 data/lookat-correlationdata.csv
+ create mode 100644 data/sumbites-1speciesbiting.csv
+ create mode 100644 data/summedBites-ontile-perspecies.csv
+ create mode 100644 data/translation-location.csv
+ create mode 100644 graphs/Bites-difference-crevice.ai
+ create mode 100644 graphs/Bites-difference-crevice.png
+ create mode 100644 graphs/Bites-difference-crevices.png
+ create mode 100644 graphs/Bites-difference.jpeg
+ create mode 100644 graphs/Bites-differences-crevices.jpeg
+ create mode 100644 graphs/Bitesindifferentcrevices.jpeg
+ create mode 100644 graphs/Bitesindifferentcrevices.jpg
+ create mode 100644 graphs/Bitesindifferentcrevices.png
+ create mode 100644 graphs/Correlation-bites-recruits_only1speciesbitingperlocation.jpg
+ create mode 100644 graphs/LOBrecruits-targetcrevice-treatments.eps
+ create mode 100644 graphs/LOBrecruits-targetcrevice-treatments.jpg
+ create mode 100644 graphs/Lobrecruits-oncrown-pertreatment.jpg
+ create mode 100644 graphs/Lobrecruits-overall-pertreatment-and-crevicekind.jpg
+ create mode 100644 graphs/Lobrecruits-targetcrevice-treatment-linegraph.jpg
+ create mode 100644 graphs/Proportion-bites-in-crevices-allvideosets.jpg
+ create mode 100644 graphs/Relationship-recruits-targetcrevice-crown-splitup.jpg
+ create mode 100644 graphs/Relationship-recruits-targetcrevice-overall (per cm2).jpg
+ create mode 100644 graphs/Relationship-recruits-targetcrevice-overall.jpg
+ create mode 100644 graphs/Rplot.png
+ create mode 100644 graphs/bitesrecruit-correlation.jpg
+ create mode 100644 graphs/comparisonspeciesbites-crevicekinds.jpeg
+ create mode 100644 graphs/comparisonspeciesbites-crevicekinds.jpg
+ create mode 100644 graphs/fishbehaviour-survey-concavevsconvex-proportional.jpg
+ create mode 100644 graphs/fishbehaviour-survey-concavevsconvex.jpg
+ create mode 100644 graphs/fishbitescrevicetile-LobvsnoLob-IncludingAllVideoSets.jpg
+ create mode 100644 graphs/fishbitescrevicetile-LobvsnoLob.jpg
+ create mode 100644 graphs/fishbitescrevicetile-comparecrevicekinds-IncludingAllVideoSets.jpg
+ create mode 100644 graphs/fishbitescrevicetile-comparecrevicekinds.jpg
+ create mode 100644 graphs/fishbitescrevicetiles-LobvsnoLob.jpeg
+ create mode 100644 graphs/proportion_LOBtarget-LOBoverall.ai
+ create mode 100644 graphs/proportion_LOBtarget-LOBoverall.jpg
+ create mode 100644 graphs/proportion_LOBtarget:LOBcrown.jpg
+ create mode 100644 graphs/proportion_LOBtarget:LOBoverall.jpg
+ create mode 100644 scripts/.Rapp.history
+ create mode 100644 scripts/Bites-LobvsnoLob.R
+ create mode 100644 scripts/Correlation-bites-recruits.R
+ create mode 100644 scripts/LobRecruit-turf-correlation.R
+ create mode 100644 scripts/LobRecruits_CreviceSizes.R
+ create mode 100644 scripts/ThalliGrowth.R
+]0;~/Documents/PhD/Data/Chapter-Microhabitat/Experiments_with_created_MH_tiles/R_analysis/Manipulated_tilesd-i184-28-142:Manipulated_tiles Laura$ git remote add origin htt ps://github.com/eldepe1507/Microhabitat-code
+]0;~/Documents/PhD/Data/Chapter-Microhabitat/Experiments_with_created_MH_tiles/R_analysis/Manipulated_tilesd-i184-28-142:Manipulated_tiles Laura$ git remote -v
+origin	https://github.com/eldepe1507/Microhabitat-code (fetch)
+origin	https://github.com/eldepe1507/Microhabitat-code (push)
+]0;~/Documents/PhD/Data/Chapter-Microhabitat/Experiments_with_created_MH_tiles/R_analysis/Manipulated_tilesd-i184-28-142:Manipulated_tiles Laura$ git push -u origin master [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kr
+To https://github.com/eldepe1507/Microhabitat-code
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/eldepe1507/Microhabitat-code'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+]0;~/Documents/PhD/Data/Chapter-Microhabitat/Experiments_with_created_MH_tiles/R_analysis/Manipulated_tilesd-i184-28-142:Manipulated_tiles Laura$ 
+]0;~/Documents/PhD/Data/Chapter-Microhabitat/Experiments_with_created_MH_tiles/R_analysis/Manipulated_tilesd-i184-28-142:Manipulated_tiles Laura$ git checkout -b proposed[K[K[K[K[K[K[K[Kpush-mani pulated-tiles master
+M	.Rproj.user/12486C4D/console06/36F56C77
+Switched to a new branch 'push-manipulated-tiles'
+]0;~/Documents/PhD/Data/Chapter-Microhabitat/Experiments_with_created_MH_tiles/R_analysis/Manipulated_tilesd-i184-28-142:Manipulated_tiles Laura$ git push -u origin master [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kr
+To https://github.com/eldepe1507/Microhabitat-code
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/eldepe1507/Microhabitat-code'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+]0;~/Documents/PhD/Data/Chapter-Microhabitat/Experiments_with_created_MH_tiles/R_analysis/Manipulated_tilesd-i184-28-142:Manipulated_tiles Laura$ git puh ori[K[K[K[K[Ksh origin manipulat ed-tiles[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpmanipulated-tiles[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cumanipulated-tiles[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csmanipulated-tiles[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chmanipulated-tiles[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-manipulated-tiles[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+Counting objects: 119, done.
+Delta compression using up to 4 threads.
+Compressing objects:   0% (1/106)   Compressing objects:   1% (2/106)   Compressing objects:   2% (3/106)   Compressing objects:   3% (4/106)   Compressing objects:   4% (5/106)   Compressing objects:   5% (6/106)   Compressing objects:   6% (7/106)   Compressing objects:   7% (8/106)   Compressing objects:   8% (9/106)   Compressing objects:   9% (10/106)   Compressing objects:  10% (11/106)   Compressing objects:  11% (12/106)   Compressing objects:  12% (13/106)   Compressing objects:  13% (14/106)   Compressing objects:  14% (15/106)   Compressing objects:  15% (16/106)   Compressing objects:  16% (17/106)   Compressing objects:  17% (19/106)   Compressing objects:  18% (20/106)   Compressing objects:  19% (21/106)   Compressing objects:  20% (22/106)   Compressing objects:  21% (23/106)   Compressing objects:  22% (24/106)   Compressing objects:  23% (25/106)   Compressing objects:  24% (26/106)   Compressing objects:  25% (27/106)   Compressing objects:  26% (28/106)   Compressing objects:  27% (29/106)   Compressing objects:  28% (30/106)   Compressing objects:  29% (31/106)   Compressing objects:  30% (32/106)   Compressing objects:  31% (33/106)   Compressing objects:  32% (34/106)   Compressing objects:  33% (35/106)   Compressing objects:  34% (37/106)   Compressing objects:  35% (38/106)   Compressing objects:  36% (39/106)   Compressing objects:  37% (40/106)   Compressing objects:  38% (41/106)   Compressing objects:  39% (42/106)   Compressing objects:  40% (43/106)   Compressing objects:  41% (44/106)   Compressing objects:  42% (45/106)   Compressing objects:  43% (46/106)   Compressing objects:  44% (47/106)   Compressing objects:  45% (48/106)   Compressing objects:  46% (49/106)   Compressing objects:  47% (50/106)   Compressing objects:  48% (51/106)   Compressing objects:  49% (52/106)   Compressing objects:  50% (53/106)   Compressing objects:  51% (55/106)   Compressing objects:  52% (56/106)   Compressing objects:  53% (57/106)   Compressing objects:  54% (58/106)   Compressing objects:  55% (59/106)   Compressing objects:  56% (60/106)   Compressing objects:  57% (61/106)   Compressing objects:  58% (62/106)   Compressing objects:  59% (63/106)   Compressing objects:  60% (64/106)   Compressing objects:  61% (65/106)   Compressing objects:  62% (66/106)   Compressing objects:  63% (67/106)   Compressing objects:  64% (68/106)   Compressing objects:  65% (69/106)   Compressing objects:  66% (70/106)   Compressing objects:  67% (72/106)   Compressing objects:  68% (73/106)   Compressing objects:  69% (74/106)   Compressing objects:  70% (75/106)   Compressing objects:  71% (76/106)   Compressing objects:  72% (77/106)   Compressing objects:  73% (78/106)   Compressing objects:  74% (79/106)   Compressing objects:  75% (80/106)   Compressing objects:  76% (81/106)   Compressing objects:  77% (82/106)   Compressing objects:  78% (83/106)   Compressing objects:  79% (84/106)   Compressing objects:  80% (85/106)   Compressing objects:  81% (86/106)   Compressing objects:  82% (87/106)   Compressing objects:  83% (88/106)   Compressing objects:  84% (90/106)   Compressing objects:  85% (91/106)   Compressing objects:  86% (92/106)   Compressing objects:  87% (93/106)   Compressing objects:  88% (94/106)   Compressing objects:  89% (95/106)   Compressing objects:  90% (96/106)   Compressing objects:  91% (97/106)   Compressing objects:  92% (98/106)   Compressing objects:  93% (99/106)   Compressing objects:  94% (100/106)   Compressing objects:  95% (101/106)   Compressing objects:  96% (102/106)   Compressing objects:  97% (103/106)   Compressing objects:  98% (104/106)   Compressing objects:  99% (105/106)   Compressing objects: 100% (106/106)   Compressing objects: 100% (106/106), done.
+Writing objects:   0% (1/119)   Writing objects:   1% (2/119)   Writing objects:   2% (3/119)   Writing objects:   3% (4/119)   Writing objects:   4% (5/119)   Writing objects:   5% (6/119)   Writing objects:   6% (8/119)   Writing objects:   7% (9/119)   Writing objects:   8% (10/119)   Writing objects:   9% (11/119)   Writing objects:  10% (12/119)   Writing objects:  11% (14/119)   Writing objects:  12% (15/119)   Writing objects:  13% (16/119)   Writing objects:  14% (17/119)   Writing objects:  15% (18/119)   Writing objects:  16% (20/119)   Writing objects:  17% (21/119)   Writing objects:  18% (22/119)   Writing objects:  20% (24/119)   Writing objects:  21% (25/119)   Writing objects:  22% (27/119)   Writing objects:  23% (28/119)   Writing objects:  24% (29/119)   Writing objects:  25% (30/119)   Writing objects:  26% (31/119)   Writing objects:  27% (33/119)   Writing objects:  28% (34/119)   Writing objects:  29% (35/119)   Writing objects:  30% (36/119)   Writing objects:  31% (37/119)   Writing objects:  32% (39/119)   Writing objects:  33% (40/119)   Writing objects:  34% (41/119)   Writing objects:  35% (42/119)   Writing objects:  36% (43/119)   Writing objects:  37% (45/119)   Writing objects:  38% (46/119)   Writing objects:  39% (47/119)   Writing objects:  40% (48/119)   Writing objects:  41% (49/119)   Writing objects:  42% (50/119)   Writing objects:  43% (52/119)   Writing objects:  44% (53/119)   Writing objects:  45% (54/119)   Writing objects:  46% (55/119)   Writing objects:  47% (56/119)   Writing objects:  48% (58/119)   Writing objects:  49% (59/119)   Writing objects:  50% (60/119)   Writing objects:  51% (61/119)   Writing objects:  52% (62/119)   Writing objects:  54% (65/119)   Writing objects:  55% (66/119)   Writing objects:  56% (67/119)   Writing objects:  57% (68/119)   Writing objects:  58% (70/119)   Writing objects:  59% (71/119)   Writing objects:  60% (72/119)   Writing objects:  61% (73/119)   Writing objects:  62% (74/119)   Writing objects:  63% (75/119)   Writing objects:  64% (77/119)   Writing objects:  65% (78/119)   Writing objects:  66% (79/119)   Writing objects:  67% (80/119)   Writing objects:  68% (81/119)   Writing objects:  69% (83/119)   Writing objects:  70% (84/119)   Writing objects:  71% (85/119)   Writing objects:  72% (86/119)   Writing objects:  73% (87/119)   Writing objects:  74% (89/119)   Writing objects:  75% (90/119)   Writing objects:  75% (90/119), 1.07 MiB | 393.00 KiB/s   Writing objects:  76% (91/119), 1.07 MiB | 393.00 KiB/s   Writing objects:  77% (92/119), 1.07 MiB | 393.00 KiB/s   Writing objects:  78% (93/119), 1.07 MiB | 393.00 KiB/s   Writing objects:  79% (95/119), 1.57 MiB | 469.00 KiB/s   Writing objects:  80% (96/119), 1.57 MiB | 469.00 KiB/s   Writing objects:  81% (97/119), 1.57 MiB | 469.00 KiB/s   Writing objects:  82% (98/119), 1.57 MiB | 469.00 KiB/s   Writing objects:  82% (98/119), 2.07 MiB | 528.00 KiB/s   Writing objects:  83% (99/119), 2.07 MiB | 528.00 KiB/s   Writing objects:  84% (100/119), 2.45 MiB | 550.00 KiB/s   Writing objects:  86% (103/119), 3.32 MiB | 599.00 KiB/s   Writing objects:  87% (104/119), 3.32 MiB | 599.00 KiB/s   Writing objects:  88% (105/119), 3.32 MiB | 599.00 KiB/s   Writing objects:  89% (106/119), 3.77 MiB | 625.00 KiB/s   Writing objects:  90% (108/119), 4.20 MiB | 631.00 KiB/s   Writing objects:  91% (109/119), 4.20 MiB | 631.00 KiB/s   Writing objects:  92% (110/119), 4.61 MiB | 646.00 KiB/s   Writing objects:  93% (111/119), 5.08 MiB | 797.00 KiB/s   Writing objects:  94% (112/119), 5.57 MiB | 796.00 KiB/s   Writing objects:  95% (114/119), 5.57 MiB | 796.00 KiB/s   Writing objects:  96% (115/119), 6.45 MiB | 796.00 KiB/s   Writing objects:  97% (116/119), 6.45 MiB | 796.00 KiB/s   Writing objects:  98% (117/119), 6.88 MiB | 789.00 KiB/s   Writing objects:  99% (118/119), 6.88 MiB | 789.00 KiB/s   Writing objects: 100% (119/119), 6.88 MiB | 789.00 KiB/s   Writing objects: 100% (119/119), 7.04 MiB | 806.00 KiB/s, done.
+Total 119 (delta 10), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/10)   [Kremote: Resolving deltas:  50% (5/10)   [Kremote: Resolving deltas:  60% (6/10)   [Kremote: Resolving deltas:  70% (7/10)   [Kremote: Resolving deltas:  80% (8/10)   [Kremote: Resolving deltas:  90% (9/10)   [Kremote: Resolving deltas: 100% (10/10)   [Kremote: Resolving deltas: 100% (10/10), done.[K
+To https://github.com/eldepe1507/Microhabitat-code
+ * [new branch]      push-manipulated-tiles -> push-manipulated-tiles
+git remote add upstream https://git hub.com/eldepe1507/Microhabitat-code
+]0;~/Documents/PhD/Data/Chapter-Microhabitat/Experiments_with_created_MH_tiles/R_analysis/Manipulated_tilesd-i184-28-142:Manipulated_tiles Laura$ git remote -v
+origin	https://github.com/eldepe1507/Microhabitat-code (fetch)
+origin	https://github.com/eldepe1507/Microhabitat-code (push)
+upstream	https://github.com/eldepe1507/Microhabitat-code (fetch)
+upstream	https://github.com/eldepe1507/Microhabitat-code (push)
+]0;~/Documents/PhD/Data/Chapter-Microhabitat/Experiments_with_created_MH_tiles/R_analysis/Manipulated_tilesd-i184-28-142:Manipulated_tiles Laura$ git checkout -b upload-MH[Kanipulated_ tiles master
+M	.Rproj.user/12486C4D/console06/36F56C77
+M	.Rproj.user/12486C4D/console06/36F56C77.env
+M	.Rproj.user/12486C4D/console06/INDEX001
+M	.Rproj.user/12486C4D/pcs/windowlayoutstate.pper
+M	.Rproj.user/12486C4D/pcs/workbench-pane.pper
+M	.Rproj.user/12486C4D/sources/prop/B3A9184
+D	.Rproj.user/12486C4D/sources/s-8B59C94A/31043E75
+D	.Rproj.user/12486C4D/sources/s-8B59C94A/31043E75-contents
+D	.Rproj.user/12486C4D/sources/s-8B59C94A/356F1D2A
+D	.Rproj.user/12486C4D/sources/s-8B59C94A/356F1D2A-contents
+D	.Rproj.user/12486C4D/sources/s-8B59C94A/3C86FE98
+D	.Rproj.user/12486C4D/sources/s-8B59C94A/3C86FE98-contents
+D	.Rproj.user/12486C4D/sources/s-8B59C94A/7DC22365
+D	.Rproj.user/12486C4D/sources/s-8B59C94A/7DC22365-contents
+D	.Rproj.user/12486C4D/sources/s-8B59C94A/952F1E99
+D	.Rproj.user/12486C4D/sources/s-8B59C94A/952F1E99-contents
+D	.Rproj.user/12486C4D/sources/s-8B59C94A/lock_file
+M	Rplots.pdf
+Switched to a new branch 'upload-Manipulated_tiles'
+]0;~/Documents/PhD/Data/Chapter-Microhabitat/Experiments_with_created_MH_tiles/R_analysis/Manipulated_tilesd-i184-28-142:Manipulated_tiles Laura$ 
