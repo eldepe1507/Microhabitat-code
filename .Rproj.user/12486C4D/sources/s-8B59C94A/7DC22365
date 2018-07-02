@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1530512649691.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2760086588",
+    "id" : "7DC22365",
+    "lastKnownWriteTime" : 1529979984,
+    "last_content_update" : 1529979984,
+    "path" : "~/Documents/PhD/Data/Chapter-Microhabitat/Experiments_with_created_MH_tiles/R_analysis/Manipulated_tiles/scripts/Correlation-bites-recruits.R",
+    "project_path" : "scripts/Correlation-bites-recruits.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

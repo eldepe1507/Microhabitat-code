@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "# Software Carpentry course\n\n\n# Set-up\ninstall.packages(c('RColorBrewer', 'pacman'))\nlibrary(ggplot2)\nlibrary(tidyr)\nlibrary(plyr)\nlibrary(dplyr)\nlibrary(pacman)\nlibrary(RColorBrewer)\n\n\n# asking for TRUE or FALSE\n1==1 # TRUE\n1!=1 # one not equal one: FALSE\n1>=9 # FALSE\n1<=9 # TRUE \n\n# vector\n1:5 # 1 2 3 4 5 \n2^(1:5) # 2 4 8 16 32\nx <-  (1:5)\n2^x # 2 4 8 16 32\n\n# to see your environment\nls()\n\n# cleaning your environment\nrm(x) # removes x from environment\nrm(list=ls()) # remove everything that would be returned by the ls() command\nrm(mass, age)\n",
+    "created" : 1530226447588.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1321769764",
+    "id" : "9286BD1B",
+    "lastKnownWriteTime" : 1530229103,
+    "last_content_update" : 1530229103742,
+    "path" : "~/Documents/PhD/Software Carpentry/R introduction.R",
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,851 @@
+﻿Location,Treatment,Genus,Species,Genus.species,Individual,Species.Code,Indiviual.code,Body.length,Tile,Bites.taken.on.crown,Bites.on.outside.tile,Bites.taken.in.target.crevice,Bites.taken.open,Bites.on.other.crevice,Video_code,ColourCode,tile.number,video.length(min.sec),video.length.min,comment,Area.crown.cm2,Area.target.cm2,Area.other.cm2,Area.open.cm2,Area.outside.cm2
+Lighthouse Reef,Lob growth,Acanthurus,nigrofuscus,Acanthurus nigrofuscus,27,Anigro,Anigro27,8,large crevices,11,1,0,0,0,1green#4,1 green,27,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Acanthurus,nigrofuscus,Acanthurus nigrofuscus,26,Anigro,Anigro26,8,large crevices,2,0,4,4,0,1green3white#6,1 green + 3 white,30,5.45,5.75,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Acanthurus,nigrofuscus,Acanthurus nigrofuscus,25,Anigro,Anigro25,10,large crevices,0,1,0,1,0,1green3white#3,1 green + 3 white,30,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Acanthurus,nigrofuscus,Acanthurus nigrofuscus,13,Anigro,Anigro13,8,large crevices,5,0,0,4,0,1red3white#1,1 red + 3 white,99.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Acanthurus,nigrofuscus,Acanthurus nigrofuscus,16,Anigro,Anigro16,8,large crevices,11,6,0,0,0,1red3white#2,1 red + 3 white,99.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Acanthurus,nigrofuscus,Acanthurus nigrofuscus,18,Anigro,Anigro18,10,large crevices,9,9,0,0,0,1red3white#2,1 red + 3 white,99.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Acanthurus,nigrofuscus,Acanthurus nigrofuscus,19,Anigro,Anigro19,9,large crevices,3,0,0,0,0,1red3white#5,1 red + 3 white,99.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Acanthurus,nigrofuscus,Acanthurus nigrofuscus,22,Anigro,Anigro22,8,large crevices,3,10,0,0,0,1red3white#5,1 red + 3 white,99.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Acanthurus,nigrofuscus,Acanthurus nigrofuscus,22,Anigro,Anigro22,8,large crevices,2,2,0,0,0,1red3white#5,1 red + 3 white,99.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Acanthurus,nigrofuscus,Acanthurus nigrofuscus,21,Anigro,Anigro21,10,large crevices,2,0,2,0,0,1red3white#5,1 red + 3 white,99.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Acanthurus,nigrofuscus,Acanthurus nigrofuscus,22,Anigro,Anigro22,9,medium crevices,5,2,0,0,0,1red3white#6,1 red + 3 white,9.2,12.46,12.76,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Acanthurus,nigrofuscus,Acanthurus nigrofuscus,24,Anigro,Anigro24,8,medium crevices,3,3,0,0,0,1red3white#6,1 red + 3 white,9.2,12.46,12.76,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Acanthurus,nigrofuscus,Acanthurus nigrofuscus,9,Anigro,Anigro9,8,medium crevices,10,0,0,0,0,1red3white#1,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Acanthurus,nigrofuscus,Acanthurus nigrofuscus,11,Anigro,Anigro11,8,medium crevices,7,0,0,0,0,1red3white#1,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Acanthurus,nigrofuscus,Acanthurus nigrofuscus,12,Anigro,Anigro12,8,medium crevices,11,3,0,4,0,1red3white#1,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Acanthurus,nigrofuscus,Acanthurus nigrofuscus,14,Anigro,Anigro14,9,medium crevices,2,1,0,0,0,1red3white#1,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Acanthurus,nigrofuscus,Acanthurus nigrofuscus,15,Anigro,Anigro15,10,medium crevices,2,0,0,0,0,1red3white#1,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Acanthurus,nigrofuscus,Acanthurus nigrofuscus,17,Anigro,Anigro17,10,medium crevices,8,0,1,0,0,1red3white#2,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Acanthurus,nigrofuscus,Acanthurus nigrofuscus,19,Anigro,Anigro19,9,medium crevices,22,15,0,0,0,1red3white#5,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Acanthurus,nigrofuscus,Acanthurus nigrofuscus,19,Anigro,Anigro19,9,medium crevices,11,0,0,0,0,1red3white#5,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Acanthurus,nigrofuscus,Acanthurus nigrofuscus,20,Anigro,Anigro20,8,medium crevices,6,0,0,0,0,1red3white#5,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Acanthurus,nigrofuscus,Acanthurus nigrofuscus,21,Anigro,Anigro21,10,medium crevices,33,2,0,1,0,1red3white#5,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Acanthurus,nigrofuscus,Acanthurus nigrofuscus,22,Anigro,Anigro22,8,medium crevices,7,13,0,3,0,1red3white#5,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Acanthurus,nigrofuscus,Acanthurus nigrofuscus,22,Anigro,Anigro22,8,medium crevices,18,5,0,0,0,1red3white#5,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Acanthurus,nigrofuscus,Acanthurus nigrofuscus,21,Anigro,Anigro21,10,medium crevices,12,0,1,1,0,1red3white#5,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Acanthurus,nigrofuscus,Acanthurus nigrofuscus,22,Anigro,Anigro22,9,small crevices,10,0,0,0,0,1red3white#6,1 red + 3 white,87.2,12.46,12.76,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Acanthurus,nigrofuscus,Acanthurus nigrofuscus,23,Anigro,Anigro23,10,small crevices,0,6,0,0,0,1red3white#6,1 red + 3 white,87.2,12.46,12.76,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Acanthurus,nigrofuscus,Acanthurus nigrofuscus,9,Anigro,Anigro9,8,small crevices,1,0,0,0,0,1red3white#1,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Acanthurus,nigrofuscus,Acanthurus nigrofuscus,10,Anigro,Anigro10,9,small crevices,0,3,0,0,0,1red3white#1,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Acanthurus,nigrofuscus,Acanthurus nigrofuscus,15,Anigro,Anigro15,10,small crevices,4,0,0,5,0,1red3white#1,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Acanthurus,nigrofuscus,Acanthurus nigrofuscus,16,Anigro,Anigro16,8,small crevices,5,0,0,0,0,1red3white#2,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Acanthurus,nigrofuscus,Acanthurus nigrofuscus,17,Anigro,Anigro17,10,small crevices,8,3,0,2,0,1red3white#2,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Acanthurus,nigrofuscus,Acanthurus nigrofuscus,18,Anigro,Anigro18,10,small crevices,10,5,0,0,0,1red3white#2,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Acanthurus,nigrofuscus,Acanthurus nigrofuscus,21,Anigro,Anigro21,10,small crevices,18,19,0,6,0,1red3white#5,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Acanthurus,nigrofuscus,Acanthurus nigrofuscus,22,Anigro,Anigro22,8,small crevices,1,0,0,0,0,1red3white#5,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Acanthurus,nigrofuscus,Acanthurus nigrofuscus,21,Anigro,Anigro21,10,small crevices,2,0,0,0,0,1red3white#5,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Acanthurus,nigrofuscus,Acanthurus nigrofuscus,8,Anigro,Anigro8,8,large crevices,0,2,0,0,0,1yellow3white#6,1yellow+3white,22,16.11,16.18,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Acanthurus,nigrofuscus,Acanthurus nigrofuscus,1,Anigro,Anigro1,9,large crevices,1,0,0,0,0,1yellow3white#4,1yellow+3white,22,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Acanthurus,nigrofuscus,Acanthurus nigrofuscus,2,Anigro,Anigro2,10,large crevices,0,2,0,0,0,1yellow3white#4,1yellow+3white,22,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Acanthurus,nigrofuscus,Acanthurus nigrofuscus,8,Anigro,Anigro8,8,medium crevices,0,2,2,0,0,1yellow3white#6,1yellow+3white,23,16.11,16.18,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Acanthurus,nigrofuscus,Acanthurus nigrofuscus,1,Anigro,Anigro1,9,medium crevices,1,2,0,0,8,1yellow3white#4,1yellow+3white,23,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Acanthurus,nigrofuscus,Acanthurus nigrofuscus,3,Anigro,Anigro3,9,medium crevices,21,0,0,0,0,1yellow3white#4,1yellow+3white,23,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Acanthurus,nigrofuscus,Acanthurus nigrofuscus,4,Anigro,Anigro4,9,medium crevices,4,2,0,0,0,1yellow3white#4,1yellow+3white,23,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Acanthurus,nigrofuscus,Acanthurus nigrofuscus,5,Anigro,Anigro5,9,medium crevices,18,0,0,0,0,1yellow3white#4,1yellow+3white,23,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Acanthurus,nigrofuscus,Acanthurus nigrofuscus,7,Anigro,Anigro7,9,medium crevices,6,0,0,0,5,1yellow3white#5,1yellow+3white,23,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Acanthurus,nigrofuscus,Acanthurus nigrofuscus,8,Anigro,Anigro8,8,small crevices,8,17,0,0,0,1yellow3white#6,1yellow+3white,24,16.11,16.18,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Acanthurus,nigrofuscus,Acanthurus nigrofuscus,6,Anigro,Anigro6,9,small crevices,0,3,0,0,0,1yellow3white#5,1yellow+3white,24,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,60,blen,blen60,2,large crevices,10,0,0,61,49,1black#1,1 black,84.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,60,blen,blen60,2,large crevices,16,0,0,0,85,1black#1,1 black,,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,60,blen,blen60,2,large crevices,3,0,0,17,5,1black#2,1 black,84.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,61,blen,blen61,4,large crevices,17,0,39,0,0,1black#2,1 black,84.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,62,blen,blen62,2,large crevices,18,0,0,1,4,1black#2,1 black,84.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,61,blen,blen61,4,large crevices,10,0,1,10,2,1black#2,1 black,84.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,62,blen,blen62,2,large crevices,14,0,0,0,23,1black#2,1 black,84.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,61,blen,blen61,4,large crevices,6,0,0,7,7,1black#2,1 black,84.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,62,blen,blen62,2,large crevices,11,0,0,0,23,1black#2,1 black,84.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,61,blen,blen61,4,large crevices,2,0,0,2,19,1black#2,1 black,84.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,62,blen,blen62,2,large crevices,3,0,10,7,0,1black#2,1 black,84.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,61,blen,blen61,4,large crevices,7,0,0,2,14,1black#2,1 black,84.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,62,blen,blen62,2,large crevices,2,0,0,24,0,1black#2,1 black,84.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,61,blen,blen61,4,large crevices,7,3,0,12,0,1black#2,1 black,84.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,62,blen,blen62,2,large crevices,0,0,0,32,2,1black#2,1 black,84.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,61,blen,blen61,4,large crevices,1,6,0,8,0,1black#2,1 black,84.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,62,blen,blen62,2,large crevices,0,9,0,21,0,1black#2,1 black,84.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,61,blen,blen61,4,large crevices,0,8,0,2,0,1black#2,1 black,84.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,62,blen,blen62,2,large crevices,0,15,0,0,0,1black#3,1 black,84.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,61,blen,blen61,4,large crevices,0,8,0,0,0,1black#3,1 black,84.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,66,blen,blen66,2,large crevices,0,1,0,1,0,1black#3,1 black,84.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,67,blen,blen67,2,large crevices,1,1,0,8,24,1black#3,1 black,84.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,67,blen,blen67,2,large crevices,3,0,0,0,0,1black#3,1 black,84.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,69,blen,blen69,2,large crevices,5,0,0,0,0,1black#3,1 black,84.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,70,blen,blen70,4,large crevices,0,7,0,0,0,1black#3,1 black,84.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,71,blen,blen71,2,large crevices,0,2,0,14,0,1black#3,1 black,84.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,72,blen,blen72,2,large crevices,0,0,3,17,11,1black#3,1 black,84.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,71,blen,blen71,2,large crevices,0,0,0,7,4,1black#3,1 black,84.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,78,blen,blen78,2,large crevices,2,0,0,0,4,1black#3,1 black,84.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,81,blen,blen81,2,large crevices,0,5,0,0,0,1black#4,1 black,84.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,88,blen,blen88,3,large crevices,4,0,0,0,0,1black#4,1 black,84.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,92,blen,blen92,3,large crevices,0,2,0,0,0,1black#4,1 black,84.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,93,blen,blen93,2,large crevices,0,9,0,18,0,1black#4,1 black,84.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,94,blen,blen94,3,large crevices,0,5,0,2,0,1black#4,1 black,84.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,96,blen,blen96,2,large crevices,0,4,0,14,0,1black#4,1 black,84.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,99,blen,blen99,2,large crevices,4,0,0,0,0,1black#4,1 black,84.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,100,blen,blen100,3,large crevices,3,6,0,10,0,1black#5,1 black,84.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,103,blen,blen103,3,medium crevices,7,20,3,4,2,1black#6,1 black,97.2,16.48,16.18,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,104,blen,blen104,2,medium crevices,0,0,33,0,7,1black#6,1 black,97.2,16.48,16.18,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,105,blen,blen105,3,medium crevices,1,0,2,1,7,1black#6,1 black,97.2,16.48,16.18,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,60,blen,blen60,2,medium crevices,0,0,0,3,5,1black#1,1 black,97.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,62,blen,blen62,2,medium crevices,3,0,8,0,4,1black#2,1 black,97.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,63,blen,blen63,2,medium crevices,0,9,0,0,0,1black#3,1 black,97.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,64,blen,blen64,2,medium crevices,0,2,0,21,0,1black#3,1 black,97.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,65,blen,blen65,2,medium crevices,0,0,1,18,0,1black#3,1 black,97.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,66,blen,blen66,2,medium crevices,0,0,6,0,0,1black#3,1 black,97.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,68,blen,blen68,2,medium crevices,0,0,11,0,0,1black#3,1 black,97.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,73,blen,blen73,4,medium crevices,2,4,0,4,7,1black#3,1 black,97.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,79,blen,blen79,2,medium crevices,0,0,0,0,8,1black#4,1 black,97.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,80,blen,blen80,2,medium crevices,0,0,2,0,12,1black#4,1 black,97.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,82,blen,blen82,2,medium crevices,0,0,3,0,0,1black#4,1 black,97.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,83,blen,blen83,2,medium crevices,0,0,0,13,16,1black#4,1 black,97.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,84,blen,blen84,2,medium crevices,0,0,0,10,0,1black#4,1 black,97.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,85,blen,blen85,2,medium crevices,0,0,7,0,0,1black#4,1 black,97.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,86,blen,blen86,3,medium crevices,3,10,0,2,0,1black#4,1 black,97.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,87,blen,blen87,2,medium crevices,0,0,15,10,0,1black#4,1 black,97.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,89,blen,blen89,2,medium crevices,0,0,10,0,0,1black#4,1 black,97.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,90,blen,blen90,2,medium crevices,0,0,0,2,0,1black#4,1 black,97.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,91,blen,blen91,2,medium crevices,2,2,5,4,6,1black#4,1 black,97.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,95,blen,blen95,2,medium crevices,0,0,13,0,3,1black#4,1 black,97.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,97,blen,blen97,2,medium crevices,0,0,0,13,0,1black#4,1 black,97.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,98,blen,blen98,2,medium crevices,3,0,0,3,11,1black#4,1 black,97.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,97,blen,blen97,2,medium crevices,0,0,0,5,0,1black#4,1 black,97.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,98,blen,blen98,2,medium crevices,0,0,8,6,0,1black#4,1 black,97.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,99,blen,blen99,2,medium crevices,0,0,8,0,34,1black#4,1 black,97.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,100,blen,blen100,3,medium crevices,7,0,1,10,8,1black#5,1 black,97.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,101,blen,blen101,2,medium crevices,0,0,8,10,6,1black#5,1 black,97.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,102,blen,blen102,2,small crevices,1,2,5,15,0,1black#6,1 black,7.2,16.48,16.18,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,100,blen,blen100,3,small crevices,0,4,1,0,10,1black#6,1 black,7.2,16.48,16.18,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,74,blen,blen74,2,small crevices,0,2,10,0,0,1black#3,1 black,7.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,75,blen,blen75,2,small crevices,6,0,11,0,0,1black#3,1 black,7.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,76,blen,blen76,2,small crevices,1,0,0,0,10,1black#3,1 black,7.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,77,blen,blen77,4,small crevices,0,5,0,0,6,1black#3,1 black,7.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,100,blen,blen100,3,small crevices,3,5,0,0,0,1black#5,1 black,7.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,193,blen,blen193,1,large crevices,0,0,10,0,0,1green#6,1 green,27,8,8,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,201,blen,blen201,2,large crevices,0,0,19,0,0,1green#6,1 green,27,8,8,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,203,blen,blen203,2,large crevices,0,0,19,0,0,1green#6,1 green,27,8,8,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,110,blen,blen110,2,large crevices,0,0,0,0,15,1green#1,1 green,27,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,121,blen,blen121,1,large crevices,1,0,0,0,0,1green#2,1 green,27,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,122,blen,blen122,1,large crevices,5,0,0,0,0,1green#2,1 green,27,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,127,blen,blen127,2,large crevices,1,4,0,2,23,1green#2,1 green,27,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,130,blen,blen130,2,large crevices,0,5,28,2,0,1green#2,1 green,27,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,131,blen,blen131,1,large crevices,0,0,0,1,0,1green#2,1 green,27,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,130,blen,blen130,2,large crevices,10,0,11,0,0,1green#2,1 green,27,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,130,blen,blen130,2,large crevices,19,0,11,2,0,1green#2,1 green,27,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,136,blen,blen136,1,large crevices,3,0,0,0,16,1green#2,1 green,27,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,139,blen,blen139,1,large crevices,0,0,0,0,9,1green#2,1 green,27,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,140,blen,blen140,2,large crevices,15,0,0,0,0,1green#2,1 green,27,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,143,blen,blen143,2,large crevices,0,0,0,21,0,1green#2,1 green,27,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,145,blen,blen145,2,large crevices,1,0,17,0,0,1green#3,1 green,27,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,146,blen,blen146,1,large crevices,0,8,0,0,0,1green#3,1 green,27,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,150,blen,blen150,1,large crevices,0,0,35,0,8,1green#3,1 green,27,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,150,blen,blen150,1,large crevices,0,0,18,0,0,1green#3,1 green,27,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,185,blen,blen185,1,large crevices,0,0,0,0,21,1green#5,1 green,27,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,186,blen,blen186,1,large crevices,3,0,0,0,0,1green#5,1 green,27,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,188,blen,blen188,1,large crevices,0,0,29,0,0,1green#5,1 green,27,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,189,blen,blen189,1,large crevices,0,0,0,9,0,1green#5,1 green,27,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,190,blen,blen190,1,large crevices,0,0,9,0,0,1green#5,1 green,27,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,191,blen,blen191,2,large crevices,0,0,0,4,0,1green#5,1 green,27,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,106,blen,blen106,2,medium crevices,8,0,0,3,0,1green#1,1 green,26,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,107,blen,blen107,2,medium crevices,4,0,14,0,0,1green#1,1 green,,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,108,blen,blen108,2,medium crevices,0,0,0,9,0,1green#1,1 green,26,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,119,blen,blen119,1,medium crevices,0,0,0,17,6,1green#1,1 green,26,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,146,blen,blen146,1,medium crevices,0,0,0,0,4,1green#3,1 green,26,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,147,blen,blen147,2,medium crevices,0,0,8,0,4,1green#3,1 green,26,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,148,blen,blen148,2,medium crevices,0,0,0,20,0,1green#3,1 green,26,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,149,blen,blen149,2,medium crevices,0,0,5,0,10,1green#3,1 green,26,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,152,blen,blen152,1,medium crevices,2,10,0,22,0,1green#4,1 green,26,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,155,blen,blen155,1,medium crevices,4,0,14,0,0,1green#4,1 green,26,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,157,blen,blen157,1,medium crevices,0,0,7,0,14,1green#4,1 green,26,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,158,blen,blen158,2,medium crevices,0,0,0,9,17,1green#4,1 green,26,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,159,blen,blen159,1,medium crevices,0,0,0,0,3,1green#4,1 green,26,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,160,blen,blen160,1,medium crevices,0,0,15,0,0,1green#4,1 green,26,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,159,blen,blen159,1,medium crevices,0,0,6,0,0,1green#4,1 green,26,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,158,blen,blen158,2,medium crevices,7,0,11,0,9,1green#4,1 green,26,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,161,blen,blen161,1,medium crevices,0,0,39,0,0,1green#4,1 green,26,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,162,blen,blen162,1,medium crevices,0,0,0,11,0,1green#4,1 green,26,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,163,blen,blen163,1,medium crevices,0,0,4,0,0,1green#4,1 green,26,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,164,blen,blen164,1,medium crevices,0,0,10,0,0,1green#4,1 green,26,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,165,blen,blen165,1,medium crevices,0,0,0,7,0,1green#4,1 green,26,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,166,blen,blen166,1,medium crevices,0,0,3,0,0,1green#4,1 green,26,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,168,blen,blen168,1,medium crevices,0,0,16,0,0,1green#4,1 green,26,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,169,blen,blen169,1,medium crevices,0,0,0,23,0,1green#4,1 green,26,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,170,blen,blen170,1,medium crevices,0,0,16,0,0,1green#4,1 green,26,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,170,blen,blen170,1,medium crevices,0,0,4,0,0,1green#5,1 green,26,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,172,blen,blen172,1,medium crevices,0,0,0,0,7,1green#5,1 green,26,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,173,blen,blen173,1,medium crevices,0,0,0,8,0,1green#5,1 green,26,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,174,blen,blen174,1,medium crevices,0,0,0,5,0,1green#5,1 green,26,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,175,blen,blen175,1,medium crevices,0,0,22,11,2,1green#5,1 green,26,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,176,blen,blen176,1,medium crevices,0,0,37,0,4,1green#5,1 green,26,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,175,blen,blen175,1,medium crevices,0,12,0,10,0,1green#5,1 green,26,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,177,blen,blen177,1,medium crevices,3,0,7,0,4,1green#5,1 green,26,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,178,blen,blen178,1,medium crevices,0,0,8,5,0,1green#5,1 green,26,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,179,blen,blen179,1,medium crevices,3,0,39,9,0,1green#5,1 green,26,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,180,blen,blen180,1,medium crevices,0,2,0,0,0,1green#5,1 green,26,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,181,blen,blen181,1,medium crevices,0,13,0,0,0,1green#5,1 green,26,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,171,blen,blen171,2,medium crevices,0,0,0,0,14,1green#5,1 green,26,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,182,blen,blen182,1,medium crevices,0,0,11,0,0,1green#5,1 green,26,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,184,blen,blen184,1,medium crevices,0,4,0,0,0,1green#5,1 green,26,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,194,blen,blen194,1,small crevices,0,0,0,0,11,1green#6,1 green,25,8,8,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,195,blen,blen195,1,small crevices,0,4,0,0,0,1green#6,1 green,25,8,8,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,196,blen,blen196,1,small crevices,0,0,0,0,12,1green#6,1 green,25,8,8,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,197,blen,blen197,1,small crevices,0,8,0,2,0,1green#6,1 green,25,8,8,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,198,blen,blen198,1,small crevices,0,2,0,0,0,1green#6,1 green,25,8,8,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,192,blen,blen192,2,small crevices,26,0,0,0,0,1green#6,1 green,25,8,8,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,199,blen,blen199,1,small crevices,0,0,0,11,0,1green#6,1 green,25,8,8,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,200,blen,blen200,1,small crevices,0,0,0,3,0,1green#6,1 green,25,8,8,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,202,blen,blen202,1,small crevices,0,0,28,4,0,1green#6,1 green,25,8,8,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,109,blen,blen109,2,small crevices,0,0,0,2,14,1green#1,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,111,blen,blen111,2,small crevices,3,0,0,0,10,1green#1,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,112,blen,blen112,1,small crevices,3,0,29,0,4,1green#1,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,113,blen,blen113,2,small crevices,2,0,0,0,21,1green#1,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,112,blen,blen112,1,small crevices,2,0,9,0,14,1green#1,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,113,blen,blen113,2,small crevices,9,0,0,0,9,1green#1,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,112,blen,blen112,1,small crevices,6,4,6,0,38,1green#1,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,113,blen,blen113,2,small crevices,2,0,2,0,16,1green#1,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,112,blen,blen112,1,small crevices,2,0,8,0,2,1green#1,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,113,blen,blen113,2,small crevices,3,0,0,0,13,1green#1,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,114,blen,blen114,1,small crevices,0,0,0,0,21,1green#1,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,115,blen,blen115,1,small crevices,0,0,4,0,2,1green#1,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,116,blen,blen116,1,small crevices,1,0,0,0,10,1green#1,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,117,blen,blen117,1,small crevices,0,3,0,0,2,1green#1,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,118,blen,blen118,1,small crevices,11,4,2,0,9,1green#1,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,120,blen,blen120,2,small crevices,3,4,0,0,0,1green#1,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,123,blen,blen123,2,small crevices,9,0,0,4,0,1green#2,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,124,blen,blen124,1,small crevices,2,0,3,0,9,1green#2,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,125,blen,blen125,1,small crevices,0,8,0,0,0,1green#2,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,126,blen,blen126,2,small crevices,0,0,3,0,0,1green#2,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,128,blen,blen128,2,small crevices,7,18,0,3,2,1green#2,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,129,blen,blen129,1,small crevices,2,0,0,5,0,1green#2,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,132,blen,blen132,1,small crevices,0,2,0,0,5,1green#2,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,133,blen,blen133,1,small crevices,1,0,19,0,14,1green#2,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,134,blen,blen134,1,small crevices,0,11,0,0,0,1green#2,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,135,blen,blen135,1,small crevices,0,3,6,0,10,1green#2,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,137,blen,blen137,2,small crevices,39,0,0,0,2,1green#2,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,138,blen,blen138,1,small crevices,0,11,0,15,0,1green#2,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,141,blen,blen141,1,small crevices,0,0,0,6,0,1green#2,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,142,blen,blen142,2,small crevices,1,0,0,7,0,1green#2,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,142,blen,blen142,2,small crevices,0,0,0,3,0,1green#2,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,143,blen,blen143,1,small crevices,0,8,0,4,0,1green#2,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,144,blen,blen144,2,small crevices,0,23,0,7,0,1green#3,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,144,blen,blen144,2,small crevices,0,10,0,0,0,1green#3,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,151,blen,blen151,2,small crevices,5,19,0,15,0,1green#3,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,150,blen,blen150,1,small crevices,2,0,19,0,0,1green#3,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,150,blen,blen150,1,small crevices,0,0,0,0,5,1green#4,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,153,blen,blen153,1,small crevices,1,0,0,0,16,1green#4,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,154,blen,blen154,2,small crevices,6,18,0,0,0,1green#4,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,153,blen,blen153,1,small crevices,1,0,41,0,0,1green#4,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,167,blen,blen167,2,small crevices,17,0,0,0,29,1green#4,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,171,blen,blen171,2,small crevices,6,13,0,1,0,1green#5,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,171,blen,blen171,2,small crevices,0,16,0,5,0,1green#5,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,171,blen,blen171,2,small crevices,0,0,0,0,8,1green#5,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,183,blen,blen183,2,small crevices,28,0,0,0,26,1green#5,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,187,blen,blen187,1,small crevices,5,0,9,0,0,1green#5,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,183,blen,blen183,1,small crevices,2,0,4,0,19,1green#5,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,192,blen,blen192,1,small crevices,0,0,14,0,0,1green#5,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blenny,sp,blenny,192,blen,blen192,2,small crevices,16,0,6,0,0,1green#5,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,57,blen,blen57,3,large crevices,0,0,1,0,0,1green3white#6,1 green + 3 white,30,5.45,5.75,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,blenny,sp,blenny,58,blen,blen58,3,large crevices,10,0,0,0,0,1green3white#6,1 green + 3 white,30,5.45,5.75,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,blenny,sp,blenny,50,blen,blen50,1,large crevices,0,0,0,21,0,1green3white#2,1 green + 3 white,30,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,blenny,sp,blenny,51,blen,blen51,1,large crevices,0,0,0,21,0,1green3white#2,1 green + 3 white,30,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,blenny,sp,blenny,51,blen,blen51,1,large crevices,0,0,0,22,0,1green3white#2,1 green + 3 white,30,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,blenny,sp,blenny,51,blen,blen51,1,large crevices,0,0,0,14,0,1green3white#2,1 green + 3 white,30,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,blenny,sp,blenny,52,blen,blen52,2,large crevices,0,5,0,0,0,1green3white#5,1 green + 3 white,30,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,blenny,sp,blenny,53,blen,blen53,3,large crevices,2,0,10,0,0,1green3white#5,1 green + 3 white,30,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,blenny,sp,blenny,54,blen,blen54,3,large crevices,0,4,0,0,0,1green3white#5,1 green + 3 white,30,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,blenny,sp,blenny,55,blen,blen55,3,large crevices,0,21,0,0,0,1green3white#5,1 green + 3 white,30,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,blenny,sp,blenny,55,blen,blen55,3,large crevices,1,12,0,0,0,1green3white#5,1 green + 3 white,30,26.05,12.766,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,blenny,sp,blenny,56,blen,blen56,3,large crevices,26,0,0,0,0,1green3white#5,1 green + 3 white,30,26.05,12.766,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,blenny,sp,blenny,49,blen,blen49,2,medium crevices,1,0,20,21,0,1green3white#1,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,59,blen,blen59,3,small crevices,0,3,0,0,0,1green3white#6,1 green + 3 white,28,5.45,5.75,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,52,blen,blen52,2,small crevices,0,10,0,0,0,1green3white#5,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,56,blen,blen56,3,small crevices,0,4,0,0,0,1green3white#5,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,1,blen,blen1,5,large crevices,0,7,0,0,0,1red3white#1,1 red + 3 white,99.2,26.05,26.083,,38.88,15.49736,9,18,90.62264
+Lighthouse Reef,recruitment,blenny,sp,blenny,2,blen,blen2,3,large crevices,9,0,6,10,0,1red3white#1,1 red + 3 white,99.2,26.05,26.083,,38.88,15.49736,9,18,90.62264
+Lighthouse Reef,recruitment,blenny,sp,blenny,2,blen,blen2,3,large crevices,7,0,0,0,0,1red3white#1,1 red + 3 white,99.2,26.05,26.083,,38.88,15.49736,9,18,90.62264
+Lighthouse Reef,recruitment,blenny,sp,blenny,2,blen,blen2,3,large crevices,0,10,0,11,0,1red3white#1,1 red + 3 white,99.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,blenny,sp,blenny,2,blen,blen2,3,large crevices,1,0,20,1,0,1red3white#1,1 red + 3 white,99.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,blenny,sp,blenny,4,blen,blen4,3,large crevices,0,2,0,3,0,1red3white#1,1 red + 3 white,99.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,blenny,sp,blenny,4,blen,blen4,3,large crevices,1,2,0,7,0,1red3white#1,1 red + 3 white,99.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,blenny,sp,blenny,4,blen,blen4,3,large crevices,0,0,0,12,0,1red3white#1,1 red + 3 white,99.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,blenny,sp,blenny,5,blen,blen5,3,large crevices,10,0,0,0,0,1red3white#1,1 red + 3 white,99.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,blenny,sp,blenny,6,blen,blen6,3,large crevices,29,0,21,0,0,1red3white#1,1 red + 3 white,99.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,blenny,sp,blenny,7,blen,blen7,3,large crevices,26,0,0,0,0,1red3white#1,1 red + 3 white,99.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,recruitment,blenny,sp,blenny,7,blen,blen7,3,large crevices,8,0,2,0,0,1red3white#1,1 red + 3 white,99.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,recruitment,blenny,sp,blenny,1,blen,blen1,5,large crevices,1,14,0,1,0,1red3white#1,1 red + 3 white,99.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,recruitment,blenny,sp,blenny,7,blen,blen7,3,large crevices,22,0,16,0,0,1red3white#1,1 red + 3 white,99.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,recruitment,blenny,sp,blenny,7,blen,blen7,3,large crevices,1,0,1,0,5,1red3white#1,1 red + 3 white,99.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,recruitment,blenny,sp,blenny,7,blen,blen7,3,large crevices,17,0,0,4,0,1red3white#1,1 red + 3 white,99.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,recruitment,blenny,sp,blenny,13,blen,blen13,3,large crevices,0,0,0,5,0,1red3white#2,1 red + 3 white,99.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,recruitment,blenny,sp,blenny,13,blen,blen13,3,large crevices,17,0,0,0,0,1red3white#2,1 red + 3 white,99.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,recruitment,blenny,sp,blenny,15,blen,blen15,3,large crevices,1,4,0,13,0,1red3white#2,1 red + 3 white,99.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,recruitment,blenny,sp,blenny,14,blen,blen14,5,large crevices,20,0,3,0,0,1red3white#2,1 red + 3 white,99.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,recruitment,blenny,sp,blenny,15,blen,blen15,3,large crevices,0,2,0,3,15,1red3white#2,1 red + 3 white,99.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,recruitment,blenny,sp,blenny,14,blen,blen14,5,large crevices,13,0,0,0,2,1red3white#2,1 red + 3 white,99.2,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,recruitment,blenny,sp,blenny,15,blen,blen15,3,large crevices,3,0,0,0,11,1red3white#2,1 red + 3 white,99.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,blenny,sp,blenny,18,blen,blen18,3,large crevices,7,3,0,2,0,1red3white#3,1 red + 3 white,99.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,blenny,sp,blenny,19,blen,blen19,5,large crevices,1,0,1,0,0,1red3white#3,1 red + 3 white,99.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,blenny,sp,blenny,26,blen,blen26,3,large crevices,21,0,0,0,13,1red3white#4,1 red + 3 white,99.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,blenny,sp,blenny,24,blen,blen24,5,large crevices,17,0,38,0,5,1red3white#4,1 red + 3 white,99.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,blenny,sp,blenny,24,blen,blen24,5,large crevices,6,0,2,0,4,1red3white#4,1 red + 3 white,99.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,blenny,sp,blenny,28,blen,blen28,3,large crevices,3,2,3,27,5,1red3white#4,1 red + 3 white,99.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,blenny,sp,blenny,29,blen,blen29,3,large crevices,5,0,0,21,3,1red3white#5,1 red + 3 white,99.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,blenny,sp,blenny,29,blen,blen29,3,large crevices,12,0,0,0,0,1red3white#5,1 red + 3 white,99.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,blenny,sp,blenny,31,blen,blen31,3,large crevices,10,0,0,3,16,1red3white#5,1 red + 3 white,99.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,blenny,sp,blenny,35,blen,blen35,5,medium crevices,1,28,0,9,0,1red3white#6,1 red + 3 white,9.2,12.46,12.76,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,1,blen,blen1,5,medium crevices,13,7,7,5,0,1red3white#1,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,1,blen,blen1,5,medium crevices,5,10,0,2,0,1red3white#1,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,1,blen,blen1,5,medium crevices,2,0,0,0,0,1red3white#1,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,1,blen,blen1,5,medium crevices,1,0,0,0,0,1red3white#1,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,1,blen,blen1,5,medium crevices,0,3,0,0,0,1red3white#1,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,10,blen,blen10,3,medium crevices,0,9,0,31,0,1red3white#2,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,11,blen,blen11,3,medium crevices,0,0,0,11,5,1red3white#2,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,12,blen,blen12,3,medium crevices,0,0,0,0,22,1red3white#2,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,19,blen,blen19,5,medium crevices,10,0,2,0,2,1red3white#3,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,19,blen,blen19,5,medium crevices,0,11,0,11,0,1red3white#3,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,23,blen,blen23,3,medium crevices,9,2,0,0,0,1red3white#3,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,24,blen,blen24,5,medium crevices,14,0,3,6,0,1red3white#4,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,24,blen,blen24,5,medium crevices,6,5,1,2,2,1red3white#4,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,24,blen,blen24,5,medium crevices,0,4,0,0,0,1red3white#4,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,24,blen,blen24,5,medium crevices,12,0,0,0,0,1red3white#4,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,24,blen,blen24,5,medium crevices,0,6,0,0,0,1red3white#4,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,26,blen,blen26,3,medium crevices,0,0,0,5,0,1red3white#4,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,24,blen,blen24,5,medium crevices,0,8,0,0,0,1red3white#5,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,24,blen,blen24,5,medium crevices,0,11,0,0,0,1red3white#5,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,32,blen,blen32,3,medium crevices,0,0,31,19,15,1red3white#5,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,34,blen,blen34,3,small crevices,0,23,0,11,0,1red3white#6,1 red + 3 white,87.2,12.46,12.76,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,36,blen,blen36,2,small crevices,0,2,0,5,0,1red3white#6,1 red + 3 white,87.2,12.46,12.76,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,37,blen,blen37,3,small crevices,0,1,0,0,0,1red3white#6,1 red + 3 white,87.2,12.46,12.76,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,38,blen,blen38,3,small crevices,3,0,0,0,4,1red3white#6,1 red + 3 white,87.2,12.46,12.76,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,1,blen,blen1,5,small crevices,1,0,0,0,0,1red3white#1,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,2,blen,blen2,3,small crevices,11,0,0,3,0,1red3white#1,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,3,blen,blen3,2,small crevices,0,0,0,15,0,1red3white#1,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,2,blen,blen2,3,small crevices,0,14,0,2,0,1red3white#1,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,4,blen,blen4,3,small crevices,19,0,2,22,0,1red3white#1,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,1,blen,blen1,5,small crevices,33,0,0,0,0,1red3white#1,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,2,blen,blen2,3,small crevices,0,8,0,0,0,1red3white#1,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,3,blen,blen3,2,small crevices,0,7,0,3,0,1red3white#1,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,2,blen,blen2,3,small crevices,0,7,0,3,0,1red3white#1,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,1,blen,blen1,5,small crevices,0,13,0,0,0,1red3white#1,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,2,blen,blen2,3,small crevices,3,0,0,6,0,1red3white#1,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,1,blen,blen1,5,small crevices,12,21,0,2,0,1red3white#1,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,1,blen,blen1,5,small crevices,3,6,0,0,0,1red3white#1,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,8,blen,blen8,2,small crevices,13,16,0,0,0,1red3white#1,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,9,blen,blen9,3,small crevices,0,16,0,0,0,1red3white#1,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,8,blen,blen8,2,small crevices,0,2,25,7,0,1red3white#1,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,1,blen,blen1,5,small crevices,14,2,0,4,0,1red3white#1,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,8,blen,blen8,2,small crevices,0,0,10,0,0,1red3white#2,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,9,blen,blen9,3,small crevices,0,3,0,0,0,1red3white#2,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,1,blen,blen1,5,small crevices,0,7,0,0,0,1red3white#2,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,14,blen,blen14,5,small crevices,21,0,0,0,0,1red3white#2,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,16,blen,blen16,3,small crevices,0,4,0,6,40,1red3white#2,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,16,blen,blen16,3,small crevices,0,0,0,0,18,1red3white#2,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,16,blen,blen16,3,small crevices,0,0,0,4,0,1red3white#2,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,16,blen,blen16,3,small crevices,11,14,0,8,0,1red3white#2,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,14,blen,blen14,5,small crevices,8,9,0,0,7,1red3white#2,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,17,blen,blen17,5,small crevices,10,9,0,0,0,1red3white#2,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,18,blen,blen18,3,small crevices,6,20,0,2,0,1red3white#3,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,18,blen,blen18,3,small crevices,2,1,0,7,0,1red3white#3,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,18,blen,blen18,3,small crevices,15,6,0,4,0,1red3white#3,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,20,blen,blen20,2,small crevices,6,0,0,0,2,1red3white#3,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,19,blen,blen19,5,small crevices,1,0,0,1,0,1red3white#3,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,20,blen,blen20,2,small crevices,7,22,0,0,3,1red3white#3,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,18,blen,blen18,3,small crevices,7,0,3,0,21,1red3white#3,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,20,blen,blen20,2,small crevices,4,2,0,0,0,1red3white#3,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,19,blen,blen19,5,small crevices,0,10,0,0,0,1red3white#3,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,21,blen,blen21,3,small crevices,37,0,2,0,24,1red3white#3,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,22,blen,blen22,3,small crevices,0,4,0,4,0,1red3white#3,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,21,blen,blen21,3,small crevices,11,24,0,8,0,1red3white#3,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,21,blen,blen21,3,small crevices,12,0,0,0,0,1red3white#3,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,23,blen,blen23,3,small crevices,0,14,0,5,0,1red3white#3,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,25,blen,blen25,3,small crevices,8,33,0,12,0,1red3white#4,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,25,blen,blen25,3,small crevices,0,1,0,11,0,1red3white#4,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,24,blen,blen24,5,small crevices,23,0,0,0,0,1red3white#4,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,25,blen,blen25,3,small crevices,16,18,0,2,0,1red3white#4,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,25,blen,blen25,3,small crevices,8,11,0,0,0,1red3white#4,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,27,blen,blen27,3,small crevices,5,24,0,5,0,1red3white#4,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,30,blen,blen30,2,small crevices,0,0,29,0,0,1red3white#5,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,33,blen,blen33,3,small crevices,5,0,0,14,0,1red3white#5,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,34,blen,blen34,3,small crevices,2,60,0,27,0,1red3white#5,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,45,blen,blen45,3,large crevices,2,0,33,0,0,1yellow3white#4,1yellow+3white,22,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,blenny,sp,blenny,45,blen,blen45,3,large crevices,24,4,13,1,16,1yellow3white#5,1yellow+3white,22,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,blenny,sp,blenny,39,blen,blen39,3,medium crevices,0,0,0,0,9,1yellow3white#1,1yellow+3white,23,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,40,blen,blen40,3,medium crevices,23,0,0,0,12,1yellow3white#1,1yellow+3white,23,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,40,blen,blen40,3,medium crevices,0,0,39,0,0,1yellow3white#2,1yellow+3white,23,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,41,blen,blen41,3,medium crevices,0,0,1,0,71,1yellow3white#2,1yellow+3white,23,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,41,blen,blen41,3,medium crevices,17,0,6,0,9,1yellow3white#3,1yellow+3white,23,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,42,blen,blen42,3,medium crevices,0,0,20,0,0,1yellow3white#3,1yellow+3white,23,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,44,blen,blen44,3,medium crevices,2,1,0,2,0,1yellow3white#4,1yellow+3white,23,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,47,blen,blen47,3,medium crevices,31,0,27,0,9,1yellow3white#5,1yellow+3white,23,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,48,blen,blen48,3,small crevices,3,14,0,2,0,1yellow3white#6,1yellow+3white,24,16.11,16.18,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,42,blen,blen42,3,small crevices,13,0,0,0,5,1yellow3white#3,1yellow+3white,24,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,43,blen,blen43,3,small crevices,0,0,2,2,0,1yellow3white#3,1yellow+3white,24,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,blenny,sp,blenny,46,blen,blen46,2,small crevices,0,0,3,0,0,1yellow3white#5,1yellow+3white,24,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,blnn,sp,blenny,156,blen,blen156,1,medium crevices,2,0,4,0,9,1green#4,1 green,26,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,179,Ctbino,Ctbino179,3,large crevices,3,3,0,0,0,1green3white#6,1 green + 3 white,30,5.45,5.75,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,184,Ctbino,Ctbino184,3,large crevices,7,0,0,1,0,1green3white#6,1 green + 3 white,30,5.45,5.75,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,186,Ctbino,Ctbino186,3,large crevices,0,7,9,0,0,1green3white#6,1 green + 3 white,30,5.45,5.75,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,187,Ctbino,Ctbino187,3,large crevices,0,3,7,0,0,1green3white#6,1 green + 3 white,30,5.45,5.75,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,38,Ctbino,Ctbino38,3,large crevices,0,2,0,0,0,1green3white#1,1 green + 3 white,30,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,39,Ctbino,Ctbino39,3,large crevices,2,4,0,0,0,1green3white#1,1 green + 3 white,30,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,40,Ctbino,Ctbino40,3,large crevices,3,0,0,0,0,1green3white#1,1 green + 3 white,30,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,41,Ctbino,Ctbino41,3,large crevices,0,11,0,0,0,1green3white#1,1 green + 3 white,30,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,43,Ctbino,Ctbino43,4,large crevices,3,6,0,5,0,1green3white#1,1 green + 3 white,30,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,44,Ctbino,Ctbino44,3,large crevices,6,3,0,0,0,1green3white#1,1 green + 3 white,30,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,48,Ctbino,Ctbino48,3,large crevices,0,15,0,0,0,1green3white#2,1 green + 3 white,30,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,49,Ctbino,Ctbino49,3,large crevices,0,5,0,0,0,1green3white#2,1 green + 3 white,30,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,52,Ctbino,Ctbino52,3,large crevices,0,6,0,0,0,1green3white#2,1 green + 3 white,30,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,57,Ctbino,Ctbino57,3,large crevices,0,0,1,0,0,1green3white#2,1 green + 3 white,30,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,62,Ctbino,Ctbino62,3,large crevices,0,0,9,0,0,1green3white#3,1 green + 3 white,30,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,67,Ctbino,Ctbino67,3,large crevices,3,14,0,0,0,1green3white#3,1 green + 3 white,30,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,68,Ctbino,Ctbino68,3,large crevices,2,20,0,0,0,1green3white#3,1 green + 3 white,30,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,69,Ctbino,Ctbino69,3,large crevices,0,4,0,4,0,1green3white#3,1 green + 3 white,30,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,70,Ctbino,Ctbino70,3,large crevices,0,8,1,0,0,1green3white#3,1 green + 3 white,30,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,72,Ctbino,Ctbino72,3,large crevices,1,22,0,1,0,1green3white#3,1 green + 3 white,30,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,73,Ctbino,Ctbino73,3,large crevices,2,2,0,3,0,1green3white#3,1 green + 3 white,30,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,74,Ctbino,Ctbino74,3,large crevices,0,9,3,0,0,1green3white#3,1 green + 3 white,30,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,75,Ctbino,Ctbino75,3,large crevices,1,3,0,1,0,1green3white#3,1 green + 3 white,30,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,76,Ctbino,Ctbino76,3,large crevices,7,5,0,10,0,1green3white#3,1 green + 3 white,30,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,78,Ctbino,Ctbino78,3,large crevices,0,7,0,6,0,1green3white#3,1 green + 3 white,30,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,79,Ctbino,Ctbino79,3,large crevices,2,8,0,0,0,1green3white#3,1 green + 3 white,30,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,82,Ctbino,Ctbino82,3,large crevices,2,10,0,1,0,1green3white#3,1 green + 3 white,30,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,87,Ctbino,Ctbino87,3,large crevices,4,10,1,0,1,1green3white#3,1 green + 3 white,30,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,88,Ctbino,Ctbino88,3,large crevices,0,4,1,4,4,1green3white#3,1 green + 3 white,30,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,89,Ctbino,Ctbino89,3,large crevices,0,1,0,0,0,1green3white#4,1 green + 3 white,30,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,90,Ctbino,Ctbino90,3,large crevices,0,3,0,0,0,1green3white#4,1 green + 3 white,30,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,91,Ctbino,Ctbino91,3,large crevices,0,7,0,1,1,1green3white#4,1 green + 3 white,30,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,92,Ctbino,Ctbino92,3,large crevices,3,1,12,0,0,1green3white#4,1 green + 3 white,30,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,93,Ctbino,Ctbino93,3,large crevices,1,11,5,0,0,1green3white#4,1 green + 3 white,30,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,95,Ctbino,Ctbino95,3,large crevices,0,4,0,0,0,1green3white#4,1 green + 3 white,30,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,97,Ctbino,Ctbino97,3,large crevices,0,9,0,0,0,1green3white#4,1 green + 3 white,30,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,100,Ctbino,Ctbino100,3,large crevices,0,2,0,0,0,1green3white#4,1 green + 3 white,30,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,102,Ctbino,Ctbino102,3,large crevices,0,2,0,0,0,1green3white#4,1 green + 3 white,30,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,103,Ctbino,Ctbino103,3,large crevices,1,12,0,2,0,1green3white#4,1 green + 3 white,30,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,104,Ctbino,Ctbino104,3,large crevices,3,0,0,0,0,1green3white#4,1 green + 3 white,30,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,110,Ctbino,Ctbino110,3,large crevices,0,3,0,0,0,1green3white#4,1 green + 3 white,30,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,111,Ctbino,Ctbino111,3,large crevices,0,0,5,0,0,1green3white#4,1 green + 3 white,30,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,113,Ctbino,Ctbino113,3,large crevices,0,2,0,2,0,1green3white#4,1 green + 3 white,30,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,117,Ctbino,Ctbino117,3,large crevices,1,3,0,0,0,1green3white#4,1 green + 3 white,30,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,118,Ctbino,Ctbino118,3,large crevices,0,1,0,0,0,1green3white#4,1 green + 3 white,30,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,119,Ctbino,Ctbino119,3,large crevices,0,9,0,0,0,1green3white#4,1 green + 3 white,30,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,121,Ctbino,Ctbino121,3,large crevices,0,5,0,0,0,1green3white#4,1 green + 3 white,30,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,124,Ctbino,Ctbino124,3,large crevices,0,1,13,0,0,1green3white#4,1 green + 3 white,30,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,127,Ctbino,Ctbino127,3,large crevices,1,4,0,0,0,1green3white#4,1 green + 3 white,30,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,129,Ctbino,Ctbino129,3,large crevices,0,3,3,4,0,1green3white#4,1 green + 3 white,30,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,134,Ctbino,Ctbino134,3,large crevices,5,1,0,0,0,1green3white#5,1 green + 3 white,30,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,136,Ctbino,Ctbino136,3,large crevices,4,0,2,0,3,1green3white#5,1 green + 3 white,30,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,138,Ctbino,Ctbino138,3,large crevices,0,0,0,4,0,1green3white#5,1 green + 3 white,30,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,149,Ctbino,Ctbino149,3,large crevices,7,0,0,0,0,1green3white#5,1 green + 3 white,30,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,151,Ctbino,Ctbino151,3,large crevices,4,0,0,3,4,1green3white#5,1 green + 3 white,30,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,152,Ctbino,Ctbino152,3,large crevices,8,10,5,0,6,1green3white#5,1 green + 3 white,30,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,155,Ctbino,Ctbino155,3,large crevices,3,0,0,0,0,1green3white#5,1 green + 3 white,30,26.05,26.083,,37.44,15.49736,9,18,92.06264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,158,Ctbino,Ctbino158,3,large crevices,0,5,0,0,0,1green3white#5,1 green + 3 white,30,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,160,Ctbino,Ctbino160,3,large crevices,1,1,0,0,0,1green3white#5,1 green + 3 white,30,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,161,Ctbino,Ctbino161,3,large crevices,7,0,3,0,0,1green3white#5,1 green + 3 white,30,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,166,Ctbino,Ctbino166,3,large crevices,7,11,0,14,0,1green3white#5,1 green + 3 white,30,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,169,Ctbino,Ctbino169,3,large crevices,0,3,0,0,3,1green3white#5,1 green + 3 white,30,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,170,Ctbino,Ctbino170,3,large crevices,6,0,0,0,0,1green3white#5,1 green + 3 white,30,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,171,Ctbino,Ctbino171,3,large crevices,0,4,0,0,0,1green3white#5,1 green + 3 white,30,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,172,Ctbino,Ctbino172,3,large crevices,2,2,0,0,0,1green3white#5,1 green + 3 white,30,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,173,Ctbino,Ctbino173,3,large crevices,0,7,0,0,0,1green3white#5,1 green + 3 white,30,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,175,Ctbino,Ctbino175,3,large crevices,0,2,0,0,0,1green3white#5,1 green + 3 white,30,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,182,Ctbino,Ctbino182,3,medium crevices,0,0,0,6,0,1green3white#6,1 green + 3 white,29,5.45,5.75,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,184,Ctbino,Ctbino184,3,medium crevices,0,3,0,2,0,1green3white#6,1 green + 3 white,29,5.45,5.75,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,185,Ctbino,Ctbino185,3,medium crevices,1,7,0,4,0,1green3white#6,1 green + 3 white,29,5.45,5.75,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,186,Ctbino,Ctbino186,3,medium crevices,0,2,1,1,4,1green3white#6,1 green + 3 white,29,5.45,5.75,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,39,Ctbino,Ctbino39,3,medium crevices,0,1,0,1,0,1green3white#1,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,56,Ctbino,Ctbino56,3,medium crevices,0,8,6,1,0,1green3white#2,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,60,Ctbino,Ctbino60,3,medium crevices,5,5,6,0,0,1green3white#3,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,61,Ctbino,Ctbino61,3,medium crevices,0,3,0,0,0,1green3white#3,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,62,Ctbino,Ctbino62,3,medium crevices,0,8,0,0,0,1green3white#3,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,66,Ctbino,Ctbino66,3,medium crevices,1,12,0,0,0,1green3white#3,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,71,Ctbino,Ctbino71,3,medium crevices,0,7,0,0,0,1green3white#3,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,77,Ctbino,Ctbino77,3,medium crevices,0,0,0,2,0,1green3white#3,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,79,Ctbino,Ctbino79,3,medium crevices,0,5,0,0,0,1green3white#3,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,80,Ctbino,Ctbino80,3,medium crevices,0,0,7,5,0,1green3white#3,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,81,Ctbino,Ctbino81,3,medium crevices,0,10,1,0,5,1green3white#3,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,82,Ctbino,Ctbino82,3,medium crevices,1,0,0,0,0,1green3white#3,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,83,Ctbino,Ctbino83,3,medium crevices,0,4,2,3,4,1green3white#3,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,85,Ctbino,Ctbino85,3,medium crevices,0,3,0,3,0,1green3white#3,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,86,Ctbino,Ctbino86,3,medium crevices,0,2,0,0,0,1green3white#3,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,87,Ctbino,Ctbino87,3,medium crevices,2,0,1,2,0,1green3white#3,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,88,Ctbino,Ctbino88,3,medium crevices,0,5,0,0,0,1green3white#3,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,88,Ctbino,Ctbino88,3,medium crevices,0,3,0,0,0,1green3white#3,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,91,Ctbino,Ctbino91,3,medium crevices,0,3,0,0,0,1green3white#4,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,94,Ctbino,Ctbino94,3,medium crevices,3,15,2,6,0,1green3white#4,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,96,Ctbino,Ctbino96,3,medium crevices,0,3,0,0,0,1green3white#4,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,98,Ctbino,Ctbino98,3,medium crevices,3,14,2,7,0,1green3white#4,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,104,Ctbino,Ctbino104,3,medium crevices,0,3,0,0,0,1green3white#4,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,105,Ctbino,Ctbino105,3,medium crevices,0,0,5,0,2,1green3white#4,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,110,Ctbino,Ctbino110,3,medium crevices,0,2,0,0,0,1green3white#4,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,115,Ctbino,Ctbino115,3,medium crevices,0,0,0,1,0,1green3white#4,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,118,Ctbino,Ctbino118,3,medium crevices,1,9,1,9,0,1green3white#4,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,121,Ctbino,Ctbino121,3,medium crevices,0,4,0,0,0,1green3white#4,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,122,Ctbino,Ctbino122,3,medium crevices,1,0,0,0,1,1green3white#4,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,125,Ctbino,Ctbino125,3,medium crevices,1,13,0,8,0,1green3white#4,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,127,Ctbino,Ctbino127,3,medium crevices,0,2,0,0,0,1green3white#4,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,128,Ctbino,Ctbino128,3,medium crevices,0,3,0,0,0,1green3white#4,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,129,Ctbino,Ctbino129,3,medium crevices,0,0,1,2,0,1green3white#4,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,136,Ctbino,Ctbino136,3,medium crevices,0,0,1,0,0,1green3white#5,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,137,Ctbino,Ctbino137,3,medium crevices,0,4,0,0,0,1green3white#5,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,138,Ctbino,Ctbino138,3,medium crevices,3,4,0,0,0,1green3white#5,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,139,Ctbino,Ctbino139,3,medium crevices,6,0,1,3,0,1green3white#5,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,140,Ctbino,Ctbino140,3,medium crevices,2,0,0,2,0,1green3white#5,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,141,Ctbino,Ctbino141,3,medium crevices,3,0,0,4,0,1green3white#5,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,142,Ctbino,Ctbino142,3,medium crevices,18,8,2,3,0,1green3white#5,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,143,Ctbino,Ctbino143,3,medium crevices,3,0,4,7,2,1green3white#5,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,144,Ctbino,Ctbino144,3,medium crevices,1,0,0,3,0,1green3white#5,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,146,Ctbino,Ctbino146,3,medium crevices,0,0,2,0,0,1green3white#5,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,147,Ctbino,Ctbino147,3,medium crevices,1,0,0,0,0,1green3white#5,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,150,Ctbino,Ctbino150,3,medium crevices,1,5,1,2,0,1green3white#5,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,154,Ctbino,Ctbino154,3,medium crevices,0,2,0,0,0,1green3white#5,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,156,Ctbino,Ctbino156,3,medium crevices,0,0,0,4,0,1green3white#5,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,157,Ctbino,Ctbino157,3,medium crevices,0,3,0,0,0,1green3white#5,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,167,Ctbino,Ctbino167,3,medium crevices,0,12,0,0,0,1green3white#5,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,175,Ctbino,Ctbino175,3,medium crevices,0,7,0,0,0,1green3white#5,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,176,Ctbino,Ctbino176,3,medium crevices,0,0,0,2,0,1green3white#5,1 green + 3 white,29,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,177,Ctbino,Ctbino177,3,small crevices,2,0,0,0,0,1green3white#6,1 green + 3 white,28,5.45,5.75,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,178,Ctbino,Ctbino178,3,small crevices,3,6,0,10,0,1green3white#6,1 green + 3 white,28,5.45,5.75,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,179,Ctbino,Ctbino179,3,small crevices,0,3,0,0,0,1green3white#6,1 green + 3 white,28,5.45,5.75,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,180,Ctbino,Ctbino180,3,small crevices,8,8,2,0,1,1green3white#6,1 green + 3 white,28,5.45,5.75,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,181,Ctbino,Ctbino181,3,small crevices,0,3,0,0,0,1green3white#6,1 green + 3 white,28,5.45,5.75,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,183,Ctbino,Ctbino183,3,small crevices,5,3,1,0,1,1green3white#6,1 green + 3 white,28,5.45,5.75,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,186,Ctbino,Ctbino186,3,small crevices,0,8,1,1,0,1green3white#6,1 green + 3 white,28,5.45,5.75,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,38,Ctbino,Ctbino38,3,small crevices,0,3,0,0,0,1green3white#1,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,41,Ctbino,Ctbino41,3,small crevices,1,0,0,0,0,1green3white#1,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,42,Ctbino,Ctbino42,3,small crevices,0,0,3,5,2,1green3white#1,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,44,Ctbino,Ctbino44,3,small crevices,3,0,0,0,0,1green3white#1,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,46,Ctbino,Ctbino46,3,small crevices,3,8,0,0,0,1green3white#1,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,47,Ctbino,Ctbino47,3,small crevices,0,3,0,0,0,1green3white#2,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,48,Ctbino,Ctbino48,3,small crevices,4,0,0,0,0,1green3white#2,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,49,Ctbino,Ctbino49,3,small crevices,1,5,0,2,0,1green3white#2,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,50,Ctbino,Ctbino50,3,small crevices,2,14,0,0,4,1green3white#2,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,51,Ctbino,Ctbino51,3,small crevices,0,2,0,3,0,1green3white#2,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,53,Ctbino,Ctbino53,3,small crevices,3,3,4,0,3,1green3white#2,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,54,Ctbino,Ctbino54,3,small crevices,0,6,0,0,0,1green3white#2,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,55,Ctbino,Ctbino55,3,small crevices,3,2,0,0,0,1green3white#2,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,57,Ctbino,Ctbino57,3,small crevices,0,11,0,1,0,1green3white#2,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,57,Ctbino,Ctbino57,3,small crevices,0,4,0,0,0,1green3white#2,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,58,Ctbino,Ctbino58,3,small crevices,4,6,10,0,7,1green3white#2,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,59,Ctbino,Ctbino59,3,small crevices,2,9,4,0,0,1green3white#2,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,60,Ctbino,Ctbino60,3,small crevices,0,1,0,0,0,1green3white#3,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,63,Ctbino,Ctbino63,3,small crevices,0,5,0,0,0,1green3white#3,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,62,Ctbino,Ctbino62,3,small crevices,0,3,0,0,0,1green3white#3,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,64,Ctbino,Ctbino64,3,small crevices,0,0,2,4,0,1green3white#3,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,65,Ctbino,Ctbino65,3,small crevices,2,0,6,2,8,1green3white#3,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,71,Ctbino,Ctbino71,3,small crevices,0,3,0,0,0,1green3white#3,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,74,Ctbino,Ctbino74,3,small crevices,0,3,0,0,0,1green3white#3,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,79,Ctbino,Ctbino79,3,small crevices,0,12,0,3,0,1green3white#3,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,81,Ctbino,Ctbino81,3,small crevices,1,0,2,0,0,1green3white#3,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,84,Ctbino,Ctbino84,2,small crevices,0,3,0,0,0,1green3white#3,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,87,Ctbino,Ctbino87,3,small crevices,0,5,0,0,0,1green3white#3,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,88,Ctbino,Ctbino88,3,small crevices,1,0,0,0,0,1green3white#3,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,89,Ctbino,Ctbino89,3,small crevices,0,4,0,0,0,1green3white#4,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,95,Ctbino,Ctbino95,3,small crevices,0,4,0,0,0,1green3white#4,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,99,Ctbino,Ctbino99,3,small crevices,0,2,0,0,0,1green3white#4,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,101,Ctbino,Ctbino101,3,small crevices,0,8,0,0,0,1green3white#4,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,104,Ctbino,Ctbino104,3,small crevices,0,6,0,0,0,1green3white#4,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,105,Ctbino,Ctbino105,3,small crevices,0,0,2,0,0,1green3white#4,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,106,Ctbino,Ctbino106,3,small crevices,0,2,0,2,0,1green3white#4,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,107,Ctbino,Ctbino107,3,small crevices,0,6,0,0,0,1green3white#4,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,108,Ctbino,Ctbino108,3,small crevices,3,0,0,0,0,1green3white#4,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,109,Ctbino,Ctbino109,3,small crevices,0,5,0,0,0,1green3white#4,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,111,Ctbino,Ctbino111,3,small crevices,0,3,0,0,0,1green3white#4,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,112,Ctbino,Ctbino112,3,small crevices,0,2,0,0,0,1green3white#4,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,114,Ctbino,Ctbino114,3,small crevices,0,0,0,1,0,1green3white#4,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,116,Ctbino,Ctbino116,3,small crevices,0,6,0,0,0,1green3white#4,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,117,Ctbino,Ctbino117,3,small crevices,0,3,0,4,2,1green3white#4,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,120,Ctbino,Ctbino120,3,small crevices,0,6,0,0,0,1green3white#4,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,123,Ctbino,Ctbino123,3,small crevices,0,10,0,0,0,1green3white#4,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,125,Ctbino,Ctbino125,3,small crevices,0,0,6,0,0,1green3white#4,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,126,Ctbino,Ctbino126,3,small crevices,0,0,0,0,4,1green3white#4,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,130,Ctbino,Ctbino130,3,small crevices,0,5,0,0,0,1green3white#4,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,131,Ctbino,Ctbino131,3,small crevices,0,5,0,0,0,1green3white#4,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,132,Ctbino,Ctbino132,3,small crevices,0,5,0,2,0,1green3white#5,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,133,Ctbino,Ctbino133,3,small crevices,0,0,2,0,0,1green3white#5,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,135,Ctbino,Ctbino135,3,small crevices,0,1,0,0,2,1green3white#5,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,136,Ctbino,Ctbino136,3,small crevices,2,1,3,0,0,1green3white#5,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,139,Ctbino,Ctbino139,3,small crevices,1,1,0,1,1,1green3white#5,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,138,Ctbino,Ctbino138,3,small crevices,0,0,0,0,3,1green3white#5,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,144,Ctbino,Ctbino144,3,small crevices,0,0,0,5,0,1green3white#5,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,145,Ctbino,Ctbino145,3,small crevices,3,0,3,0,0,1green3white#5,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,148,Ctbino,Ctbino148,3,small crevices,3,5,3,6,1,1green3white#5,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,150,Ctbino,Ctbino150,3,small crevices,0,2,5,0,0,1green3white#5,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,153,Ctbino,Ctbino153,3,small crevices,3,5,0,0,0,1green3white#5,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,158,Ctbino,Ctbino158,3,small crevices,3,0,2,0,0,1green3white#5,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,159,Ctbino,Ctbino159,3,small crevices,0,14,0,0,0,1green3white#5,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,160,Ctbino,Ctbino160,3,small crevices,0,6,0,0,0,1green3white#5,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,162,Ctbino,Ctbino162,3,small crevices,0,9,0,0,0,1green3white#5,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,163,Ctbino,Ctbino163,3,small crevices,1,3,1,2,3,1green3white#5,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,164,Ctbino,Ctbino164,3,small crevices,1,0,0,0,0,1green3white#5,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,165,Ctbino,Ctbino165,3,small crevices,3,0,4,0,4,1green3white#5,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,168,Ctbino,Ctbino168,3,small crevices,1,5,0,0,0,1green3white#5,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,172,Ctbino,Ctbino172,3,small crevices,0,8,0,0,0,1green3white#5,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,173,Ctbino,Ctbino173,3,small crevices,2,4,0,0,0,1green3white#5,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,174,Ctbino,Ctbino174,3,small crevices,11,0,0,0,0,1green3white#5,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,36,Ctbino,Ctbino36,5,large crevices,4,0,0,0,0,1red3white#6,1 red + 3 white,99.2,12.46,12.76,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,1,Ctbino,Ctbino1,5,large crevices,3,1,2,4,0,1red3white#1,1 red + 3 white,99.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,4,Ctbino,Ctbino4,5,large crevices,0,6,0,0,0,1red3white#1,1 red + 3 white,99.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,9,Ctbino,Ctbino9,6,large crevices,4,0,0,0,0,1red3white#1,1 red + 3 white,99.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,10,Ctbino,Ctbino10,6,large crevices,0,3,0,0,0,1red3white#1,1 red + 3 white,99.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,10,Ctbino,Ctbino10,6,large crevices,0,11,0,2,0,1red3white#1,1 red + 3 white,99.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,10,Ctbino,Ctbino10,6,large crevices,3,13,0,1,0,1red3white#1,1 red + 3 white,99.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,11,Ctbino,Ctbino11,4,large crevices,3,0,0,0,0,1red3white#1,1 red + 3 white,99.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,20,Ctbino,Ctbino20,6,large crevices,7,13,0,0,0,1red3white#2,1 red + 3 white,99.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,21,Ctbino,Ctbino21,4,large crevices,3,0,0,0,0,1red3white#2,1 red + 3 white,99.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,22,Ctbino,Ctbino22,6,large crevices,13,6,0,0,0,1red3white#2,1 red + 3 white,99.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,23,Ctbino,Ctbino23,4,large crevices,7,0,0,0,0,1red3white#2,1 red + 3 white,99.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,24,Ctbino,Ctbino24,6,large crevices,0,5,1,4,1,1red3white#2,1 red + 3 white,99.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,26,Ctbino,Ctbino26,4,large crevices,0,0,0,1,1,1red3white#3,1 red + 3 white,99.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,27,Ctbino,Ctbino27,5,large crevices,2,7,0,1,0,1red3white#3,1 red + 3 white,99.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,28,Ctbino,Ctbino28,6,large crevices,5,6,0,0,0,1red3white#3,1 red + 3 white,99.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,29,Ctbino,Ctbino29,6,large crevices,2,0,0,0,0,1red3white#4,1 red + 3 white,99.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,31,Ctbino,Ctbino31,5,large crevices,0,2,0,0,0,1red3white#5,1 red + 3 white,99.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,33,Ctbino,Ctbino33,5,large crevices,1,2,0,0,0,1red3white#5,1 red + 3 white,99.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,35,Ctbino,Ctbino35,5,large crevices,0,4,0,0,0,1red3white#5,1 red + 3 white,99.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,36,Ctbino,Ctbino36,5,medium crevices,1,1,0,0,0,1red3white#6,1 red + 3 white,9.2,12.46,12.76,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,37,Ctbino,Ctbino37,4,medium crevices,7,5,0,0,0,1red3white#6,1 red + 3 white,9.2,12.46,12.76,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,4,Ctbino,Ctbino4,5,medium crevices,0,5,0,0,0,1red3white#1,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,5,Ctbino,Ctbino5,6,medium crevices,3,0,0,0,0,1red3white#1,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,6,Ctbino,Ctbino6,6,medium crevices,22,6,0,0,0,1red3white#1,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,8,Ctbino,Ctbino8,6,medium crevices,0,7,0,0,0,1red3white#1,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,9,Ctbino,Ctbino9,6,medium crevices,2,1,0,0,0,1red3white#1,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,11,Ctbino,Ctbino11,4,medium crevices,0,5,1,3,0,1red3white#1,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,10,Ctbino,Ctbino10,6,medium crevices,5,12,0,0,0,1red3white#1,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,10,Ctbino,Ctbino10,6,medium crevices,3,10,0,0,0,1red3white#1,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,11,Ctbino,Ctbino11,4,medium crevices,1,0,3,1,0,1red3white#1,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,12,Ctbino,Ctbino12,6,medium crevices,33,3,0,1,0,1red3white#2,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,13,Ctbino,Ctbino13,4,medium crevices,5,7,0,2,0,1red3white#2,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,14,Ctbino,Ctbino14,4,medium crevices,15,5,4,5,0,1red3white#2,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,15,Ctbino,Ctbino15,4,medium crevices,1,2,0,0,0,1red3white#2,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,16,Ctbino,Ctbino16,6,medium crevices,0,13,0,2,0,1red3white#2,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,17,Ctbino,Ctbino17,4,medium crevices,3,0,0,0,2,1red3white#2,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,18,Ctbino,Ctbino18,4,medium crevices,1,3,0,1,0,1red3white#2,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,18,Ctbino,Ctbino18,4,medium crevices,3,2,0,2,0,1red3white#2,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,19,Ctbino,Ctbino19,6,medium crevices,0,22,0,2,0,1red3white#2,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,20,Ctbino,Ctbino20,6,medium crevices,2,2,0,0,0,1red3white#2,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,22,Ctbino,Ctbino22,6,medium crevices,5,3,0,0,0,1red3white#2,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,23,Ctbino,Ctbino23,4,medium crevices,9,0,0,0,1,1red3white#2,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,24,Ctbino,Ctbino24,6,medium crevices,1,0,0,0,0,1red3white#2,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,25,Ctbino,Ctbino25,5,medium crevices,1,4,0,0,0,1red3white#3,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,26,Ctbino,Ctbino26,4,medium crevices,2,1,0,2,0,1red3white#3,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,28,Ctbino,Ctbino28,6,medium crevices,0,10,0,0,0,1red3white#3,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,29,Ctbino,Ctbino29,4,medium crevices,0,3,1,2,0,1red3white#3,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,30,Ctbino,Ctbino30,5,medium crevices,0,0,0,0,2,1red3white#5,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,34,Ctbino,Ctbino34,4,medium crevices,0,2,0,1,0,1red3white#5,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,37,Ctbino,Ctbino37,4,small crevices,1,0,0,0,0,1red3white#6,1 red + 3 white,87.2,12.46,12.76,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,1,Ctbino,Ctbino1,5,small crevices,0,0,0,2,0,1red3white#1,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,2,Ctbino,Ctbino2,5,small crevices,0,3,0,0,0,1red3white#1,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,3,Ctbino,Ctbino3,5,small crevices,0,6,0,0,0,1red3white#1,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,7,Ctbino,Ctbino7,4,small crevices,7,3,0,0,0,1red3white#1,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,8,Ctbino,Ctbino8,6,small crevices,3,12,0,6,0,1red3white#1,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,8,Ctbino,Ctbino8,6,small crevices,0,5,0,0,0,1red3white#1,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,18,Ctbino,Ctbino18,4,small crevices,0,1,0,0,0,1red3white#2,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,19,Ctbino,Ctbino19,6,small crevices,1,6,0,0,0,1red3white#2,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,24,Ctbino,Ctbino24,6,small crevices,0,1,0,0,0,1red3white#2,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,26,Ctbino,Ctbino26,4,small crevices,0,0,0,1,0,1red3white#3,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,27,Ctbino,Ctbino27,5,small crevices,1,0,0,0,0,1red3white#3,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,29,Ctbino,Ctbino29,4,small crevices,0,3,0,0,0,1red3white#3,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,32,Ctbino,Ctbino32,5,small crevices,0,2,0,0,0,1red3white#5,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,binotatus,Ctenochaetus binotatus,33,Ctbino,Ctbino33,5,small crevices,0,1,0,0,0,1red3white#5,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Ctenochaetus,striatus,Ctenochaetus striatus,21,Ctstr,Ctstr21,16,large crevices,1,2,0,0,0,1black#5,1 black,84.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Ctenochaetus,striatus,Ctenochaetus striatus,23,Ctstr,Ctstr23,16,large crevices,2,0,0,0,0,1black#5,1 black,84.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Ctenochaetus,striatus,Ctenochaetus striatus,24,Ctstr,Ctstr24,16,medium crevices,0,2,0,0,0,1black#6,1 black,97.2,16.48,16.18,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Ctenochaetus,striatus,Ctenochaetus striatus,22,Ctstr,Ctstr22,16,medium crevices,2,0,1,1,0,1black#5,1 black,97.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Ctenochaetus,striatus,Ctenochaetus striatus,23,Ctstr,Ctstr23,16,medium crevices,5,0,0,0,0,1black#5,1 black,97.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Ctenochaetus,striatus,Ctenochaetus striatus,23,Ctstr,Ctstr23,16,small crevices,1,1,0,0,0,1black#5,1 black,7.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Ctenochaetus,striatus,Ctenochaetus striatus,25,Ctstr,Ctstr25,16,large crevices,1,2,0,0,0,1green#3,1 green,27,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Ctenochaetus,striatus,Ctenochaetus striatus,27,Ctstr,Ctstr27,14,large crevices,1,2,0,0,0,1green#4,1 green,27,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Ctenochaetus,striatus,Ctenochaetus striatus,30,Ctstr,Ctstr30,16,large crevices,3,5,0,0,0,1green#5,1 green,27,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Ctenochaetus,striatus,Ctenochaetus striatus,31,Ctstr,Ctstr31,13,large crevices,0,2,0,0,0,1green#5,1 green,27,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Ctenochaetus,striatus,Ctenochaetus striatus,26,Ctstr,Ctstr26,17,medium crevices,0,2,0,0,0,1green#4,1 green,26,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Ctenochaetus,striatus,Ctenochaetus striatus,27,Ctstr,Ctstr27,14,medium crevices,2,0,0,0,0,1green#4,1 green,26,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Ctenochaetus,striatus,Ctenochaetus striatus,28,Ctstr,Ctstr28,16,medium crevices,1,0,0,2,0,1green#4,1 green,26,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Ctenochaetus,striatus,Ctenochaetus striatus,29,Ctstr,Ctstr29,15,medium crevices,2,0,0,0,0,1green#4,1 green,26,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Ctenochaetus,striatus,Ctenochaetus striatus,26,Ctstr,Ctstr26,17,small crevices,12,8,0,0,0,1green#4,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Ctenochaetus,striatus,Ctenochaetus striatus,29,Ctstr,Ctstr29,15,small crevices,0,5,0,0,0,1green#4,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Ctenochaetus,striatus,Ctenochaetus striatus,32,Ctstr,Ctstr32,13,small crevices,0,2,0,0,0,1green#5,1 green,25,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,striatus,Ctenochaetus striatus,20,Ctstr,Ctstr20,14,small crevices,1,3,0,0,0,1green3white#2,1 green + 3 white,28,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,striatus,Ctenochaetus striatus,19,Ctstr,Ctstr19,16,large crevices,10,7,0,1,0,1red3white#5,1 red + 3 white,99.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,striatus,Ctenochaetus striatus,19,Ctstr,Ctstr19,16,medium crevices,0,1,0,0,0,1red3white#5,1 red + 3 white,9.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,striatus,Ctenochaetus striatus,18,Ctstr,Ctstr18,17,small crevices,2,0,0,0,0,1red3white#3,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,striatus,Ctenochaetus striatus,19,Ctstr,Ctstr19,16,small crevices,4,2,0,1,0,1red3white#5,1 red + 3 white,87.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Ctenochaetus,striatus,Ctenochaetus striatus,33,Ctstr,Ctstr33,15,large crevices,0,1,0,0,0,1yellow#5,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,striatus,Ctenochaetus striatus,16,Ctstr,Ctstr16,13,large crevices,3,12,5,0,1,1yellow3white#6,1yellow+3white,22,16.11,16.18,lots of small blennies in crevices for whole set of videos,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,striatus,Ctenochaetus striatus,1,Ctstr,Ctstr1,18,large crevices,3,0,0,0,0,1yellow3white#1,1yellow+3white,22,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,striatus,Ctenochaetus striatus,5,Ctstr,Ctstr5,18,large crevices,1,0,0,0,1,1yellow3white#3,1yellow+3white,22,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,striatus,Ctenochaetus striatus,6,Ctstr,Ctstr6,19,large crevices,4,0,1,0,1,1yellow3white#3,1yellow+3white,22,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,striatus,Ctenochaetus striatus,12,Ctstr,Ctstr12,16,large crevices,1,0,0,0,2,1yellow3white#5,1yellow+3white,22,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,striatus,Ctenochaetus striatus,15,Ctstr,Ctstr15,12,large crevices,6,2,2,0,0,1yellow3white#5,1yellow+3white,22,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,recruitment,Ctenochaetus,striatus,Ctenochaetus striatus,17,Ctstr,Ctstr17,13,medium crevices,0,2,0,0,1,1yellow3white#6,1yellow+3white,23,16.11,16.18,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,striatus,Ctenochaetus striatus,17,Ctstr,Ctstr17,13,medium crevices,0,2,0,0,1,1yellow3white#6,1yellow+3white,23,16.11,16.18,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,striatus,Ctenochaetus striatus,2,Ctstr,Ctstr2,18,medium crevices,1,1,0,0,0,1yellow3white#1,1yellow+3white,23,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,striatus,Ctenochaetus striatus,3,Ctstr,Ctstr3,17,medium crevices,11,0,1,0,1,1yellow3white#2,1yellow+3white,23,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,striatus,Ctenochaetus striatus,4,Ctstr,Ctstr4,17,medium crevices,9,0,0,0,0,1yellow3white#2,1yellow+3white,23,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,striatus,Ctenochaetus striatus,7,Ctstr,Ctstr7,19,medium crevices,9,1,2,0,2,1yellow3white#3,1yellow+3white,23,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,striatus,Ctenochaetus striatus,8,Ctstr,Ctstr8,19,medium crevices,4,5,0,0,0,1yellow3white#3,1yellow+3white,23,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,striatus,Ctenochaetus striatus,9,Ctstr,Ctstr9,17,medium crevices,2,0,0,0,2,1yellow3white#4,1yellow+3white,23,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,striatus,Ctenochaetus striatus,10,Ctstr,Ctstr10,16,medium crevices,16,3,0,0,0,1yellow3white#4,1yellow+3white,23,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,striatus,Ctenochaetus striatus,11,Ctstr,Ctstr11,16,medium crevices,3,0,0,0,1,1yellow3white#5,1yellow+3white,23,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,striatus,Ctenochaetus striatus,13,Ctstr,Ctstr13,16,medium crevices,4,3,0,0,1,1yellow3white#5,1yellow+3white,23,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,striatus,Ctenochaetus striatus,14,Ctstr,Ctstr14,17,medium crevices,7,1,0,0,1,1yellow3white#5,1yellow+3white,23,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,recruitment,Ctenochaetus,striatus,Ctenochaetus striatus,6,Ctstr,Ctstr6,19,small crevices,5,0,0,0,0,1yellow3white#3,1yellow+3white,24,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,recruitment,Ctenochaetus,striatus,Ctenochaetus striatus,7,Ctstr,Ctstr7,19,small crevices,9,2,0,0,0,1yellow3white#3,1yellow+3white,24,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,75,jewel,jewel75,5,large crevices,3,0,0,0,0,1yellow#6,1 yellow,19.2,9.48,9.8,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,1,jewel,jewel1,5,large crevices,1,3,0,0,0,1yellow#1,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,4,jewel,jewel4,5,large crevices,2,1,0,0,0,1yellow#1,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,6,jewel,jewel6,5,large crevices,0,0,2,0,0,1yellow#2,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,7,jewel,jewel7,5,large crevices,0,2,0,0,0,1yellow#2,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,9,jewel,jewel9,5,large crevices,1,0,2,2,0,1yellow#2,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,10,jewel,jewel10,5,large crevices,0,1,0,1,0,1yellow#2,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,11,jewel,jewel11,5,large crevices,0,1,0,0,0,1yellow#2,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,12,jewel,jewel12,5,large crevices,0,1,2,0,0,1yellow#2,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,14,jewel,jewel14,5,large crevices,0,1,0,0,0,1yellow#2,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,14,jewel,jewel14,5,large crevices,0,1,0,0,0,1yellow#2,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,15,jewel,jewel15,5,large crevices,0,1,0,0,0,1yellow#2,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,16,jewel,jewel16,5,large crevices,0,1,0,0,0,1yellow#2,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,18,jewel,jewel18,5,large crevices,0,1,0,0,0,1yellow#2,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,19,jewel,jewel19,5,large crevices,6,5,0,0,0,1yellow#2,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,21,jewel,jewel21,5,large crevices,6,1,0,0,0,1yellow#2,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,22,jewel,jewel22,5,large crevices,0,1,0,0,0,1yellow#2,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,25,jewel,jewel25,5,large crevices,0,1,0,0,0,1yellow#2,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,26,jewel,jewel26,5,large crevices,2,0,0,0,0,1yellow#2,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,28,jewel,jewel28,5,large crevices,3,1,0,0,0,1yellow#2,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,29,jewel,jewel29,5,large crevices,0,2,0,0,0,1yellow#3,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,33,jewel,jewel33,5,large crevices,3,4,0,1,0,1yellow#3,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,33,jewel,jewel33,5,large crevices,2,0,1,0,0,1yellow#3,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,34,jewel,jewel34,5,large crevices,0,0,0,1,0,1yellow#3,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,36,jewel,jewel36,5,large crevices,4,0,0,0,0,1yellow#3,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,36,jewel,jewel36,5,large crevices,1,0,0,0,0,1yellow#3,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,37,jewel,jewel37,5,large crevices,2,0,0,0,0,1yellow#3,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,45,jewel,jewel45,5,large crevices,2,1,0,1,0,1yellow#3,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,46,jewel,jewel46,5,large crevices,0,1,0,1,0,1yellow#3,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,47,jewel,jewel47,5,large crevices,2,0,0,0,0,1yellow#3,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,49,jewel,jewel49,5,large crevices,1,2,0,0,0,1yellow#3,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,49,jewel,jewel49,5,large crevices,1,0,0,0,0,1yellow#4,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,50,jewel,jewel50,5,large crevices,1,0,0,0,0,1yellow#4,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,55,jewel,jewel55,5,large crevices,0,2,0,2,0,1yellow#4,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,55,jewel,jewel55,5,large crevices,1,1,0,0,0,1yellow#4,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,60,jewel,jewel60,5,large crevices,2,0,0,0,0,1yellow#4,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,62,jewel,jewel62,5,large crevices,1,1,0,0,0,1yellow#4,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,64,jewel,jewel64,5,large crevices,1,0,0,0,0,1yellow#5,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,65,jewel,jewel65,5,large crevices,0,1,0,0,0,1yellow#5,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,66,jewel,jewel66,5,large crevices,0,2,0,0,0,1yellow#5,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,66,jewel,jewel66,5,large crevices,1,2,0,0,0,1yellow#5,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,67,jewel,jewel67,5,large crevices,2,0,0,0,0,1yellow#5,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,68,jewel,jewel68,5,large crevices,1,1,0,1,0,1yellow#5,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,69,jewel,jewel69,5,large crevices,1,3,0,0,0,1yellow#5,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,70,jewel,jewel70,5,large crevices,1,0,0,1,0,1yellow#5,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,71,jewel,jewel71,5,large crevices,0,1,0,0,0,1yellow#5,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,73,jewel,jewel73,5,large crevices,0,3,0,0,0,1yellow#5,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,74,jewel,jewel74,5,large crevices,1,1,0,0,0,1yellow#5,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,75,jewel,jewel75,5,large crevices,1,0,0,0,0,1yellow#5,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,75,jewel,jewel75,5,large crevices,2,0,0,0,0,1yellow#5,1 yellow,19.2,26.05,26.083,,40.32,15.49736,9,18,89.18264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,75,jewel,jewel75,5,medium crevices,0,2,0,0,0,1yellow#5,1 yellow,22.2,9.48,9.8,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,75,jewel,jewel75,5,medium crevices,1,0,0,1,0,1yellow#6,1 yellow,22.2,9.48,9.8,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,76,jewel,jewel76,5,medium crevices,1,0,0,0,0,1yellow#6,1 yellow,22.2,9.48,9.8,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,79,jewel,jewel79,5,medium crevices,1,0,0,0,0,1yellow#6,1 yellow,22.2,9.48,9.8,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,2,jewel,jewel2,5,medium crevices,0,1,0,0,0,1yellow#1,1 yellow,22.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,5,jewel,jewel5,5,medium crevices,1,2,0,0,0,1yellow#1,1 yellow,22.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,10,jewel,jewel10,5,medium crevices,1,4,0,0,0,1yellow#2,1 yellow,22.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,11,jewel,jewel11,5,medium crevices,4,0,0,0,0,1yellow#2,1 yellow,22.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,13,jewel,jewel13,5,medium crevices,1,1,0,0,0,1yellow#2,1 yellow,22.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,15,jewel,jewel15,5,medium crevices,2,2,0,0,1,1yellow#2,1 yellow,22.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,17,jewel,jewel17,5,medium crevices,5,1,0,0,0,1yellow#2,1 yellow,22.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,20,jewel,jewel20,5,medium crevices,0,3,0,3,0,1yellow#2,1 yellow,22.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,23,jewel,jewel23,5,medium crevices,0,2,0,0,0,1yellow#2,1 yellow,22.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,24,jewel,jewel24,5,medium crevices,0,1,0,0,0,1yellow#2,1 yellow,22.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,25,jewel,jewel25,5,medium crevices,2,0,0,1,0,1yellow#2,1 yellow,22.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,27,jewel,jewel27,5,medium crevices,0,1,0,0,0,1yellow#2,1 yellow,22.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,29,jewel,jewel29,5,medium crevices,2,4,0,0,0,1yellow#3,1 yellow,22.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,30,jewel,jewel30,5,medium crevices,0,2,0,0,0,1yellow#3,1 yellow,22.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,31,jewel,jewel31,5,medium crevices,0,1,0,0,0,1yellow#3,1 yellow,22.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,32,jewel,jewel32,5,medium crevices,2,1,0,0,1,1yellow#3,1 yellow,22.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,33,jewel,jewel33,5,medium crevices,2,1,0,1,1,1yellow#3,1 yellow,22.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,37,jewel,jewel37,5,medium crevices,1,0,0,0,0,1yellow#3,1 yellow,22.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,38,jewel,jewel38,5,medium crevices,4,1,0,0,0,1yellow#3,1 yellow,22.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,39,jewel,jewel39,5,medium crevices,0,1,0,0,0,1yellow#3,1 yellow,22.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,40,jewel,jewel40,5,medium crevices,0,2,0,0,0,1yellow#3,1 yellow,22.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,42,jewel,jewel42,5,medium crevices,1,0,0,0,0,1yellow#3,1 yellow,22.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,46,jewel,jewel46,5,medium crevices,0,2,0,0,0,1yellow#3,1 yellow,22.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,47,jewel,jewel47,5,medium crevices,0,3,0,0,1,1yellow#3,1 yellow,22.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,47,jewel,jewel47,5,medium crevices,3,1,0,0,1,1yellow#3,1 yellow,22.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,48,jewel,jewel48,5,medium crevices,2,0,0,2,0,1yellow#3,1 yellow,22.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,49,jewel,jewel49,5,medium crevices,2,0,0,0,0,1yellow#3,1 yellow,22.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,49,jewel,jewel49,5,medium crevices,2,1,0,0,0,1yellow#3,1 yellow,22.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,51,jewel,jewel51,5,medium crevices,0,2,0,0,1,1yellow#4,1 yellow,22.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,52,jewel,jewel52,5,medium crevices,0,1,0,0,0,1yellow#4,1 yellow,22.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,55,jewel,jewel55,5,medium crevices,1,0,0,2,1,1yellow#4,1 yellow,22.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,56,jewel,jewel56,5,medium crevices,1,2,0,1,0,1yellow#4,1 yellow,22.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,57,jewel,jewel57,5,medium crevices,0,0,0,1,0,1yellow#4,1 yellow,22.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,58,jewel,jewel58,5,medium crevices,1,0,0,0,1,1yellow#4,1 yellow,22.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,60,jewel,jewel60,5,medium crevices,0,1,0,0,0,1yellow#4,1 yellow,22.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,61,jewel,jewel61,5,medium crevices,2,0,0,0,0,1yellow#4,1 yellow,22.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,63,jewel,jewel63,5,medium crevices,0,1,0,0,0,1yellow#4,1 yellow,22.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,64,jewel,jewel64,5,medium crevices,0,1,0,0,1,1yellow#5,1 yellow,22.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,65,jewel,jewel65,5,medium crevices,0,1,0,0,0,1yellow#5,1 yellow,22.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,67,jewel,jewel67,5,medium crevices,1,1,0,0,0,1yellow#5,1 yellow,22.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,69,jewel,jewel69,5,medium crevices,1,2,0,0,0,1yellow#5,1 yellow,22.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,70,jewel,jewel70,5,medium crevices,1,0,0,0,0,1yellow#5,1 yellow,22.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,71,jewel,jewel71,5,medium crevices,1,1,0,0,1,1yellow#5,1 yellow,22.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,72,jewel,jewel72,5,medium crevices,2,0,0,2,1,1yellow#5,1 yellow,22.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,74,jewel,jewel74,5,medium crevices,0,2,0,0,0,1yellow#5,1 yellow,22.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,75,jewel,jewel75,5,medium crevices,1,0,0,0,0,1yellow#5,1 yellow,22.2,26.05,26.083,,34.56,18,10.74736,27,76.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,75,jewel,jewel75,5,small crevices,2,0,0,0,0,1yellow#6,1 yellow,103.2,9.48,9.8,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,76,jewel,jewel76,5,small crevices,0,2,0,0,2,1yellow#6,1 yellow,103.2,9.48,9.8,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,77,jewel,jewel77,5,small crevices,0,2,0,0,0,1yellow#6,1 yellow,103.2,9.48,9.8,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,78,jewel,jewel78,5,small crevices,1,2,0,0,1,1yellow#6,1 yellow,103.2,9.48,9.8,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,80,jewel,jewel80,5,small crevices,0,3,0,0,0,1yellow#6,1 yellow,103.2,9.48,9.8,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,81,jewel,jewel81,5,small crevices,2,1,0,0,1,1yellow#6,1 yellow,103.2,9.48,9.8,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,1,jewel,jewel1,5,small crevices,9,6,0,0,0,1yellow#1,1 yellow,103.2,26.05,26.083,very well possible this is all the same jewel damsel individual,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,3,jewel,jewel3,5,small crevices,0,1,0,0,0,1yellow#1,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,7,jewel,jewel7,5,small crevices,1,0,0,0,0,1yellow#2,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,8,jewel,jewel8,5,small crevices,2,2,0,0,0,1yellow#2,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,15,jewel,jewel15,5,small crevices,2,2,0,0,0,1yellow#2,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,16,jewel,jewel16,5,small crevices,1,0,0,1,0,1yellow#2,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,20,jewel,jewel20,5,small crevices,5,2,0,0,0,1yellow#2,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,21,jewel,jewel21,5,small crevices,0,1,0,0,0,1yellow#2,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,22,jewel,jewel22,5,small crevices,2,1,0,0,0,1yellow#2,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,24,jewel,jewel24,5,small crevices,0,3,0,0,0,1yellow#2,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,31,jewel,jewel31,5,small crevices,3,1,0,0,1,1yellow#3,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,33,jewel,jewel33,5,small crevices,0,3,0,0,0,1yellow#3,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,35,jewel,jewel35,5,small crevices,0,1,0,1,0,1yellow#3,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,36,jewel,jewel36,5,small crevices,3,7,0,1,0,1yellow#3,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,36,jewel,jewel36,5,small crevices,2,1,0,0,0,1yellow#3,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,37,jewel,jewel37,5,small crevices,2,1,0,0,0,1yellow#3,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,41,jewel,jewel41,5,small crevices,1,2,0,0,0,1yellow#3,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,43,jewel,jewel43,5,small crevices,0,6,0,0,0,1yellow#3,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,44,jewel,jewel44,5,small crevices,0,1,0,0,0,1yellow#3,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,45,jewel,jewel45,5,small crevices,0,6,0,1,0,1yellow#3,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,46,jewel,jewel46,5,small crevices,0,1,0,0,0,1yellow#3,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,47,jewel,jewel47,5,small crevices,0,3,0,0,0,1yellow#3,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,48,jewel,jewel48,5,small crevices,1,1,0,0,0,1yellow#3,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,49,jewel,jewel49,5,small crevices,3,2,0,0,0,1yellow#3,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,49,jewel,jewel49,5,small crevices,0,0,0,1,0,1yellow#4,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,51,jewel,jewel51,5,small crevices,2,3,0,0,1,1yellow#4,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,52,jewel,jewel52,5,small crevices,1,2,0,0,0,1yellow#4,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,53,jewel,jewel53,5,small crevices,1,2,0,0,0,1yellow#4,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,54,jewel,jewel54,5,small crevices,1,1,0,0,0,1yellow#4,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,56,jewel,jewel56,5,small crevices,3,5,0,0,0,1yellow#4,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,59,jewel,jewel59,5,small crevices,0,2,0,2,0,1yellow#4,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,60,jewel,jewel60,5,small crevices,1,2,0,2,0,1yellow#4,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,61,jewel,jewel61,5,small crevices,0,4,0,1,0,1yellow#4,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,61,jewel,jewel61,5,small crevices,0,1,0,1,0,1yellow#4,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,62,jewel,jewel62,5,small crevices,1,3,0,0,0,1yellow#4,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,62,jewel,jewel62,5,small crevices,2,2,0,0,0,1yellow#4,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,63,jewel,jewel63,5,small crevices,0,2,0,0,0,1yellow#4,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,63,jewel,jewel63,5,small crevices,2,0,0,0,0,1yellow#4,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,64,jewel,jewel64,5,small crevices,0,1,0,0,0,1yellow#5,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,64,jewel,jewel64,5,small crevices,1,1,0,0,0,1yellow#5,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,65,jewel,jewel65,5,small crevices,2,0,0,0,0,1yellow#5,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,66,jewel,jewel66,5,small crevices,0,1,0,0,0,1yellow#5,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,66,jewel,jewel66,5,small crevices,0,4,0,0,0,1yellow#5,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,67,jewel,jewel67,5,small crevices,3,8,0,1,0,1yellow#5,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,67,jewel,jewel67,5,small crevices,0,1,0,0,0,1yellow#5,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,68,jewel,jewel68,5,small crevices,2,3,0,0,0,1yellow#5,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,58,jewel,jewel58,5,small crevices,0,1,0,0,0,1yellow#5,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,69,jewel,jewel69,5,small crevices,1,2,0,0,0,1yellow#5,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,69,jewel,jewel69,5,small crevices,3,1,0,0,0,1yellow#5,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,70,jewel,jewel70,5,small crevices,1,0,0,0,0,1yellow#5,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,73,jewel,jewel73,5,small crevices,0,1,0,0,0,1yellow#5,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,74,jewel,jewel74,5,small crevices,3,0,0,1,0,1yellow#5,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264
+Lighthouse Reef,Lob growth,Plectroglyphidodon,lacrymatus,Plectroglyphidodon lacrymatus,75,jewel,jewel75,5,small crevices,4,2,0,2,1,1yellow#5,1 yellow,103.2,26.05,26.083,,34.56,9.6,10.74736,14.4,97.89264

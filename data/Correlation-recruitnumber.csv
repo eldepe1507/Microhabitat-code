@@ -1,0 +1,1216 @@
+colour.in.videos,tile.number,Treatment,Crevice.kind,Location,Unique.location,number.LOB.before,number.otherMA.before,number.unknown.before,number.Lob.after,number.otherMA.after,number.unknown.after,number.LOB.removed,number.otherMA.removed,number.unknown.removed
+yellow,8,caged control,large,a1,8.a1,0,1,0,0,1,0,0,0,0
+yellow,8,caged control,large,a2,8.a2,1,1,0,1,1,0,0,0,0
+yellow,8,caged control,large,a3,8.a3,0,0,0,0,0,0,0,0,0
+yellow,8,caged control,large,a4,8.a4,3,0,0,3,0,0,0,0,0
+yellow,8,caged control,large,a5,8.a5,1,1,0,1,1,0,0,0,0
+yellow,8,caged control,large,a6,8.a6,2,5,0,2,5,0,0,0,0
+yellow,8,caged control,large,a7,8.a7,3,0,0,3,0,0,0,0,0
+yellow,8,caged control,large,a8,8.a8,2,0,0,2,0,0,0,0,0
+yellow,8,caged control,large,a9,8.a9,0,0,0,0,0,0,0,0,0
+yellow,8,caged control,large,b1,8.b1,1,0,0,1,0,0,0,0,0
+yellow,8,caged control,large,b2,8.b2,4,7,0,4,7,0,0,0,0
+yellow,8,caged control,large,b3,8.b3,2,2,0,2,2,0,0,0,0
+yellow,8,caged control,large,b4,8.b4,0,4,0,0,4,0,0,0,0
+yellow,8,caged control,large,b5,8.b5,1,5,0,1,5,0,0,0,0
+yellow,8,caged control,large,b6,8.b6,5,5,0,5,5,0,0,0,0
+yellow,8,caged control,large,b7,8.b7,2,3,1,2,3,1,0,0,0
+yellow,8,caged control,large,b8,8.b8,3,5,0,3,5,0,0,0,0
+yellow,8,caged control,large,b9,8.b9,4,2,0,4,2,0,0,0,0
+yellow,8,caged control,large,c1,8.c1,0,1,0,0,1,0,0,0,0
+yellow,8,caged control,large,c2,8.c2,2,2,0,2,2,0,0,0,0
+yellow,8,caged control,large,c3,8.c3,2,1,0,2,1,0,0,0,0
+yellow,8,caged control,large,c4,8.c4,1,4,1,1,4,1,0,0,0
+yellow,8,caged control,large,c5,8.c5,3,2,0,3,2,0,0,0,0
+yellow,8,caged control,large,c6,8.c6,3,0,0,3,0,0,0,0,0
+yellow,8,caged control,large,c7,8.c7,5,3,0,5,3,0,0,0,0
+yellow,8,caged control,large,c8,8.c8,6,2,0,6,2,0,0,0,0
+yellow,8,caged control,large,c9,8.c9,1,1,0,1,1,0,0,0,0
+yellow,8,caged control,large,d1,8.d1,0,0,0,0,0,0,0,0,0
+yellow,8,caged control,large,d2,8.d2,2,5,0,2,5,0,0,0,0
+yellow,8,caged control,large,d3,8.d3,2,5,0,2,5,0,0,0,0
+yellow,8,caged control,large,d4,8.d4,2,1,0,2,1,0,0,0,0
+yellow,8,caged control,large,d5,8.d5,0,0,0,0,0,0,0,0,0
+yellow,8,caged control,large,d6,8.d6,3,4,1,3,4,1,0,0,0
+yellow,8,caged control,large,d7,8.d7,2,2,2,2,0,2,0,2,0
+yellow,8,caged control,large,d8,8.d8,3,3,0,3,3,0,0,0,0
+yellow,8,caged control,large,d9,8.d9,1,1,0,1,1,0,0,0,0
+yellow,8,caged control,large,e1,8.e1,0,0,0,0,0,0,0,0,0
+yellow,8,caged control,large,e2,8.e2,1,4,0,1,4,0,0,0,0
+yellow,8,caged control,large,e3,8.e3,6,1,0,6,1,0,0,0,0
+yellow,8,caged control,large,e4,8.e4,5,8,0,5,8,0,0,0,0
+yellow,8,caged control,large,e5,8.e5,6,0,0,6,0,0,0,0,0
+yellow,8,caged control,large,e6,8.e6,3,2,1,3,2,1,0,0,0
+yellow,8,caged control,large,e7,8.e7,4,2,0,4,2,0,0,0,0
+yellow,8,caged control,large,e8,8.e8,1,2,1,1,2,1,0,0,0
+yellow,8,caged control,large,e9,8.e9,1,0,0,1,0,0,0,0,0
+yellow,8,caged control,large,f1,8.f1,1,0,0,1,0,0,0,0,0
+yellow,8,caged control,large,f2,8.f2,2,4,0,2,4,0,0,0,0
+yellow,8,caged control,large,f3,8.f3,1,4,0,1,4,0,0,0,0
+yellow,8,caged control,large,f4,8.f4,2,5,0,2,5,0,0,0,0
+yellow,8,caged control,large,f5,8.f5,0,0,0,0,0,0,0,0,0
+yellow,8,caged control,large,f6,8.f6,2,3,1,2,3,1,0,0,0
+yellow,8,caged control,large,f7,8.f7,0,1,0,0,1,0,0,0,0
+yellow,8,caged control,large,f8,8.f8,5,3,0,5,3,0,0,0,0
+yellow,8,caged control,large,f9,8.f9,3,2,0,3,2,0,0,0,0
+yellow,8,caged control,large,g1,8.g1,1,1,0,1,1,0,0,0,0
+yellow,8,caged control,large,g2,8.g2,1,3,0,1,3,0,0,0,0
+yellow,8,caged control,large,g3,8.g3,7,4,0,7,4,0,0,0,0
+yellow,8,caged control,large,g4,8.g4,1,1,0,1,1,0,0,0,0
+yellow,8,caged control,large,g5,8.g5,0,3,0,0,3,0,0,0,0
+yellow,8,caged control,large,g6,8.g6,1,6,0,1,6,0,0,0,0
+yellow,8,caged control,large,g7,8.g7,2,1,0,2,1,0,0,0,0
+yellow,8,caged control,large,g8,8.g8,8,8,0,8,8,0,0,0,0
+yellow,8,caged control,large,g9,8.g9,2,0,0,2,0,0,0,0,0
+yellow,8,caged control,large,h1,8.h1,1,2,0,1,2,0,0,0,0
+yellow,8,caged control,large,h2,8.h2,2,4,0,2,4,0,0,0,0
+yellow,8,caged control,large,h3,8.h3,1,2,0,1,2,0,0,0,0
+yellow,8,caged control,large,h4,8.h4,2,4,0,2,4,0,0,0,0
+yellow,8,caged control,large,h5,8.h5,0,2,0,0,2,0,0,0,0
+yellow,8,caged control,large,h6,8.h6,2,1,0,2,1,0,0,0,0
+yellow,8,caged control,large,h7,8.h7,7,6,0,7,6,0,0,0,0
+yellow,8,caged control,large,h8,8.h8,2,3,0,2,3,0,0,0,0
+yellow,8,caged control,large,h9,8.h9,2,4,0,2,4,0,0,0,0
+yellow,8,caged control,large,i1,8.i1,1,0,0,1,0,0,0,0,0
+yellow,8,caged control,large,i2,8.i2,3,1,0,3,1,0,0,0,0
+yellow,8,caged control,large,i3,8.i3,0,2,0,0,2,0,0,0,0
+yellow,8,caged control,large,i4,8.i4,1,1,0,1,1,0,0,0,0
+yellow,8,caged control,large,i5,8.i5,1,0,0,1,0,0,0,0,0
+yellow,8,caged control,large,i6,8.i6,4,0,0,4,0,0,0,0,0
+yellow,8,caged control,large,i7,8.i7,0,1,0,0,1,0,0,0,0
+yellow,8,caged control,large,i8,8.i8,1,0,0,1,0,0,0,0,0
+yellow,8,caged control,large,i9,8.i9,0,2,0,0,2,0,0,0,0
+green,45,caged control,large,a1,45.a1,0,0,0,0,0,0,0,0,0
+green,45,caged control,large,a2,45.a2,0,0,0,0,0,0,0,0,0
+green,45,caged control,large,a3,45.a3,0,0,0,0,0,0,0,0,0
+green,45,caged control,large,a4,45.a4,1,0,0,1,0,0,0,0,0
+green,45,caged control,large,a5,45.a5,0,1,0,0,1,0,0,0,0
+green,45,caged control,large,a6,45.a6,2,0,0,2,0,0,0,0,0
+green,45,caged control,large,a7,45.a7,0,1,0,0,1,0,0,0,0
+green,45,caged control,large,a8,45.a8,0,0,0,0,0,0,0,0,0
+green,45,caged control,large,a9,45.a9,0,0,0,0,0,0,0,0,0
+green,45,caged control,large,b1,45.b1,0,0,0,0,0,0,0,0,0
+green,45,caged control,large,b2,45.b2,1,3,0,0,3,0,1,0,0
+green,45,caged control,large,b3,45.b3,2,4,0,2,4,0,0,0,0
+green,45,caged control,large,b4,45.b4,0,2,0,0,2,0,0,0,0
+green,45,caged control,large,b5,45.b5,1,2,0,1,2,0,0,0,0
+green,45,caged control,large,b6,45.b6,0,4,0,0,4,0,0,0,0
+green,45,caged control,large,b7,45.b7,0,8,0,0,8,0,0,0,0
+green,45,caged control,large,b8,45.b8,0,9,0,0,9,0,0,0,0
+green,45,caged control,large,b9,45.b9,0,0,0,0,0,0,0,0,0
+green,45,caged control,large,c1,45.c1,0,0,0,0,0,0,0,0,0
+green,45,caged control,large,c2,45.c2,0,2,0,0,2,0,0,0,0
+green,45,caged control,large,c3,45.c3,0,1,0,0,1,0,0,0,0
+green,45,caged control,large,c4,45.c4,1,3,0,0,3,0,1,0,0
+green,45,caged control,large,c5,45.c5,0,0,0,0,0,0,0,0,0
+green,45,caged control,large,c6,45.c6,1,1,0,1,1,0,0,0,0
+green,45,caged control,large,c7,45.c7,0,5,0,0,5,0,0,0,0
+green,45,caged control,large,c8,45.c8,1,1,0,1,1,0,0,0,0
+green,45,caged control,large,c9,45.c9,0,1,0,0,1,0,0,0,0
+green,45,caged control,large,d1,45.d1,0,0,0,0,0,0,0,0,0
+green,45,caged control,large,d2,45.d2,0,6,0,0,6,0,0,0,0
+green,45,caged control,large,d3,45.d3,1,1,0,1,1,0,0,0,0
+green,45,caged control,large,d4,45.d4,0,7,0,0,7,0,0,0,0
+green,45,caged control,large,d5,45.d5,1,3,0,1,3,0,0,0,0
+green,45,caged control,large,d6,45.d6,0,2,0,0,2,0,0,0,0
+green,45,caged control,large,d7,45.d7,0,0,0,0,0,0,0,0,0
+green,45,caged control,large,d8,45.d8,0,6,0,0,6,0,0,0,0
+green,45,caged control,large,d9,45.d9,0,0,0,0,0,0,0,0,0
+green,45,caged control,large,e1,45.e1,1,0,0,0,0,0,1,0,0
+green,45,caged control,large,e2,45.e2,1,2,0,1,2,0,0,0,0
+green,45,caged control,large,e3,45.e3,0,0,0,0,0,0,0,0,0
+green,45,caged control,large,e4,45.e4,0,5,0,0,5,0,0,0,0
+green,45,caged control,large,e5,45.e5,0,3,0,0,3,0,0,0,0
+green,45,caged control,large,e6,45.e6,0,4,0,0,4,0,0,0,0
+green,45,caged control,large,e7,45.e7,0,5,0,0,4,0,0,1,0
+green,45,caged control,large,e8,45.e8,1,1,0,1,1,0,0,0,0
+green,45,caged control,large,e9,45.e9,0,0,0,0,0,0,0,0,0
+green,45,caged control,large,f1,45.f1,0,0,0,0,0,0,0,0,0
+green,45,caged control,large,f2,45.f2,0,1,0,0,1,0,0,0,0
+green,45,caged control,large,f3,45.f3,1,1,0,1,1,0,0,0,0
+green,45,caged control,large,f4,45.f4,0,3,0,0,3,0,0,0,0
+green,45,caged control,large,f5,45.f5,1,2,0,1,2,0,0,0,0
+green,45,caged control,large,f6,45.f6,0,4,0,0,4,0,0,0,0
+green,45,caged control,large,f7,45.f7,1,5,0,1,5,0,0,0,0
+green,45,caged control,large,f8,45.f8,0,4,0,0,4,0,0,0,0
+green,45,caged control,large,f9,45.f9,0,0,0,0,0,0,0,0,0
+green,45,caged control,large,g1,45.g1,0,0,0,0,0,0,0,0,0
+green,45,caged control,large,g2,45.g2,0,2,0,0,2,0,0,0,0
+green,45,caged control,large,g3,45.g3,1,4,0,1,4,0,0,0,0
+green,45,caged control,large,g4,45.g4,0,5,0,0,5,0,0,0,0
+green,45,caged control,large,g5,45.g5,0,14,0,0,14,0,0,0,0
+green,45,caged control,large,g6,45.g6,0,2,0,0,2,0,0,0,0
+green,45,caged control,large,g7,45.g7,1,22,0,1,19,0,0,3,0
+green,45,caged control,large,g8,45.g8,0,6,0,0,6,0,0,0,0
+green,45,caged control,large,g9,45.g9,0,2,0,0,2,0,0,0,0
+green,45,caged control,large,h1,45.h1,0,0,0,0,0,0,0,0,0
+green,45,caged control,large,h2,45.h2,0,2,0,0,2,0,0,0,0
+green,45,caged control,large,h3,45.h3,1,3,0,1,3,0,0,0,0
+green,45,caged control,large,h4,45.h4,0,9,0,0,9,0,0,0,0
+green,45,caged control,large,h5,45.h5,0,0,0,0,0,0,0,0,0
+green,45,caged control,large,h6,45.h6,1,7,0,1,7,0,0,0,0
+green,45,caged control,large,h7,45.h7,1,1,0,1,1,0,0,0,0
+green,45,caged control,large,h8,45.h8,0,6,0,0,6,0,0,0,0
+green,45,caged control,large,h9,45.h9,1,1,0,1,1,0,0,0,0
+green,45,caged control,large,i1,45.i1,1,0,0,1,0,0,0,0,0
+green,45,caged control,large,i2,45.i2,0,0,0,0,0,0,0,0,0
+green,45,caged control,large,i3,45.i3,0,0,0,0,0,0,0,0,0
+green,45,caged control,large,i4,45.i4,0,2,0,0,2,0,0,0,0
+green,45,caged control,large,i5,45.i5,0,0,0,0,0,0,0,0,0
+green,45,caged control,large,i6,45.i6,0,2,0,0,2,0,0,0,0
+green,45,caged control,large,i7,45.i7,2,2,0,2,2,0,0,0,0
+green,45,caged control,large,i8,45.i8,0,1,0,0,1,0,0,0,0
+green,45,caged control,large,i9,45.i9,0,1,0,0,1,0,0,0,0
+red,71,accessible,large,a1,71.a1,0,0,0,0,0,0,0,0,0
+red,71,accessible,large,a2,71.a2,0,2,0,0,2,0,0,0,0
+red,71,accessible,large,a3,71.a3,1,0,0,0,0,0,1,0,0
+red,71,accessible,large,a4,71.a4,0,1,0,0,1,0,0,0,0
+red,71,accessible,large,a5,71.a5,0,0,0,0,0,0,0,0,0
+red,71,accessible,large,a6,71.a6,1,0,0,0,0,0,1,0,0
+red,71,accessible,large,a7,71.a7,0,0,0,0,0,0,0,0,0
+red,71,accessible,large,a8,71.a8,0,0,0,0,0,0,0,0,0
+red,71,accessible,large,a9,71.a9,0,0,0,0,0,0,0,0,0
+red,71,accessible,large,b1,71.b1,3,1,0,3,1,0,0,0,0
+red,71,accessible,large,b2,71.b2,3,2,0,3,2,0,0,0,0
+red,71,accessible,large,b3,71.b3,0,1,0,0,1,0,0,0,0
+red,71,accessible,large,b4,71.b4,1,1,0,0,1,0,1,0,0
+red,71,accessible,large,b5,71.b5,1,8,0,1,8,0,0,0,0
+red,71,accessible,large,b6,71.b6,2,2,0,1,0,0,1,2,0
+red,71,accessible,large,b7,71.b7,0,7,0,0,7,0,0,0,0
+red,71,accessible,large,b8,71.b8,2,1,1,2,1,1,0,0,0
+red,71,accessible,large,b9,71.b9,0,0,0,0,0,0,0,0,0
+red,71,accessible,large,c1,71.c1,2,2,0,2,2,0,0,0,0
+red,71,accessible,large,c2,71.c2,2,1,4,2,1,4,0,0,0
+red,71,accessible,large,c3,71.c3,1,0,0,1,0,0,0,0,0
+red,71,accessible,large,c4,71.c4,0,1,0,0,1,0,0,0,0
+red,71,accessible,large,c5,71.c5,2,1,0,1,1,0,1,0,0
+red,71,accessible,large,c6,71.c6,1,0,0,1,0,0,0,0,0
+red,71,accessible,large,c7,71.c7,1,0,0,1,0,0,0,0,0
+red,71,accessible,large,c8,71.c8,0,7,0,0,7,0,0,0,0
+red,71,accessible,large,c9,71.c9,0,1,0,0,1,0,0,0,0
+red,71,accessible,large,d1,71.d1,1,0,0,1,0,0,0,0,0
+red,71,accessible,large,d2,71.d2,3,7,0,3,7,0,0,0,0
+red,71,accessible,large,d3,71.d3,4,1,0,4,1,0,0,0,0
+red,71,accessible,large,d4,71.d4,2,4,0,2,2,0,0,2,0
+red,71,accessible,large,d5,71.d5,2,2,1,2,2,1,0,0,0
+red,71,accessible,large,d6,71.d6,1,2,0,1,2,0,0,0,0
+red,71,accessible,large,d7,71.d7,1,0,0,1,0,0,0,0,0
+red,71,accessible,large,d8,71.d8,0,2,0,0,2,0,0,0,0
+red,71,accessible,large,d9,71.d9,1,1,0,1,1,0,0,0,0
+red,71,accessible,large,e1,71.e1,2,1,0,2,1,0,0,0,0
+red,71,accessible,large,e2,71.e2,4,1,0,4,1,0,0,0,0
+red,71,accessible,large,e3,71.e3,7,5,0,7,5,0,0,0,0
+red,71,accessible,large,e4,71.e4,1,5,0,1,4,0,0,1,0
+red,71,accessible,large,e5,71.e5,2,1,0,1,1,0,1,0,0
+red,71,accessible,large,e6,71.e6,2,1,0,2,1,0,0,0,0
+red,71,accessible,large,e7,71.e7,0,1,0,0,1,0,0,0,0
+red,71,accessible,large,e8,71.e8,2,11,0,2,8,0,0,3,0
+red,71,accessible,large,e9,71.e9,0,0,0,0,0,0,0,0,0
+red,71,accessible,large,f1,71.f1,1,2,0,1,2,0,0,0,0
+red,71,accessible,large,f2,71.f2,2,7,0,1,7,0,1,0,0
+red,71,accessible,large,f3,71.f3,2,1,0,2,1,0,0,0,0
+red,71,accessible,large,f4,71.f4,2,4,0,2,4,0,0,0,0
+red,71,accessible,large,f5,71.f5,0,0,1,0,0,1,0,0,0
+red,71,accessible,large,f6,71.f6,0,3,0,0,3,0,0,0,0
+red,71,accessible,large,f7,71.f7,0,5,0,0,5,0,0,0,0
+red,71,accessible,large,f8,71.f8,3,3,0,2,1,0,1,2,0
+red,71,accessible,large,f9,71.f9,0,2,0,0,2,0,0,0,0
+red,71,accessible,large,g1,71.g1,1,0,1,1,0,1,0,0,0
+red,71,accessible,large,g2,71.g2,2,2,0,2,2,0,0,0,0
+red,71,accessible,large,g3,71.g3,3,3,0,3,3,0,0,0,0
+red,71,accessible,large,g4,71.g4,4,3,3,4,3,3,0,0,0
+red,71,accessible,large,g5,71.g5,9,10,0,9,9,0,0,1,0
+red,71,accessible,large,g6,71.g6,9,0,0,9,0,0,0,0,0
+red,71,accessible,large,g7,71.g7,0,3,0,0,3,0,0,0,0
+red,71,accessible,large,g8,71.g8,2,2,0,2,2,0,0,0,0
+red,71,accessible,large,g9,71.g9,0,3,0,0,3,0,0,0,0
+red,71,accessible,large,h1,71.h1,1,0,1,1,0,1,0,0,0
+red,71,accessible,large,h2,71.h2,7,1,0,4,1,0,3,0,0
+red,71,accessible,large,h3,71.h3,3,2,1,3,2,1,0,0,0
+red,71,accessible,large,h4,71.h4,0,1,0,0,1,0,0,0,0
+red,71,accessible,large,h5,71.h5,3,2,0,3,2,0,0,0,0
+red,71,accessible,large,h6,71.h6,1,5,1,1,5,1,0,0,0
+red,71,accessible,large,h7,71.h7,6,2,1,6,2,1,0,0,0
+red,71,accessible,large,h8,71.h8,1,2,0,1,2,0,0,0,0
+red,71,accessible,large,h9,71.h9,1,0,0,1,0,0,0,0,0
+red,71,accessible,large,i1,71.i1,0,0,0,0,0,0,0,0,0
+red,71,accessible,large,i2,71.i2,0,0,0,0,0,0,0,0,0
+red,71,accessible,large,i3,71.i3,1,0,0,1,0,0,0,0,0
+red,71,accessible,large,i4,71.i4,1,0,0,1,0,0,0,0,0
+red,71,accessible,large,i5,71.i5,1,0,0,1,0,0,0,0,0
+red,71,accessible,large,i6,71.i6,2,0,0,2,0,0,0,0,0
+red,71,accessible,large,i7,71.i7,0,1,0,0,1,0,0,0,0
+red,71,accessible,large,i8,71.i8,2,0,0,2,0,0,0,0,0
+red,71,accessible,large,i9,71.i9,0,0,0,0,0,0,0,0,0
+blank,74,accessible,large,a1,74.a1,0,0,0,0,0,0,0,0,0
+blank,74,accessible,large,a2,74.a2,1,0,0,1,0,0,0,0,0
+blank,74,accessible,large,a3,74.a3,0,0,0,0,0,0,0,0,0
+blank,74,accessible,large,a4,74.a4,0,0,0,0,0,0,0,0,0
+blank,74,accessible,large,a5,74.a5,0,2,0,0,2,0,0,0,0
+blank,74,accessible,large,a6,74.a6,0,0,0,0,0,0,0,0,0
+blank,74,accessible,large,a7,74.a7,0,0,0,0,0,0,0,0,0
+blank,74,accessible,large,a8,74.a8,0,0,0,0,0,0,0,0,0
+blank,74,accessible,large,a9,74.a9,0,0,0,0,0,0,0,0,0
+blank,74,accessible,large,b1,74.b1,0,0,0,0,0,0,0,0,0
+blank,74,accessible,large,b2,74.b2,0,7,0,0,7,0,0,0,0
+blank,74,accessible,large,b3,74.b3,1,1,0,1,1,0,0,0,0
+blank,74,accessible,large,b4,74.b4,0,2,0,0,0,0,0,2,0
+blank,74,accessible,large,b5,74.b5,0,0,0,0,0,0,0,0,0
+blank,74,accessible,large,b6,74.b6,0,3,0,0,3,0,0,0,0
+blank,74,accessible,large,b7,74.b7,0,2,0,0,0,0,0,2,0
+blank,74,accessible,large,b8,74.b8,1,0,0,1,0,0,0,0,0
+blank,74,accessible,large,b9,74.b9,0,0,0,0,0,0,0,0,0
+blank,74,accessible,large,c1,74.c1,0,0,0,0,0,0,0,0,0
+blank,74,accessible,large,c2,74.c2,1,5,0,1,5,0,0,0,0
+blank,74,accessible,large,c3,74.c3,0,3,0,0,2,0,0,1,0
+blank,74,accessible,large,c4,74.c4,0,0,0,0,0,0,0,0,0
+blank,74,accessible,large,c5,74.c5,0,2,0,0,2,0,0,0,0
+blank,74,accessible,large,c6,74.c6,0,2,0,0,2,0,0,0,0
+blank,74,accessible,large,c7,74.c7,1,1,0,1,1,0,0,0,0
+blank,74,accessible,large,c8,74.c8,0,3,0,0,3,0,0,0,0
+blank,74,accessible,large,c9,74.c9,0,0,0,0,0,0,0,0,0
+blank,74,accessible,large,d1,74.d1,0,0,0,0,0,0,0,0,0
+blank,74,accessible,large,d2,74.d2,0,0,0,0,0,0,0,0,0
+blank,74,accessible,large,d3,74.d3,0,1,0,0,1,0,0,0,0
+blank,74,accessible,large,d4,74.d4,1,1,1,1,0,1,0,1,0
+blank,74,accessible,large,d5,74.d5,0,0,0,0,0,0,0,0,0
+blank,74,accessible,large,d6,74.d6,0,1,0,0,1,0,0,0,0
+blank,74,accessible,large,d7,74.d7,0,2,0,0,2,0,0,0,0
+blank,74,accessible,large,d8,74.d8,0,4,0,0,4,0,0,0,0
+blank,74,accessible,large,d9,74.d9,0,0,0,0,0,0,0,0,0
+blank,74,accessible,large,e1,74.e1,0,0,0,0,0,0,0,0,0
+blank,74,accessible,large,e2,74.e2,1,3,0,0,3,0,1,0,0
+blank,74,accessible,large,e3,74.e3,0,4,0,0,4,0,0,0,0
+blank,74,accessible,large,e4,74.e4,0,0,0,0,0,0,0,0,0
+blank,74,accessible,large,e5,74.e5,0,3,0,0,3,0,0,0,0
+blank,74,accessible,large,e6,74.e6,0,0,0,0,0,0,0,0,0
+blank,74,accessible,large,e7,74.e7,0,4,0,0,4,0,0,0,0
+blank,74,accessible,large,e8,74.e8,0,1,0,0,1,0,0,0,0
+blank,74,accessible,large,e9,74.e9,0,0,0,0,0,0,0,0,0
+blank,74,accessible,large,f1,74.f1,0,1,0,0,1,0,0,0,0
+blank,74,accessible,large,f2,74.f2,1,6,0,1,6,0,0,0,0
+blank,74,accessible,large,f3,74.f3,2,0,0,2,0,0,0,0,0
+blank,74,accessible,large,f4,74.f4,0,3,0,0,3,0,0,0,0
+blank,74,accessible,large,f5,74.f5,0,2,0,0,1,0,0,1,0
+blank,74,accessible,large,f6,74.f6,0,5,0,0,4,0,0,1,0
+blank,74,accessible,large,f7,74.f7,0,0,0,0,0,0,0,0,0
+blank,74,accessible,large,f8,74.f8,0,2,0,0,2,0,0,0,0
+blank,74,accessible,large,f9,74.f9,0,0,0,0,0,0,0,0,0
+blank,74,accessible,large,g1,74.g1,0,0,0,0,0,0,0,0,0
+blank,74,accessible,large,g2,74.g2,0,2,0,0,2,0,0,0,0
+blank,74,accessible,large,g3,74.g3,0,5,0,0,5,0,0,0,0
+blank,74,accessible,large,g4,74.g4,0,0,0,0,0,0,0,0,0
+blank,74,accessible,large,g5,74.g5,0,2,0,0,2,0,0,0,0
+blank,74,accessible,large,g6,74.g6,3,0,0,3,0,0,0,0,0
+blank,74,accessible,large,g7,74.g7,0,1,0,0,1,0,0,0,0
+blank,74,accessible,large,g8,74.g8,0,0,0,0,0,0,0,0,0
+blank,74,accessible,large,g9,74.g9,0,0,0,0,0,0,0,0,0
+blank,74,accessible,large,h1,74.h1,0,1,0,0,1,0,0,0,0
+blank,74,accessible,large,h2,74.h2,0,0,0,0,0,0,0,0,0
+blank,74,accessible,large,h3,74.h3,0,1,0,0,1,0,0,0,0
+blank,74,accessible,large,h4,74.h4,1,3,0,1,3,0,0,0,0
+blank,74,accessible,large,h5,74.h5,0,0,0,0,0,0,0,0,0
+blank,74,accessible,large,h6,74.h6,0,3,0,0,2,0,0,1,0
+blank,74,accessible,large,h7,74.h7,0,0,0,0,0,0,0,0,0
+blank,74,accessible,large,h8,74.h8,0,0,0,0,0,0,0,0,0
+blank,74,accessible,large,h9,74.h9,1,0,0,1,0,0,0,0,0
+blank,74,accessible,large,i1,74.i1,0,0,0,0,0,0,0,0,0
+blank,74,accessible,large,i2,74.i2,1,0,1,1,0,1,0,0,0
+blank,74,accessible,large,i3,74.i3,0,0,0,0,0,0,0,0,0
+blank,74,accessible,large,i4,74.i4,0,0,0,0,0,0,0,0,0
+blank,74,accessible,large,i5,74.i5,0,0,0,0,0,0,0,0,0
+blank,74,accessible,large,i6,74.i6,0,0,0,0,0,0,0,0,0
+blank,74,accessible,large,i7,74.i7,0,0,0,0,0,0,0,0,0
+blank,74,accessible,large,i8,74.i8,0,1,0,0,1,0,0,0,0
+blank,74,accessible,large,i9,74.i9,0,0,0,0,0,0,0,0,0
+black,80,accessible,large,a1,80.a1,0,0,0,0,0,0,0,0,0
+black,80,accessible,large,a2,80.a2,0,0,0,0,0,0,0,0,0
+black,80,accessible,large,a3,80.a3,0,1,0,0,1,0,0,0,0
+black,80,accessible,large,a4,80.a4,2,0,0,2,0,0,0,0,0
+black,80,accessible,large,a5,80.a5,1,0,0,1,0,0,0,0,0
+black,80,accessible,large,a6,80.a6,0,0,0,0,0,0,0,0,0
+black,80,accessible,large,a7,80.a7,0,1,0,0,1,0,0,0,0
+black,80,accessible,large,a8,80.a8,2,1,0,2,1,0,0,0,0
+black,80,accessible,large,a9,80.a9,0,1,0,0,1,0,0,0,0
+black,80,accessible,large,b1,80.b1,0,1,0,0,1,0,0,0,0
+black,80,accessible,large,b2,80.b2,1,4,0,1,3,0,0,1,0
+black,80,accessible,large,b3,80.b3,1,3,1,1,3,1,0,0,0
+black,80,accessible,large,b4,80.b4,0,3,0,0,3,0,0,0,0
+black,80,accessible,large,b5,80.b5,0,0,0,0,0,0,0,0,0
+black,80,accessible,large,b6,80.b6,1,5,0,1,5,0,0,0,0
+black,80,accessible,large,b7,80.b7,0,3,0,0,3,0,0,0,0
+black,80,accessible,large,b8,80.b8,0,1,0,0,1,0,0,0,0
+black,80,accessible,large,b9,80.b9,0,0,0,0,0,0,0,0,0
+black,80,accessible,large,c1,80.c1,0,0,0,0,0,0,0,0,0
+black,80,accessible,large,c2,80.c2,2,2,0,2,2,0,0,0,0
+black,80,accessible,large,c3,80.c3,1,0,1,1,0,1,0,0,0
+black,80,accessible,large,c4,80.c4,0,2,0,0,2,0,0,0,0
+black,80,accessible,large,c5,80.c5,2,3,0,2,3,0,0,0,0
+black,80,accessible,large,c6,80.c6,0,1,0,0,1,0,0,0,0
+black,80,accessible,large,c7,80.c7,0,4,0,0,3,0,0,1,0
+black,80,accessible,large,c8,80.c8,1,1,0,1,1,0,0,0,0
+black,80,accessible,large,c9,80.c9,0,0,0,0,0,0,0,0,0
+black,80,accessible,large,d1,80.d1,0,1,0,0,1,0,0,0,0
+black,80,accessible,large,d2,80.d2,0,9,0,0,9,0,0,0,0
+black,80,accessible,large,d3,80.d3,0,0,0,0,0,0,0,0,0
+black,80,accessible,large,d4,80.d4,1,2,0,1,2,0,0,0,0
+black,80,accessible,large,d5,80.d5,0,3,0,0,3,0,0,0,0
+black,80,accessible,large,d6,80.d6,0,3,0,0,3,0,0,0,0
+black,80,accessible,large,d7,80.d7,0,0,0,0,0,0,0,0,0
+black,80,accessible,large,d8,80.d8,0,4,0,0,4,0,0,0,0
+black,80,accessible,large,d9,80.d9,0,0,0,0,0,0,0,0,0
+black,80,accessible,large,e1,80.e1,0,1,0,0,1,0,0,0,0
+black,80,accessible,large,e2,80.e2,2,0,1,2,0,1,0,0,0
+black,80,accessible,large,e3,80.e3,0,2,0,0,2,0,0,0,0
+black,80,accessible,large,e4,80.e4,1,5,0,1,5,0,0,0,0
+black,80,accessible,large,e5,80.e5,0,3,0,0,3,0,0,0,0
+black,80,accessible,large,e6,80.e6,0,0,0,0,0,0,0,0,0
+black,80,accessible,large,e7,80.e7,1,0,0,1,0,0,0,0,0
+black,80,accessible,large,e8,80.e8,1,1,0,1,1,0,0,0,0
+black,80,accessible,large,e9,80.e9,1,0,0,1,0,0,0,0,0
+black,80,accessible,large,f1,80.f1,1,0,0,1,0,0,0,0,0
+black,80,accessible,large,f2,80.f2,0,1,0,0,0,0,0,1,0
+black,80,accessible,large,f3,80.f3,1,1,0,1,1,0,0,0,0
+black,80,accessible,large,f4,80.f4,0,4,0,0,3,0,0,1,0
+black,80,accessible,large,f5,80.f5,0,2,0,0,1,0,0,1,0
+black,80,accessible,large,f6,80.f6,0,1,0,0,1,0,0,0,0
+black,80,accessible,large,f7,80.f7,1,1,0,1,1,0,0,0,0
+black,80,accessible,large,f8,80.f8,0,3,0,0,3,0,0,0,0
+black,80,accessible,large,f9,80.f9,0,0,1,0,0,1,0,0,0
+black,80,accessible,large,g1,80.g1,0,0,0,0,0,0,0,0,0
+black,80,accessible,large,g2,80.g2,0,1,0,0,1,0,0,0,0
+black,80,accessible,large,g3,80.g3,0,1,0,0,1,0,0,0,0
+black,80,accessible,large,g4,80.g4,2,2,0,2,2,0,0,0,0
+black,80,accessible,large,g5,80.g5,0,0,0,0,0,0,0,0,0
+black,80,accessible,large,g6,80.g6,0,1,0,0,1,0,0,0,0
+black,80,accessible,large,g7,80.g7,2,3,0,2,3,0,0,0,0
+black,80,accessible,large,g8,80.g8,1,2,0,1,2,0,0,0,0
+black,80,accessible,large,g9,80.g9,0,1,0,0,1,0,0,0,0
+black,80,accessible,large,h1,80.h1,0,1,0,0,1,0,0,0,0
+black,80,accessible,large,h2,80.h2,0,1,0,0,1,0,0,0,0
+black,80,accessible,large,h3,80.h3,2,3,0,2,3,0,0,0,0
+black,80,accessible,large,h4,80.h4,0,0,0,0,0,0,0,0,0
+black,80,accessible,large,h5,80.h5,0,2,0,0,2,0,0,0,0
+black,80,accessible,large,h6,80.h6,0,4,0,0,3,0,0,1,0
+black,80,accessible,large,h7,80.h7,1,2,0,1,2,0,0,0,0
+black,80,accessible,large,h8,80.h8,0,0,0,0,0,0,0,0,0
+black,80,accessible,large,h9,80.h9,1,1,0,1,1,0,0,0,0
+black,80,accessible,large,i1,80.i1,0,1,0,0,1,0,0,0,0
+black,80,accessible,large,i2,80.i2,0,0,0,0,0,0,0,0,0
+black,80,accessible,large,i3,80.i3,0,0,0,0,0,0,0,0,0
+black,80,accessible,large,i4,80.i4,0,0,0,0,0,0,0,0,0
+black,80,accessible,large,i5,80.i5,0,0,0,0,0,0,0,0,0
+black,80,accessible,large,i6,80.i6,0,0,0,0,0,0,0,0,0
+black,80,accessible,large,i7,80.i7,0,1,0,0,1,0,0,0,0
+black,80,accessible,large,i8,80.i8,0,1,0,0,1,0,0,0,0
+black,80,accessible,large,i9,80.i9,1,0,0,1,0,0,0,0,0
+green,13,caged control,medium,a1,13.a1,0,0,0,0,0,0,0,0,0
+green,13,caged control,medium,a2,13.a2,0,0,0,0,0,0,0,0,0
+green,13,caged control,medium,a3,13.a3,0,0,0,0,0,0,0,0,0
+green,13,caged control,medium,a4,13.a4,1,0,0,1,0,0,0,0,0
+green,13,caged control,medium,a5,13.a5,0,1,0,0,1,0,0,0,0
+green,13,caged control,medium,a6,13.a6,0,0,0,0,0,0,0,0,0
+green,13,caged control,medium,a7,13.a7,0,0,0,0,0,0,0,0,0
+green,13,caged control,medium,a8,13.a8,1,0,0,1,0,0,0,0,0
+green,13,caged control,medium,a9,13.a9,0,0,0,0,0,0,0,0,0
+green,13,caged control,medium,b1,13.b1,0,0,0,0,0,0,0,0,0
+green,13,caged control,medium,b2,13.b2,0,1,0,0,1,0,0,0,0
+green,13,caged control,medium,b3,13.b3,0,0,0,0,0,0,0,0,0
+green,13,caged control,medium,b4,13.b4,0,0,0,0,0,0,0,0,0
+green,13,caged control,medium,b5,13.b5,2,1,0,2,1,0,0,0,0
+green,13,caged control,medium,b6,13.b6,1,0,0,1,0,0,0,0,0
+green,13,caged control,medium,b7,13.b7,0,1,0,0,1,0,0,0,0
+green,13,caged control,medium,b8,13.b8,1,0,0,1,0,0,0,0,0
+green,13,caged control,medium,b9,13.b9,0,0,0,0,0,0,0,0,0
+green,13,caged control,medium,c1,13.c1,0,2,0,0,2,0,0,0,0
+green,13,caged control,medium,c2,13.c2,0,0,0,0,0,0,0,0,0
+green,13,caged control,medium,c3,13.c3,0,1,0,0,1,0,0,0,0
+green,13,caged control,medium,c4,13.c4,0,2,0,0,2,0,0,0,0
+green,13,caged control,medium,c5,13.c5,1,0,0,1,0,0,0,0,0
+green,13,caged control,medium,c6,13.c6,0,0,0,0,0,0,0,0,0
+green,13,caged control,medium,c7,13.c7,0,1,0,0,1,0,0,0,0
+green,13,caged control,medium,c8,13.c8,0,3,0,0,3,0,0,0,0
+green,13,caged control,medium,c9,13.c9,0,0,0,0,0,0,0,0,0
+green,13,caged control,medium,d1,13.d1,0,0,1,0,0,1,0,0,0
+green,13,caged control,medium,d2,13.d2,0,1,0,0,1,0,0,0,0
+green,13,caged control,medium,d3,13.d3,1,0,0,1,0,0,0,0,0
+green,13,caged control,medium,d4,13.d4,0,0,0,0,0,0,0,0,0
+green,13,caged control,medium,d5,13.d5,0,3,1,0,3,1,0,0,0
+green,13,caged control,medium,d6,13.d6,0,3,0,0,2,0,0,1,0
+green,13,caged control,medium,d7,13.d7,0,3,0,0,3,0,0,0,0
+green,13,caged control,medium,d8,13.d8,0,1,0,0,1,0,0,0,0
+green,13,caged control,medium,d9,13.d9,0,0,0,0,0,0,0,0,0
+green,13,caged control,medium,e1,13.e1,0,0,0,0,0,0,0,0,0
+green,13,caged control,medium,e2,13.e2,1,0,0,1,0,0,0,0,0
+green,13,caged control,medium,e3,13.e3,0,3,0,0,3,0,0,0,0
+green,13,caged control,medium,e4,13.e4,0,0,1,0,0,1,0,0,0
+green,13,caged control,medium,e5,13.e5,1,1,0,1,1,0,0,0,0
+green,13,caged control,medium,e6,13.e6,0,2,1,0,2,1,0,0,0
+green,13,caged control,medium,e7,13.e7,0,0,0,0,0,0,0,0,0
+green,13,caged control,medium,e8,13.e8,0,1,0,0,1,0,0,0,0
+green,13,caged control,medium,e9,13.e9,0,0,0,0,0,0,0,0,0
+green,13,caged control,medium,f1,13.f1,0,2,0,0,2,0,0,0,0
+green,13,caged control,medium,f2,13.f2,0,0,0,0,0,0,0,0,0
+green,13,caged control,medium,f3,13.f3,0,1,0,0,1,0,0,0,0
+green,13,caged control,medium,f4,13.f4,0,1,0,0,1,0,0,0,0
+green,13,caged control,medium,f5,13.f5,0,1,0,0,1,1,0,0,-1
+green,13,caged control,medium,f6,13.f6,0,1,0,0,1,0,0,0,0
+green,13,caged control,medium,f7,13.f7,0,1,0,0,1,0,0,0,0
+green,13,caged control,medium,f8,13.f8,0,5,0,0,5,0,0,0,0
+green,13,caged control,medium,f9,13.f9,0,0,0,0,0,0,0,0,0
+green,13,caged control,medium,g1,13.g1,0,0,0,0,0,0,0,0,0
+green,13,caged control,medium,g2,13.g2,1,1,0,1,1,0,0,0,0
+green,13,caged control,medium,g3,13.g3,0,0,0,0,0,0,0,0,0
+green,13,caged control,medium,g4,13.g4,1,1,0,1,1,0,0,0,0
+green,13,caged control,medium,g5,13.g5,0,0,1,0,0,1,0,0,0
+green,13,caged control,medium,g6,13.g6,0,2,0,0,2,0,0,0,0
+green,13,caged control,medium,g7,13.g7,0,3,0,0,3,0,0,0,0
+green,13,caged control,medium,g8,13.g8,0,0,0,0,0,0,0,0,0
+green,13,caged control,medium,g9,13.g9,0,0,0,0,0,0,0,0,0
+green,13,caged control,medium,h1,13.h1,0,1,0,0,1,0,0,0,0
+green,13,caged control,medium,h2,13.h2,0,1,0,0,1,0,0,0,0
+green,13,caged control,medium,h3,13.h3,1,2,0,1,2,0,0,0,0
+green,13,caged control,medium,h4,13.h4,1,0,0,1,0,0,0,0,0
+green,13,caged control,medium,h5,13.h5,1,0,0,1,0,0,0,0,0
+green,13,caged control,medium,h6,13.h6,0,1,1,0,1,1,0,0,0
+green,13,caged control,medium,h7,13.h7,0,0,0,0,0,0,0,0,0
+green,13,caged control,medium,h8,13.h8,0,0,0,0,0,0,0,0,0
+green,13,caged control,medium,h9,13.h9,0,1,0,0,1,0,0,0,0
+green,13,caged control,medium,i1,13.i1,0,0,0,0,0,0,0,0,0
+green,13,caged control,medium,i2,13.i2,0,0,0,0,0,0,0,0,0
+green,13,caged control,medium,i3,13.i3,0,0,0,0,0,0,0,0,0
+green,13,caged control,medium,i4,13.i4,0,1,0,0,1,0,0,0,0
+green,13,caged control,medium,i5,13.i5,0,0,0,0,0,0,0,0,0
+green,13,caged control,medium,i6,13.i6,1,1,0,1,1,0,0,0,0
+green,13,caged control,medium,i7,13.i7,0,0,0,0,0,0,0,0,0
+green,13,caged control,medium,i8,13.i8,0,0,0,0,0,0,0,0,0
+green,13,caged control,medium,i9,13.i9,0,0,0,0,0,0,0,0,0
+red,44,accessible,medium,a1,44.a1,0,0,0,0,0,0,0,0,0
+red,44,accessible,medium,a2,44.a2,0,0,0,0,0,0,0,0,0
+red,44,accessible,medium,a3,44.a3,0,0,0,0,0,0,0,0,0
+red,44,accessible,medium,a4,44.a4,0,0,0,0,0,0,0,0,0
+red,44,accessible,medium,a5,44.a5,0,0,0,0,0,0,0,0,0
+red,44,accessible,medium,a6,44.a6,0,0,0,0,0,0,0,0,0
+red,44,accessible,medium,a7,44.a7,0,0,0,0,0,0,0,0,0
+red,44,accessible,medium,a8,44.a8,0,0,0,0,0,0,0,0,0
+red,44,accessible,medium,a9,44.a9,0,0,0,0,0,0,0,0,0
+red,44,accessible,medium,b1,44.b1,0,0,0,0,0,0,0,0,0
+red,44,accessible,medium,b2,44.b2,1,1,0,1,1,0,0,0,0
+red,44,accessible,medium,b3,44.b3,1,0,0,1,0,0,0,0,0
+red,44,accessible,medium,b4,44.b4,0,3,0,0,3,0,0,0,0
+red,44,accessible,medium,b5,44.b5,0,2,0,0,2,0,0,0,0
+red,44,accessible,medium,b6,44.b6,0,0,0,0,0,0,0,0,0
+red,44,accessible,medium,b7,44.b7,0,1,0,0,1,0,0,0,0
+red,44,accessible,medium,b8,44.b8,0,0,0,0,0,0,0,0,0
+red,44,accessible,medium,b9,44.b9,1,0,0,1,0,0,0,0,0
+red,44,accessible,medium,c1,44.c1,0,0,0,0,0,0,0,0,0
+red,44,accessible,medium,c2,44.c2,0,0,0,0,0,0,0,0,0
+red,44,accessible,medium,c3,44.c3,0,1,0,0,0,0,0,1,0
+red,44,accessible,medium,c4,44.c4,1,0,0,1,0,0,0,0,0
+red,44,accessible,medium,c5,44.c5,0,2,0,0,2,0,0,0,0
+red,44,accessible,medium,c6,44.c6,0,0,0,0,0,0,0,0,0
+red,44,accessible,medium,c7,44.c7,0,0,0,0,0,0,0,0,0
+red,44,accessible,medium,c8,44.c8,0,1,0,0,1,0,0,0,0
+red,44,accessible,medium,c9,44.c9,1,0,0,1,0,0,0,0,0
+red,44,accessible,medium,d1,44.d1,0,1,0,0,1,0,0,0,0
+red,44,accessible,medium,d2,44.d2,0,2,0,0,1,0,0,1,0
+red,44,accessible,medium,d3,44.d3,0,0,0,0,0,0,0,0,0
+red,44,accessible,medium,d4,44.d4,0,2,0,0,0,0,0,2,0
+red,44,accessible,medium,d5,44.d5,0,1,0,0,1,0,0,0,0
+red,44,accessible,medium,d6,44.d6,1,1,0,1,0,0,0,1,0
+red,44,accessible,medium,d7,44.d7,0,1,0,0,1,0,0,0,0
+red,44,accessible,medium,d8,44.d8,0,0,0,0,0,0,0,0,0
+red,44,accessible,medium,d9,44.d9,1,1,0,0,1,0,1,0,0
+red,44,accessible,medium,e1,44.e1,0,0,0,0,0,0,0,0,0
+red,44,accessible,medium,e2,44.e2,0,0,0,0,0,0,0,0,0
+red,44,accessible,medium,e3,44.e3,0,5,0,0,2,0,0,3,0
+red,44,accessible,medium,e4,44.e4,2,1,0,2,1,0,0,0,0
+red,44,accessible,medium,e5,44.e5,0,0,0,0,0,0,0,0,0
+red,44,accessible,medium,e6,44.e6,1,0,0,1,0,0,0,0,0
+red,44,accessible,medium,e7,44.e7,0,0,0,0,0,0,0,0,0
+red,44,accessible,medium,e8,44.e8,0,2,0,0,2,0,0,0,0
+red,44,accessible,medium,e9,44.e9,0,1,0,0,0,0,0,1,0
+red,44,accessible,medium,f1,44.f1,0,0,0,0,0,0,0,0,0
+red,44,accessible,medium,f2,44.f2,0,1,0,0,1,0,0,0,0
+red,44,accessible,medium,f3,44.f3,1,2,0,1,2,0,0,0,0
+red,44,accessible,medium,f4,44.f4,0,0,0,0,0,0,0,0,0
+red,44,accessible,medium,f5,44.f5,1,1,0,1,1,0,0,0,0
+red,44,accessible,medium,f6,44.f6,0,0,0,0,0,0,0,0,0
+red,44,accessible,medium,f7,44.f7,0,1,0,0,1,0,0,0,0
+red,44,accessible,medium,f8,44.f8,0,1,0,0,1,0,0,0,0
+red,44,accessible,medium,f9,44.f9,1,0,0,1,0,0,0,0,0
+red,44,accessible,medium,g1,44.g1,0,1,0,0,1,0,0,0,0
+red,44,accessible,medium,g2,44.g2,0,1,0,0,1,0,0,0,0
+red,44,accessible,medium,g3,44.g3,0,1,0,0,1,0,0,0,0
+red,44,accessible,medium,g4,44.g4,0,2,1,0,2,1,0,0,0
+red,44,accessible,medium,g5,44.g5,0,1,0,0,0,0,0,1,0
+red,44,accessible,medium,g6,44.g6,0,0,0,0,0,0,0,0,0
+red,44,accessible,medium,g7,44.g7,0,0,0,0,0,0,0,0,0
+red,44,accessible,medium,g8,44.g8,1,0,0,1,0,0,0,0,0
+red,44,accessible,medium,g9,44.g9,0,0,0,0,0,0,0,0,0
+red,44,accessible,medium,h1,44.h1,0,0,0,0,0,0,0,0,0
+red,44,accessible,medium,h2,44.h2,0,0,0,0,0,0,0,0,0
+red,44,accessible,medium,h3,44.h3,0,0,0,0,0,0,0,0,0
+red,44,accessible,medium,h4,44.h4,1,0,0,1,0,0,0,0,0
+red,44,accessible,medium,h5,44.h5,1,0,0,1,0,0,0,0,0
+red,44,accessible,medium,h6,44.h6,0,0,0,0,0,0,0,0,0
+red,44,accessible,medium,h7,44.h7,0,0,0,0,0,0,0,0,0
+red,44,accessible,medium,h8,44.h8,0,0,0,0,0,0,0,0,0
+red,44,accessible,medium,h9,44.h9,3,1,0,3,1,0,0,0,0
+red,44,accessible,medium,i1,44.i1,0,0,0,0,0,0,0,0,0
+red,44,accessible,medium,i2,44.i2,0,0,0,0,0,0,0,0,0
+red,44,accessible,medium,i3,44.i3,0,0,0,0,0,0,0,0,0
+red,44,accessible,medium,i4,44.i4,0,0,0,0,0,0,0,0,0
+red,44,accessible,medium,i5,44.i5,0,0,0,0,0,0,0,0,0
+red,44,accessible,medium,i6,44.i6,0,0,3,0,0,3,0,0,0
+red,44,accessible,medium,i7,44.i7,0,0,0,0,0,0,0,0,0
+red,44,accessible,medium,i8,44.i8,0,0,0,0,0,0,0,0,0
+red,44,accessible,medium,i9,44.i9,0,0,0,0,0,0,0,0,0
+red,72,accessible,small,a1,72.a1,0,0,0,0,0,0,0,0,0
+red,72,accessible,small,a2,72.a2,1,0,0,1,0,0,0,0,0
+red,72,accessible,small,a3,72.a3,1,2,0,1,2,0,0,0,0
+red,72,accessible,small,a4,72.a4,2,2,0,2,2,0,0,0,0
+red,72,accessible,small,a5,72.a5,1,1,0,1,1,0,0,0,0
+red,72,accessible,small,a6,72.a6,0,0,0,0,0,0,0,0,0
+red,72,accessible,small,a7,72.a7,1,0,0,1,0,0,0,0,0
+red,72,accessible,small,a8,72.a8,0,1,0,0,1,0,0,0,0
+red,72,accessible,small,a9,72.a9,0,0,0,0,0,0,0,0,0
+red,72,accessible,small,b1,72.b1,0,0,0,0,0,0,0,0,0
+red,72,accessible,small,b2,72.b2,0,2,0,0,0,0,0,2,0
+red,72,accessible,small,b3,72.b3,0,3,0,0,3,0,0,0,0
+red,72,accessible,small,b4,72.b4,0,3,0,0,2,0,0,1,0
+red,72,accessible,small,b5,72.b5,0,0,0,0,0,0,0,0,0
+red,72,accessible,small,b6,72.b6,0,0,0,0,0,0,0,0,0
+red,72,accessible,small,b7,72.b7,0,0,0,0,0,0,0,0,0
+red,72,accessible,small,b8,72.b8,1,1,0,1,1,0,0,0,0
+red,72,accessible,small,b9,72.b9,0,0,0,0,0,0,0,0,0
+red,72,accessible,small,c1,72.c1,0,0,0,0,0,0,0,0,0
+red,72,accessible,small,c2,72.c2,0,0,0,0,0,0,0,0,0
+red,72,accessible,small,c3,72.c3,0,0,0,0,0,0,0,0,0
+red,72,accessible,small,c4,72.c4,0,0,0,0,0,0,0,0,0
+red,72,accessible,small,c5,72.c5,0,3,0,0,3,0,0,0,0
+red,72,accessible,small,c6,72.c6,0,2,0,0,2,0,0,0,0
+red,72,accessible,small,c7,72.c7,1,5,0,1,5,0,0,0,0
+red,72,accessible,small,c8,72.c8,0,0,0,0,0,0,0,0,0
+red,72,accessible,small,c9,72.c9,2,1,0,2,1,0,0,0,0
+red,72,accessible,small,d1,72.d1,4,2,0,4,2,0,0,0,0
+red,72,accessible,small,d2,72.d2,1,4,0,1,4,0,0,0,0
+red,72,accessible,small,d3,72.d3,0,1,0,0,1,0,0,0,0
+red,72,accessible,small,d4,72.d4,1,6,0,1,5,0,0,1,0
+red,72,accessible,small,d5,72.d5,0,1,0,0,1,0,0,0,0
+red,72,accessible,small,d6,72.d6,1,4,0,0,2,0,1,2,0
+red,72,accessible,small,d7,72.d7,1,2,0,1,2,0,0,0,0
+red,72,accessible,small,d8,72.d8,4,2,0,4,2,0,0,0,0
+red,72,accessible,small,d9,72.d9,2,0,0,2,0,0,0,0,0
+red,72,accessible,small,e1,72.e1,2,1,0,2,1,0,0,0,0
+red,72,accessible,small,e2,72.e2,0,1,0,0,1,0,0,0,0
+red,72,accessible,small,e3,72.e3,0,0,0,0,0,0,0,0,0
+red,72,accessible,small,e4,72.e4,3,2,0,3,2,0,0,0,0
+red,72,accessible,small,e5,72.e5,0,1,0,0,1,0,0,0,0
+red,72,accessible,small,e6,72.e6,0,0,0,0,0,0,0,0,0
+red,72,accessible,small,e7,72.e7,0,3,0,0,3,0,0,0,0
+red,72,accessible,small,e8,72.e8,1,1,0,1,1,0,0,0,0
+red,72,accessible,small,e9,72.e9,2,1,0,2,1,0,0,0,0
+red,72,accessible,small,f1,72.f1,1,1,0,1,1,0,0,0,0
+red,72,accessible,small,f2,72.f2,1,2,0,1,2,0,0,0,0
+red,72,accessible,small,f3,72.f3,0,2,0,0,2,0,0,0,0
+red,72,accessible,small,f4,72.f4,0,3,0,0,3,0,0,0,0
+red,72,accessible,small,f5,72.f5,1,0,0,1,0,0,0,0,0
+red,72,accessible,small,f6,72.f6,1,2,0,1,2,0,0,0,0
+red,72,accessible,small,f7,72.f7,0,2,0,0,2,0,0,0,0
+red,72,accessible,small,f8,72.f8,0,2,0,0,2,0,0,0,0
+red,72,accessible,small,f9,72.f9,1,1,0,1,1,0,0,0,0
+red,72,accessible,small,g1,72.g1,0,0,0,0,0,0,0,0,0
+red,72,accessible,small,g2,72.g2,1,3,0,1,3,0,0,0,0
+red,72,accessible,small,g3,72.g3,1,2,0,1,2,0,0,0,0
+red,72,accessible,small,g4,72.g4,0,0,0,0,0,0,0,0,0
+red,72,accessible,small,g5,72.g5,1,6,0,0,3,0,1,3,0
+red,72,accessible,small,g6,72.g6,0,2,0,0,2,0,0,0,0
+red,72,accessible,small,g7,72.g7,0,0,0,0,0,0,0,0,0
+red,72,accessible,small,g8,72.g8,1,1,0,1,1,0,0,0,0
+red,72,accessible,small,g9,72.g9,1,0,0,1,0,0,0,0,0
+red,72,accessible,small,h1,72.h1,0,0,0,0,0,0,0,0,0
+red,72,accessible,small,h2,72.h2,0,2,0,0,1,0,0,1,0
+red,72,accessible,small,h3,72.h3,3,1,1,3,1,1,0,0,0
+red,72,accessible,small,h4,72.h4,2,1,0,2,1,0,0,0,0
+red,72,accessible,small,h5,72.h5,1,4,0,1,4,0,0,0,0
+red,72,accessible,small,h6,72.h6,2,3,0,2,3,0,0,0,0
+red,72,accessible,small,h7,72.h7,0,0,0,0,0,0,0,0,0
+red,72,accessible,small,h8,72.h8,0,0,0,0,0,0,0,0,0
+red,72,accessible,small,h9,72.h9,0,0,0,0,0,0,0,0,0
+red,72,accessible,small,i1,72.i1,0,0,0,0,0,0,0,0,0
+red,72,accessible,small,i2,72.i2,0,0,0,0,0,0,0,0,0
+red,72,accessible,small,i3,72.i3,1,2,0,0,2,0,1,0,0
+red,72,accessible,small,i4,72.i4,1,0,0,1,0,0,0,0,0
+red,72,accessible,small,i5,72.i5,0,0,0,0,0,0,0,0,0
+red,72,accessible,small,i6,72.i6,1,0,0,1,0,0,0,0,0
+red,72,accessible,small,i7,72.i7,0,0,0,0,0,0,0,0,0
+red,72,accessible,small,i8,72.i8,0,0,0,0,0,0,0,0,0
+red,72,accessible,small,i9,72.i9,0,0,0,0,0,0,0,0,0
+yellow,73,caged control,medium,a1,73.a1,0,2,0,0,2,0,0,0,0
+yellow,73,caged control,medium,a2,73.a2,0,1,0,0,1,0,0,0,0
+yellow,73,caged control,medium,a3,73.a3,0,0,0,0,0,0,0,0,0
+yellow,73,caged control,medium,a4,73.a4,0,0,0,0,0,0,0,0,0
+yellow,73,caged control,medium,a5,73.a5,0,2,0,0,2,0,0,0,0
+yellow,73,caged control,medium,a6,73.a6,0,0,0,0,0,0,0,0,0
+yellow,73,caged control,medium,a7,73.a7,0,0,0,0,0,0,0,0,0
+yellow,73,caged control,medium,a8,73.a8,0,0,0,0,0,0,0,0,0
+yellow,73,caged control,medium,a9,73.a9,1,0,0,1,0,0,0,0,0
+yellow,73,caged control,medium,b1,73.b1,1,0,0,1,0,0,0,0,0
+yellow,73,caged control,medium,b2,73.b2,2,4,0,2,4,0,0,0,0
+yellow,73,caged control,medium,b3,73.b3,1,2,1,1,2,1,0,0,0
+yellow,73,caged control,medium,b4,73.b4,1,2,0,1,2,0,0,0,0
+yellow,73,caged control,medium,b5,73.b5,0,0,0,0,0,0,0,0,0
+yellow,73,caged control,medium,b6,73.b6,1,1,1,1,1,1,0,0,0
+yellow,73,caged control,medium,b7,73.b7,0,1,1,0,1,1,0,0,0
+yellow,73,caged control,medium,b8,73.b8,2,3,0,1,3,0,1,0,0
+yellow,73,caged control,medium,b9,73.b9,0,0,1,0,0,1,0,0,0
+yellow,73,caged control,medium,c1,73.c1,1,0,0,1,0,0,0,0,0
+yellow,73,caged control,medium,c2,73.c2,0,0,0,0,0,0,0,0,0
+yellow,73,caged control,medium,c3,73.c3,1,8,0,1,8,0,0,0,0
+yellow,73,caged control,medium,c4,73.c4,0,0,0,0,0,0,0,0,0
+yellow,73,caged control,medium,c5,73.c5,1,2,0,1,2,0,0,0,0
+yellow,73,caged control,medium,c6,73.c6,2,2,0,2,2,0,0,0,0
+yellow,73,caged control,medium,c7,73.c7,0,1,0,0,1,0,0,0,0
+yellow,73,caged control,medium,c8,73.c8,0,1,1,0,1,1,0,0,0
+yellow,73,caged control,medium,c9,73.c9,0,0,0,0,0,0,0,0,0
+yellow,73,caged control,medium,d1,73.d1,1,1,0,1,1,0,0,0,0
+yellow,73,caged control,medium,d2,73.d2,0,1,0,0,1,0,0,0,0
+yellow,73,caged control,medium,d3,73.d3,1,1,1,1,1,1,0,0,0
+yellow,73,caged control,medium,d4,73.d4,0,5,1,0,5,1,0,0,0
+yellow,73,caged control,medium,d5,73.d5,2,0,2,2,0,2,0,0,0
+yellow,73,caged control,medium,d6,73.d6,1,3,3,1,3,3,0,0,0
+yellow,73,caged control,medium,d7,73.d7,0,0,1,0,0,1,0,0,0
+yellow,73,caged control,medium,d8,73.d8,2,3,0,2,3,0,0,0,0
+yellow,73,caged control,medium,d9,73.d9,0,1,0,0,1,0,0,0,0
+yellow,73,caged control,medium,e1,73.e1,0,0,1,0,0,1,0,0,0
+yellow,73,caged control,medium,e2,73.e2,0,4,0,0,4,0,0,0,0
+yellow,73,caged control,medium,e3,73.e3,3,1,2,3,1,2,0,0,0
+yellow,73,caged control,medium,e4,73.e4,0,2,1,0,2,0,0,0,1
+yellow,73,caged control,medium,e5,73.e5,0,1,0,0,1,0,0,0,0
+yellow,73,caged control,medium,e6,73.e6,2,0,2,2,0,2,0,0,0
+yellow,73,caged control,medium,e7,73.e7,0,0,0,0,0,0,0,0,0
+yellow,73,caged control,medium,e8,73.e8,1,4,0,1,4,0,0,0,0
+yellow,73,caged control,medium,e9,73.e9,0,0,0,0,0,0,0,0,0
+yellow,73,caged control,medium,f1,73.f1,3,0,0,3,0,0,0,0,0
+yellow,73,caged control,medium,f2,73.f2,1,4,1,1,4,1,0,0,0
+yellow,73,caged control,medium,f3,73.f3,4,1,0,4,1,0,0,0,0
+yellow,73,caged control,medium,f4,73.f4,1,2,0,1,2,0,0,0,0
+yellow,73,caged control,medium,f5,73.f5,2,0,0,2,0,0,0,0,0
+yellow,73,caged control,medium,f6,73.f6,0,3,0,0,3,0,0,0,0
+yellow,73,caged control,medium,f7,73.f7,0,0,0,0,0,0,0,0,0
+yellow,73,caged control,medium,f8,73.f8,2,11,0,2,10,0,0,1,0
+yellow,73,caged control,medium,f9,73.f9,0,3,0,0,3,0,0,0,0
+yellow,73,caged control,medium,g1,73.g1,0,0,0,0,0,0,0,0,0
+yellow,73,caged control,medium,g2,73.g2,3,1,0,3,1,0,0,0,0
+yellow,73,caged control,medium,g3,73.g3,0,0,0,0,0,0,0,0,0
+yellow,73,caged control,medium,g4,73.g4,1,0,0,1,0,0,0,0,0
+yellow,73,caged control,medium,g5,73.g5,2,6,3,2,6,3,0,0,0
+yellow,73,caged control,medium,g6,73.g6,0,2,0,0,2,0,0,0,0
+yellow,73,caged control,medium,g7,73.g7,1,4,0,0,4,0,1,0,0
+yellow,73,caged control,medium,g8,73.g8,0,2,2,0,2,2,0,0,0
+yellow,73,caged control,medium,g9,73.g9,0,0,0,0,0,0,0,0,0
+yellow,73,caged control,medium,h1,73.h1,0,0,0,0,0,0,0,0,0
+yellow,73,caged control,medium,h2,73.h2,1,1,1,1,1,1,0,0,0
+yellow,73,caged control,medium,h3,73.h3,3,1,0,3,1,0,0,0,0
+yellow,73,caged control,medium,h4,73.h4,1,6,0,1,6,0,0,0,0
+yellow,73,caged control,medium,h5,73.h5,4,3,2,4,3,2,0,0,0
+yellow,73,caged control,medium,h6,73.h6,2,4,0,2,4,0,0,0,0
+yellow,73,caged control,medium,h7,73.h7,0,4,0,0,4,0,0,0,0
+yellow,73,caged control,medium,h8,73.h8,0,0,0,0,0,0,0,0,0
+yellow,73,caged control,medium,h9,73.h9,2,0,0,2,0,0,0,0,0
+yellow,73,caged control,medium,i1,73.i1,0,0,0,0,0,0,0,0,0
+yellow,73,caged control,medium,i2,73.i2,1,4,0,1,4,0,0,0,0
+yellow,73,caged control,medium,i3,73.i3,1,0,0,1,0,0,0,0,0
+yellow,73,caged control,medium,i4,73.i4,3,0,0,3,0,0,0,0,0
+yellow,73,caged control,medium,i5,73.i5,1,2,0,1,2,0,0,0,0
+yellow,73,caged control,medium,i6,73.i6,1,0,0,1,0,0,0,0,0
+yellow,73,caged control,medium,i7,73.i7,0,0,0,0,0,0,0,0,0
+yellow,73,caged control,medium,i8,73.i8,0,0,0,0,0,0,0,0,0
+yellow,73,caged control,medium,i9,73.i9,1,2,0,1,2,0,0,0,0
+blank,79,accessible,medium,a1,79.a1,0,0,0,0,0,0,0,0,0
+blank,79,accessible,medium,a2,79.a2,0,3,0,0,3,0,0,0,0
+blank,79,accessible,medium,a3,79.a3,0,0,0,0,0,0,0,0,0
+blank,79,accessible,medium,a4,79.a4,0,1,0,0,1,0,0,0,0
+blank,79,accessible,medium,a5,79.a5,0,0,0,0,0,0,0,0,0
+blank,79,accessible,medium,a6,79.a6,0,0,0,0,0,0,0,0,0
+blank,79,accessible,medium,a7,79.a7,0,0,0,0,0,0,0,0,0
+blank,79,accessible,medium,a8,79.a8,1,0,0,1,0,0,0,0,0
+blank,79,accessible,medium,a9,79.a9,0,0,0,0,0,0,0,0,0
+blank,79,accessible,medium,b1,79.b1,0,0,0,0,0,0,0,0,0
+blank,79,accessible,medium,b2,79.b2,0,0,0,0,0,0,0,0,0
+blank,79,accessible,medium,b3,79.b3,4,0,0,4,0,0,0,0,0
+blank,79,accessible,medium,b4,79.b4,0,0,0,0,0,0,0,0,0
+blank,79,accessible,medium,b5,79.b5,0,4,1,0,4,1,0,0,0
+blank,79,accessible,medium,b6,79.b6,0,3,0,0,1,0,0,2,0
+blank,79,accessible,medium,b7,79.b7,0,1,0,0,1,0,0,0,0
+blank,79,accessible,medium,b8,79.b8,0,0,0,0,0,0,0,0,0
+blank,79,accessible,medium,b9,79.b9,1,0,0,1,0,0,0,0,0
+blank,79,accessible,medium,c1,79.c1,0,0,0,0,0,0,0,0,0
+blank,79,accessible,medium,c2,79.c2,0,2,0,0,2,0,0,0,0
+blank,79,accessible,medium,c3,79.c3,0,0,0,0,0,0,0,0,0
+blank,79,accessible,medium,c4,79.c4,0,2,0,0,2,0,0,0,0
+blank,79,accessible,medium,c5,79.c5,0,4,0,0,2,0,0,2,0
+blank,79,accessible,medium,c6,79.c6,0,1,0,0,1,0,0,0,0
+blank,79,accessible,medium,c7,79.c7,0,0,0,0,0,0,0,0,0
+blank,79,accessible,medium,c8,79.c8,2,0,0,2,0,0,0,0,0
+blank,79,accessible,medium,c9,79.c9,0,0,0,0,0,0,0,0,0
+blank,79,accessible,medium,d1,79.d1,1,2,0,1,2,0,0,0,0
+blank,79,accessible,medium,d2,79.d2,0,0,0,0,0,0,0,0,0
+blank,79,accessible,medium,d3,79.d3,0,1,0,0,1,0,0,0,0
+blank,79,accessible,medium,d4,79.d4,0,0,0,0,0,0,0,0,0
+blank,79,accessible,medium,d5,79.d5,0,2,0,0,2,0,0,0,0
+blank,79,accessible,medium,d6,79.d6,0,0,0,0,0,0,0,0,0
+blank,79,accessible,medium,d7,79.d7,0,2,0,0,2,0,0,0,0
+blank,79,accessible,medium,d8,79.d8,0,0,0,0,0,0,0,0,0
+blank,79,accessible,medium,d9,79.d9,0,1,0,0,1,0,0,0,0
+blank,79,accessible,medium,e1,79.e1,0,2,0,0,2,0,0,0,0
+blank,79,accessible,medium,e2,79.e2,0,3,0,0,3,0,0,0,0
+blank,79,accessible,medium,e3,79.e3,0,0,0,0,0,0,0,0,0
+blank,79,accessible,medium,e4,79.e4,0,1,0,0,1,0,0,0,0
+blank,79,accessible,medium,e5,79.e5,2,0,0,2,0,0,0,0,0
+blank,79,accessible,medium,e6,79.e6,0,1,0,0,1,0,0,0,0
+blank,79,accessible,medium,e7,79.e7,0,0,0,0,0,0,0,0,0
+blank,79,accessible,medium,e8,79.e8,0,0,0,0,0,0,0,0,0
+blank,79,accessible,medium,e9,79.e9,0,0,0,0,0,0,0,0,0
+blank,79,accessible,medium,f1,79.f1,2,0,0,2,0,0,0,0,0
+blank,79,accessible,medium,f2,79.f2,1,0,0,1,0,0,0,0,0
+blank,79,accessible,medium,f3,79.f3,0,3,0,0,3,0,0,0,0
+blank,79,accessible,medium,f4,79.f4,0,3,0,0,1,0,0,2,0
+blank,79,accessible,medium,f5,79.f5,0,1,0,0,1,0,0,0,0
+blank,79,accessible,medium,f6,79.f6,0,0,0,0,0,0,0,0,0
+blank,79,accessible,medium,f7,79.f7,0,0,0,0,0,0,0,0,0
+blank,79,accessible,medium,f8,79.f8,0,0,0,0,0,0,0,0,0
+blank,79,accessible,medium,f9,79.f9,0,0,0,0,0,0,0,0,0
+blank,79,accessible,medium,g1,79.g1,0,0,0,0,0,0,0,0,0
+blank,79,accessible,medium,g2,79.g2,0,4,0,0,4,0,0,0,0
+blank,79,accessible,medium,g3,79.g3,0,0,0,0,0,0,0,0,0
+blank,79,accessible,medium,g4,79.g4,0,3,0,0,3,0,0,0,0
+blank,79,accessible,medium,g5,79.g5,0,0,0,0,0,0,0,0,0
+blank,79,accessible,medium,g6,79.g6,0,1,0,0,1,0,0,0,0
+blank,79,accessible,medium,g7,79.g7,0,0,0,0,0,0,0,0,0
+blank,79,accessible,medium,g8,79.g8,0,2,0,0,2,0,0,0,0
+blank,79,accessible,medium,g9,79.g9,0,0,0,0,0,0,0,0,0
+blank,79,accessible,medium,h1,79.h1,1,1,0,1,1,0,0,0,0
+blank,79,accessible,medium,h2,79.h2,0,1,0,0,1,0,0,0,0
+blank,79,accessible,medium,h3,79.h3,1,1,0,1,1,0,0,0,0
+blank,79,accessible,medium,h4,79.h4,0,0,0,0,0,0,0,0,0
+blank,79,accessible,medium,h5,79.h5,0,2,0,0,2,0,0,0,0
+blank,79,accessible,medium,h6,79.h6,0,1,0,0,1,0,0,0,0
+blank,79,accessible,medium,h7,79.h7,1,1,0,1,1,0,0,0,0
+blank,79,accessible,medium,h8,79.h8,0,0,0,0,0,0,0,0,0
+blank,79,accessible,medium,h9,79.h9,0,0,0,0,0,0,0,0,0
+blank,79,accessible,medium,i1,79.i1,1,0,0,1,0,0,0,0,0
+blank,79,accessible,medium,i2,79.i2,1,1,0,1,1,0,0,0,0
+blank,79,accessible,medium,i3,79.i3,0,0,0,0,0,0,0,0,0
+blank,79,accessible,medium,i4,79.i4,0,0,0,0,0,0,0,0,0
+blank,79,accessible,medium,i5,79.i5,0,1,0,0,1,0,0,0,0
+blank,79,accessible,medium,i6,79.i6,1,0,0,1,0,0,0,0,0
+blank,79,accessible,medium,i7,79.i7,1,0,0,1,0,0,0,0,0
+blank,79,accessible,medium,i8,79.i8,0,2,0,0,2,0,0,0,0
+blank,79,accessible,medium,i9,79.i9,0,1,0,0,1,0,0,0,0
+black,107,accessible,medium,a1,107.a1,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,a2,107.a2,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,a3,107.a3,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,a4,107.a4,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,a5,107.a5,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,a6,107.a6,0,1,1,0,1,1,0,0,0
+black,107,accessible,medium,a7,107.a7,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,a8,107.a8,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,a9,107.a9,0,1,0,0,1,0,0,0,0
+black,107,accessible,medium,b1,107.b1,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,b2,107.b2,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,b3,107.b3,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,b4,107.b4,0,1,0,0,0,0,0,1,0
+black,107,accessible,medium,b5,107.b5,0,1,0,0,1,0,0,0,0
+black,107,accessible,medium,b6,107.b6,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,b7,107.b7,1,0,0,1,0,0,0,0,0
+black,107,accessible,medium,b8,107.b8,1,1,0,1,1,0,0,0,0
+black,107,accessible,medium,b9,107.b9,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,c1,107.c1,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,c2,107.c2,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,c3,107.c3,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,c4,107.c4,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,c5,107.c5,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,c6,107.c6,0,1,0,0,1,0,0,0,0
+black,107,accessible,medium,c7,107.c7,1,1,0,0,1,0,1,0,0
+black,107,accessible,medium,c8,107.c8,1,0,0,1,0,0,0,0,0
+black,107,accessible,medium,c9,107.c9,1,0,0,1,0,0,0,0,0
+black,107,accessible,medium,d1,107.d1,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,d2,107.d2,0,2,0,0,1,0,0,1,0
+black,107,accessible,medium,d3,107.d3,0,1,0,0,1,0,0,0,0
+black,107,accessible,medium,d4,107.d4,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,d5,107.d5,1,0,0,1,0,0,0,0,0
+black,107,accessible,medium,d6,107.d6,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,d7,107.d7,1,0,0,1,0,0,0,0,0
+black,107,accessible,medium,d8,107.d8,0,1,0,0,0,0,0,1,0
+black,107,accessible,medium,d9,107.d9,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,e1,107.e1,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,e2,107.e2,1,0,0,1,0,0,0,0,0
+black,107,accessible,medium,e3,107.e3,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,e4,107.e4,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,e5,107.e5,1,0,0,1,0,0,0,0,0
+black,107,accessible,medium,e6,107.e6,0,1,0,0,1,0,0,0,0
+black,107,accessible,medium,e7,107.e7,0,1,0,0,0,0,0,1,0
+black,107,accessible,medium,e8,107.e8,1,0,0,1,0,0,0,0,0
+black,107,accessible,medium,e9,107.e9,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,f1,107.f1,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,f2,107.f2,1,1,0,1,1,0,0,0,0
+black,107,accessible,medium,f3,107.f3,1,1,0,1,1,0,0,0,0
+black,107,accessible,medium,f4,107.f4,0,1,0,0,1,0,0,0,0
+black,107,accessible,medium,f5,107.f5,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,f6,107.f6,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,f7,107.f7,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,f8,107.f8,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,f9,107.f9,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,g1,107.g1,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,g2,107.g2,2,0,0,2,0,0,0,0,0
+black,107,accessible,medium,g3,107.g3,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,g4,107.g4,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,g5,107.g5,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,g6,107.g6,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,g7,107.g7,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,g8,107.g8,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,g9,107.g9,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,h1,107.h1,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,h2,107.h2,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,h3,107.h3,1,0,0,1,0,0,0,0,0
+black,107,accessible,medium,h4,107.h4,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,h5,107.h5,0,1,0,0,1,0,0,0,0
+black,107,accessible,medium,h6,107.h6,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,h7,107.h7,0,1,0,0,1,0,0,0,0
+black,107,accessible,medium,h8,107.h8,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,h9,107.h9,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,i1,107.i1,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,i2,107.i2,1,0,0,1,0,0,0,0,0
+black,107,accessible,medium,i3,107.i3,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,i4,107.i4,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,i5,107.i5,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,i6,107.i6,1,0,0,1,0,0,0,0,0
+black,107,accessible,medium,i7,107.i7,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,i8,107.i8,0,0,0,0,0,0,0,0,0
+black,107,accessible,medium,i9,107.i9,0,0,0,0,0,0,0,0,0
+black,6,accessible,small,a1,6.a1,0,0,0,0,0,0,0,0,0
+black,6,accessible,small,a2,6.a2,1,0,0,1,0,0,0,0,0
+black,6,accessible,small,a3,6.a3,2,2,0,2,2,0,0,0,0
+black,6,accessible,small,a4,6.a4,1,0,0,1,0,0,0,0,0
+black,6,accessible,small,a5,6.a5,1,1,0,1,1,0,0,0,0
+black,6,accessible,small,a6,6.a6,0,4,0,0,4,0,0,0,0
+black,6,accessible,small,a7,6.a7,0,1,0,0,1,0,0,0,0
+black,6,accessible,small,a8,6.a8,3,1,0,3,1,0,0,0,0
+black,6,accessible,small,a9,6.a9,0,0,0,0,0,0,0,0,0
+black,6,accessible,small,b1,6.b1,4,0,0,4,0,0,0,0,0
+black,6,accessible,small,b2,6.b2,5,3,1,5,3,1,0,0,0
+black,6,accessible,small,b3,6.b3,2,0,0,2,0,0,0,0,0
+black,6,accessible,small,b4,6.b4,2,4,0,2,4,0,0,0,0
+black,6,accessible,small,b5,6.b5,2,2,0,2,2,0,0,0,0
+black,6,accessible,small,b6,6.b6,1,2,0,1,2,0,0,0,0
+black,6,accessible,small,b7,6.b7,0,2,0,0,2,0,0,0,0
+black,6,accessible,small,b8,6.b8,0,0,0,0,0,0,0,0,0
+black,6,accessible,small,b9,6.b9,0,0,0,0,0,0,0,0,0
+black,6,accessible,small,c1,6.c1,0,1,1,0,1,1,0,0,0
+black,6,accessible,small,c2,6.c2,0,1,1,0,1,1,0,0,0
+black,6,accessible,small,c3,6.c3,2,5,0,2,4,0,0,1,0
+black,6,accessible,small,c4,6.c4,0,0,1,0,0,1,0,0,0
+black,6,accessible,small,c5,6.c5,4,1,1,4,1,1,0,0,0
+black,6,accessible,small,c6,6.c6,0,0,0,0,0,0,0,0,0
+black,6,accessible,small,c7,6.c7,0,1,0,0,1,0,0,0,0
+black,6,accessible,small,c8,6.c8,0,1,0,0,1,0,0,0,0
+black,6,accessible,small,c9,6.c9,1,0,0,0,0,0,1,0,0
+black,6,accessible,small,d1,6.d1,0,2,2,0,2,2,0,0,0
+black,6,accessible,small,d2,6.d2,4,1,2,4,1,2,0,0,0
+black,6,accessible,small,d3,6.d3,0,1,0,0,1,0,0,0,0
+black,6,accessible,small,d4,6.d4,1,5,1,1,5,1,0,0,0
+black,6,accessible,small,d5,6.d5,0,1,0,0,1,0,0,0,0
+black,6,accessible,small,d6,6.d6,3,3,0,3,3,0,0,0,0
+black,6,accessible,small,d7,6.d7,1,1,0,0,1,0,1,0,0
+black,6,accessible,small,d8,6.d8,0,2,0,0,2,0,0,0,0
+black,6,accessible,small,d9,6.d9,0,1,0,0,1,0,0,0,0
+black,6,accessible,small,e1,6.e1,0,2,2,0,2,2,0,0,0
+black,6,accessible,small,e2,6.e2,0,2,1,0,2,1,0,0,0
+black,6,accessible,small,e3,6.e3,3,4,0,3,4,0,0,0,0
+black,6,accessible,small,e4,6.e4,1,1,0,1,1,0,0,0,0
+black,6,accessible,small,e5,6.e5,1,1,0,1,1,0,0,0,0
+black,6,accessible,small,e6,6.e6,0,2,1,0,2,1,0,0,0
+black,6,accessible,small,e7,6.e7,1,0,0,1,0,0,0,0,0
+black,6,accessible,small,e8,6.e8,0,0,0,0,0,0,0,0,0
+black,6,accessible,small,e9,6.e9,3,1,0,1,1,0,2,0,0
+black,6,accessible,small,f1,6.f1,2,0,0,2,0,0,0,0,0
+black,6,accessible,small,f2,6.f2,0,0,0,0,0,0,0,0,0
+black,6,accessible,small,f3,6.f3,0,0,1,0,0,1,0,0,0
+black,6,accessible,small,f4,6.f4,4,3,0,4,3,0,0,0,0
+black,6,accessible,small,f5,6.f5,2,3,0,2,3,0,0,0,0
+black,6,accessible,small,f6,6.f6,4,6,0,4,6,0,0,0,0
+black,6,accessible,small,f7,6.f7,0,0,0,0,0,0,0,0,0
+black,6,accessible,small,f8,6.f8,1,4,0,1,4,0,0,0,0
+black,6,accessible,small,f9,6.f9,2,1,0,2,1,0,0,0,0
+black,6,accessible,small,g1,6.g1,5,1,0,5,1,0,0,0,0
+black,6,accessible,small,g2,6.g2,3,0,0,3,0,0,0,0,0
+black,6,accessible,small,g3,6.g3,1,6,1,1,6,1,0,0,0
+black,6,accessible,small,g4,6.g4,1,2,0,1,2,0,0,0,0
+black,6,accessible,small,g5,6.g5,4,4,0,4,4,0,0,0,0
+black,6,accessible,small,g6,6.g6,0,0,0,0,0,0,0,0,0
+black,6,accessible,small,g7,6.g7,1,1,0,1,1,0,0,0,0
+black,6,accessible,small,g8,6.g8,0,0,1,0,0,1,0,0,0
+black,6,accessible,small,g9,6.g9,0,0,0,0,0,0,0,0,0
+black,6,accessible,small,h1,6.h1,1,1,0,1,1,0,0,0,0
+black,6,accessible,small,h2,6.h2,3,5,0,2,5,0,1,0,0
+black,6,accessible,small,h3,6.h3,3,1,0,3,1,0,0,0,0
+black,6,accessible,small,h4,6.h4,5,1,0,5,1,0,0,0,0
+black,6,accessible,small,h5,6.h5,1,0,0,1,0,0,0,0,0
+black,6,accessible,small,h6,6.h6,3,3,0,3,3,0,0,0,0
+black,6,accessible,small,h7,6.h7,2,1,0,2,1,0,0,0,0
+black,6,accessible,small,h8,6.h8,8,0,0,8,0,0,0,0,0
+black,6,accessible,small,h9,6.h9,0,0,0,0,0,0,0,0,0
+black,6,accessible,small,i1,6.i1,2,0,0,2,0,0,0,0,0
+black,6,accessible,small,i2,6.i2,1,0,0,1,0,0,0,0,0
+black,6,accessible,small,i3,6.i3,3,2,0,3,2,0,0,0,0
+black,6,accessible,small,i4,6.i4,3,3,0,3,3,0,0,0,0
+black,6,accessible,small,i5,6.i5,2,1,0,2,1,0,0,0,0
+black,6,accessible,small,i6,6.i6,0,0,1,0,0,1,0,0,0
+black,6,accessible,small,i7,6.i7,1,0,1,1,0,1,0,0,0
+black,6,accessible,small,i8,6.i8,1,0,0,1,0,0,0,0,0
+black,6,accessible,small,i9,6.i9,0,0,0,0,0,0,0,0,0
+yellow,12,caged control,small,a1,12.a1,0,0,0,0,0,0,0,0,0
+yellow,12,caged control,small,a2,12.a2,0,0,0,0,0,0,0,0,0
+yellow,12,caged control,small,a3,12.a3,0,0,0,0,0,0,0,0,0
+yellow,12,caged control,small,a4,12.a4,0,0,0,0,0,0,0,0,0
+yellow,12,caged control,small,a5,12.a5,0,0,0,0,0,0,0,0,0
+yellow,12,caged control,small,a6,12.a6,1,0,0,1,0,0,0,0,0
+yellow,12,caged control,small,a7,12.a7,0,0,0,0,0,0,0,0,0
+yellow,12,caged control,small,a8,12.a8,0,0,0,0,0,0,0,0,0
+yellow,12,caged control,small,a9,12.a9,0,0,0,0,0,0,0,0,0
+yellow,12,caged control,small,b1,12.b1,0,1,0,0,1,0,0,0,0
+yellow,12,caged control,small,b2,12.b2,0,0,0,0,0,0,0,0,0
+yellow,12,caged control,small,b3,12.b3,0,3,0,0,3,0,0,0,0
+yellow,12,caged control,small,b4,12.b4,0,1,0,0,1,0,0,0,0
+yellow,12,caged control,small,b5,12.b5,0,0,0,0,0,0,0,0,0
+yellow,12,caged control,small,b6,12.b6,1,1,0,1,1,0,0,0,0
+yellow,12,caged control,small,b7,12.b7,1,0,0,1,0,0,0,0,0
+yellow,12,caged control,small,b8,12.b8,0,1,0,0,1,0,0,0,0
+yellow,12,caged control,small,b9,12.b9,0,0,0,0,0,0,0,0,0
+yellow,12,caged control,small,c1,12.c1,0,1,0,0,1,0,0,0,0
+yellow,12,caged control,small,c2,12.c2,0,1,0,0,1,0,0,0,0
+yellow,12,caged control,small,c3,12.c3,1,0,0,1,0,0,0,0,0
+yellow,12,caged control,small,c4,12.c4,0,1,0,0,1,0,0,0,0
+yellow,12,caged control,small,c5,12.c5,0,0,0,0,0,0,0,0,0
+yellow,12,caged control,small,c6,12.c6,0,0,0,0,0,0,0,0,0
+yellow,12,caged control,small,c7,12.c7,0,0,0,0,0,0,0,0,0
+yellow,12,caged control,small,c8,12.c8,1,1,0,1,1,0,0,0,0
+yellow,12,caged control,small,c9,12.c9,0,0,0,0,0,0,0,0,0
+yellow,12,caged control,small,d1,12.d1,0,1,0,0,1,0,0,0,0
+yellow,12,caged control,small,d2,12.d2,0,0,0,0,0,0,0,0,0
+yellow,12,caged control,small,d3,12.d3,0,0,0,0,0,0,0,0,0
+yellow,12,caged control,small,d4,12.d4,0,0,1,0,0,1,0,0,0
+yellow,12,caged control,small,d5,12.d5,1,0,0,1,0,0,0,0,0
+yellow,12,caged control,small,d6,12.d6,0,0,0,0,0,0,0,0,0
+yellow,12,caged control,small,d7,12.d7,0,1,0,0,1,0,0,0,0
+yellow,12,caged control,small,d8,12.d8,0,0,0,0,0,0,0,0,0
+yellow,12,caged control,small,d9,12.d9,2,3,0,1,3,0,1,0,0
+yellow,12,caged control,small,e1,12.e1,0,0,0,0,0,0,0,0,0
+yellow,12,caged control,small,e2,12.e2,0,0,0,0,0,0,0,0,0
+yellow,12,caged control,small,e3,12.e3,1,0,0,1,0,0,0,0,0
+yellow,12,caged control,small,e4,12.e4,1,0,0,1,0,0,0,0,0
+yellow,12,caged control,small,e5,12.e5,0,0,0,0,0,0,0,0,0
+yellow,12,caged control,small,e6,12.e6,0,0,1,0,0,1,0,0,0
+yellow,12,caged control,small,e7,12.e7,1,0,0,1,0,0,0,0,0
+yellow,12,caged control,small,e8,12.e8,0,0,0,0,0,0,0,0,0
+yellow,12,caged control,small,e9,12.e9,1,0,0,1,0,0,0,0,0
+yellow,12,caged control,small,f1,12.f1,0,0,0,0,0,0,0,0,0
+yellow,12,caged control,small,f2,12.f2,0,0,0,0,0,0,0,0,0
+yellow,12,caged control,small,f3,12.f3,0,0,0,0,0,0,0,0,0
+yellow,12,caged control,small,f4,12.f4,0,1,0,0,1,0,0,0,0
+yellow,12,caged control,small,f5,12.f5,1,0,0,1,0,0,0,0,0
+yellow,12,caged control,small,f6,12.f6,0,0,0,0,0,0,0,0,0
+yellow,12,caged control,small,f7,12.f7,0,0,0,0,0,0,0,0,0
+yellow,12,caged control,small,f8,12.f8,0,0,0,0,0,0,0,0,0
+yellow,12,caged control,small,f9,12.f9,0,0,0,0,0,0,0,0,0
+yellow,12,caged control,small,g1,12.g1,0,0,0,0,0,0,0,0,0
+yellow,12,caged control,small,g2,12.g2,0,0,0,0,0,0,0,0,0
+yellow,12,caged control,small,g3,12.g3,0,0,0,0,0,0,0,0,0
+yellow,12,caged control,small,g4,12.g4,0,0,0,0,0,0,0,0,0
+yellow,12,caged control,small,g5,12.g5,0,1,1,0,1,1,0,0,0
+yellow,12,caged control,small,g6,12.g6,0,1,0,0,1,0,0,0,0
+yellow,12,caged control,small,g7,12.g7,0,0,0,0,0,0,0,0,0
+yellow,12,caged control,small,g8,12.g8,1,1,0,1,1,0,0,0,0
+yellow,12,caged control,small,g9,12.g9,0,1,0,0,1,0,0,0,0
+yellow,12,caged control,small,h1,12.h1,0,1,0,0,1,0,0,0,0
+yellow,12,caged control,small,h2,12.h2,0,7,0,0,7,0,0,0,0
+yellow,12,caged control,small,h3,12.h3,0,1,0,0,1,0,0,0,0
+yellow,12,caged control,small,h4,12.h4,0,0,0,0,0,0,0,0,0
+yellow,12,caged control,small,h5,12.h5,1,1,0,1,1,0,0,0,0
+yellow,12,caged control,small,h6,12.h6,0,3,0,0,3,0,0,0,0
+yellow,12,caged control,small,h7,12.h7,0,0,1,0,0,1,0,0,0
+yellow,12,caged control,small,h8,12.h8,0,5,0,0,5,0,0,0,0
+yellow,12,caged control,small,h9,12.h9,0,0,0,0,0,0,0,0,0
+yellow,12,caged control,small,i1,12.i1,0,0,0,0,0,0,0,0,0
+yellow,12,caged control,small,i2,12.i2,0,0,0,0,0,0,0,0,0
+yellow,12,caged control,small,i3,12.i3,0,0,0,0,0,0,0,0,0
+yellow,12,caged control,small,i4,12.i4,0,1,0,0,1,0,0,0,0
+yellow,12,caged control,small,i5,12.i5,0,2,0,0,2,0,0,0,0
+yellow,12,caged control,small,i6,12.i6,0,0,1,0,0,1,0,0,0
+yellow,12,caged control,small,i7,12.i7,0,1,0,0,1,0,0,0,0
+yellow,12,caged control,small,i8,12.i8,0,2,0,0,2,0,0,0,0
+yellow,12,caged control,small,i9,12.i9,0,0,0,0,0,0,0,0,0
+blank,18,accessible,small,a1,18.a1,0,0,0,0,0,0,0,0,0
+blank,18,accessible,small,a2,18.a2,0,1,0,0,1,0,0,0,0
+blank,18,accessible,small,a3,18.a3,1,1,0,1,1,0,0,0,0
+blank,18,accessible,small,a4,18.a4,0,0,0,0,0,0,0,0,0
+blank,18,accessible,small,a5,18.a5,0,0,0,0,0,0,0,0,0
+blank,18,accessible,small,a6,18.a6,0,0,0,0,0,0,0,0,0
+blank,18,accessible,small,a7,18.a7,1,1,0,1,1,0,0,0,0
+blank,18,accessible,small,a8,18.a8,2,1,0,2,1,0,0,0,0
+blank,18,accessible,small,a9,18.a9,0,0,0,0,0,0,0,0,0
+blank,18,accessible,small,b1,18.b1,1,0,0,0,0,0,1,0,0
+blank,18,accessible,small,b2,18.b2,0,0,0,0,0,0,0,0,0
+blank,18,accessible,small,b3,18.b3,0,0,0,0,0,0,0,0,0
+blank,18,accessible,small,b4,18.b4,0,1,0,0,1,0,0,0,0
+blank,18,accessible,small,b5,18.b5,0,0,0,0,0,0,0,0,0
+blank,18,accessible,small,b6,18.b6,0,0,0,0,0,0,0,0,0
+blank,18,accessible,small,b7,18.b7,1,3,0,2,1,0,0,2,0
+blank,18,accessible,small,b8,18.b8,0,1,0,0,1,0,0,0,0
+blank,18,accessible,small,b9,18.b9,0,0,0,0,0,0,0,0,0
+blank,18,accessible,small,c1,18.c1,0,0,0,0,0,0,0,0,0
+blank,18,accessible,small,c2,18.c2,1,0,0,1,0,0,0,0,0
+blank,18,accessible,small,c3,18.c3,0,0,0,0,0,0,0,0,0
+blank,18,accessible,small,c4,18.c4,0,2,0,0,2,0,0,0,0
+blank,18,accessible,small,c5,18.c5,0,3,0,0,3,0,0,0,0
+blank,18,accessible,small,c6,18.c6,0,0,0,0,0,0,0,0,0
+blank,18,accessible,small,c7,18.c7,0,1,0,0,1,0,0,0,0
+blank,18,accessible,small,c8,18.c8,0,1,0,0,1,0,0,0,0
+blank,18,accessible,small,c9,18.c9,0,0,0,0,0,0,0,0,0
+blank,18,accessible,small,d1,18.d1,0,1,0,0,1,0,0,0,0
+blank,18,accessible,small,d2,18.d2,0,10,0,0,10,0,0,0,0
+blank,18,accessible,small,d3,18.d3,1,0,0,1,0,0,0,0,0
+blank,18,accessible,small,d4,18.d4,0,1,0,0,1,0,0,0,0
+blank,18,accessible,small,d5,18.d5,2,2,1,2,2,1,0,0,0
+blank,18,accessible,small,d6,18.d6,1,1,0,1,0,0,0,1,0
+blank,18,accessible,small,d7,18.d7,0,1,0,0,1,0,0,0,0
+blank,18,accessible,small,d8,18.d8,0,2,0,0,2,0,0,0,0
+blank,18,accessible,small,d9,18.d9,0,1,0,0,1,0,0,0,0
+blank,18,accessible,small,e1,18.e1,0,0,0,0,0,0,0,0,0
+blank,18,accessible,small,e2,18.e2,0,1,0,0,1,0,0,0,0
+blank,18,accessible,small,e3,18.e3,1,0,0,1,0,0,0,0,0
+blank,18,accessible,small,e4,18.e4,0,1,0,0,1,0,0,0,0
+blank,18,accessible,small,e5,18.e5,0,0,0,0,0,0,0,0,0
+blank,18,accessible,small,e6,18.e6,0,1,0,0,1,0,0,0,0
+blank,18,accessible,small,e7,18.e7,0,0,0,0,0,0,0,0,0
+blank,18,accessible,small,e8,18.e8,0,1,0,0,1,0,0,0,0
+blank,18,accessible,small,e9,18.e9,1,0,0,1,0,0,0,0,0
+blank,18,accessible,small,f1,18.f1,0,1,0,0,1,0,0,0,0
+blank,18,accessible,small,f2,18.f2,0,2,0,0,2,0,0,0,0
+blank,18,accessible,small,f3,18.f3,0,0,0,0,0,0,0,0,0
+blank,18,accessible,small,f4,18.f4,0,2,0,0,2,0,0,0,0
+blank,18,accessible,small,f5,18.f5,0,0,0,0,0,0,0,0,0
+blank,18,accessible,small,f6,18.f6,0,0,0,0,0,0,0,0,0
+blank,18,accessible,small,f7,18.f7,0,0,0,0,0,0,0,0,0
+blank,18,accessible,small,f8,18.f8,1,1,0,1,1,0,0,0,0
+blank,18,accessible,small,f9,18.f9,0,1,0,0,1,0,0,0,0
+blank,18,accessible,small,g1,18.g1,0,2,0,0,2,0,0,0,0
+blank,18,accessible,small,g2,18.g2,0,0,0,0,0,0,0,0,0
+blank,18,accessible,small,g3,18.g3,0,3,0,0,1,0,0,2,0
+blank,18,accessible,small,g4,18.g4,0,1,0,0,1,0,0,0,0
+blank,18,accessible,small,g5,18.g5,0,1,0,0,1,0,0,0,0
+blank,18,accessible,small,g6,18.g6,0,1,0,0,1,0,0,0,0
+blank,18,accessible,small,g7,18.g7,4,0,0,3,0,0,1,0,0
+blank,18,accessible,small,g8,18.g8,0,0,0,0,0,0,0,0,0
+blank,18,accessible,small,g9,18.g9,0,0,0,0,0,0,0,0,0
+blank,18,accessible,small,h1,18.h1,0,0,0,0,0,0,0,0,0
+blank,18,accessible,small,h2,18.h2,0,1,0,0,1,0,0,0,0
+blank,18,accessible,small,h3,18.h3,0,0,0,0,0,0,0,0,0
+blank,18,accessible,small,h4,18.h4,0,0,0,0,0,0,0,0,0
+blank,18,accessible,small,h5,18.h5,1,1,0,1,1,0,0,0,0
+blank,18,accessible,small,h6,18.h6,0,1,0,0,1,0,0,0,0
+blank,18,accessible,small,h7,18.h7,0,0,0,0,0,0,0,0,0
+blank,18,accessible,small,h8,18.h8,0,1,0,0,1,0,0,0,0
+blank,18,accessible,small,h9,18.h9,0,1,0,0,1,0,0,0,0
+blank,18,accessible,small,i1,18.i1,0,0,0,0,0,0,0,0,0
+blank,18,accessible,small,i2,18.i2,0,0,0,0,0,0,0,0,0
+blank,18,accessible,small,i3,18.i3,0,1,0,0,1,0,0,0,0
+blank,18,accessible,small,i4,18.i4,1,1,0,1,1,0,0,0,0
+blank,18,accessible,small,i5,18.i5,1,0,0,1,0,0,0,0,0
+blank,18,accessible,small,i6,18.i6,1,2,0,1,2,0,0,0,0
+blank,18,accessible,small,i7,18.i7,0,2,0,0,2,0,0,0,0
+blank,18,accessible,small,i8,18.i8,0,0,0,0,0,0,0,0,0
+blank,18,accessible,small,i9,18.i9,0,0,0,0,0,0,0,0,0
+green,78,caged control,small,a1,78.a1,0,0,0,0,0,0,0,0,0
+green,78,caged control,small,a2,78.a2,0,0,0,0,0,0,0,0,0
+green,78,caged control,small,a3,78.a3,0,0,0,0,0,0,0,0,0
+green,78,caged control,small,a4,78.a4,2,0,0,2,0,0,0,0,0
+green,78,caged control,small,a5,78.a5,0,2,0,0,2,0,0,0,0
+green,78,caged control,small,a6,78.a6,1,2,0,1,2,0,0,0,0
+green,78,caged control,small,a7,78.a7,1,2,0,1,2,0,0,0,0
+green,78,caged control,small,a8,78.a8,2,0,0,2,0,0,0,0,0
+green,78,caged control,small,a9,78.a9,0,0,0,0,0,0,0,0,0
+green,78,caged control,small,b1,78.b1,0,1,0,0,1,0,0,0,0
+green,78,caged control,small,b2,78.b2,0,2,0,0,2,0,0,0,0
+green,78,caged control,small,b3,78.b3,1,0,0,1,0,0,0,0,0
+green,78,caged control,small,b4,78.b4,0,1,0,0,1,0,0,0,0
+green,78,caged control,small,b5,78.b5,0,1,0,0,1,0,0,0,0
+green,78,caged control,small,b6,78.b6,0,0,1,0,0,1,0,0,0
+green,78,caged control,small,b7,78.b7,1,1,0,1,1,0,0,0,0
+green,78,caged control,small,b8,78.b8,0,3,0,0,3,0,0,0,0
+green,78,caged control,small,b9,78.b9,0,0,0,0,0,0,0,0,0
+green,78,caged control,small,c1,78.c1,0,0,0,0,0,0,0,0,0
+green,78,caged control,small,c2,78.c2,0,0,0,0,0,0,0,0,0
+green,78,caged control,small,c3,78.c3,0,2,0,0,2,0,0,0,0
+green,78,caged control,small,c4,78.c4,0,0,0,0,0,0,0,0,0
+green,78,caged control,small,c5,78.c5,0,4,0,0,3,0,0,1,0
+green,78,caged control,small,c6,78.c6,0,0,0,0,0,0,0,0,0
+green,78,caged control,small,c7,78.c7,0,1,0,0,1,0,0,0,0
+green,78,caged control,small,c8,78.c8,0,1,0,0,1,0,0,0,0
+green,78,caged control,small,c9,78.c9,0,0,0,0,0,0,0,0,0
+green,78,caged control,small,d1,78.d1,1,1,0,1,1,0,0,0,0
+green,78,caged control,small,d2,78.d2,1,0,0,1,0,0,0,0,0
+green,78,caged control,small,d3,78.d3,0,0,0,0,0,0,0,0,0
+green,78,caged control,small,d4,78.d4,0,0,0,0,0,0,0,0,0
+green,78,caged control,small,d5,78.d5,1,1,0,1,1,0,0,0,0
+green,78,caged control,small,d6,78.d6,3,2,0,3,2,0,0,0,0
+green,78,caged control,small,d7,78.d7,0,0,0,0,0,0,0,0,0
+green,78,caged control,small,d8,78.d8,0,1,0,0,1,0,0,0,0
+green,78,caged control,small,d9,78.d9,0,0,0,0,0,0,0,0,0
+green,78,caged control,small,e1,78.e1,1,1,0,1,1,0,0,0,0
+green,78,caged control,small,e2,78.e2,0,1,0,0,1,0,0,0,0
+green,78,caged control,small,e3,78.e3,0,3,0,0,3,0,0,0,0
+green,78,caged control,small,e4,78.e4,0,2,0,0,2,0,0,0,0
+green,78,caged control,small,e5,78.e5,0,1,0,0,1,0,0,0,0
+green,78,caged control,small,e6,78.e6,0,1,0,0,1,0,0,0,0
+green,78,caged control,small,e7,78.e7,0,1,0,0,1,0,0,0,0
+green,78,caged control,small,e8,78.e8,0,1,0,0,1,0,0,0,0
+green,78,caged control,small,e9,78.e9,0,0,0,0,0,0,0,0,0
+green,78,caged control,small,f1,78.f1,0,2,0,0,2,0,0,0,0
+green,78,caged control,small,f2,78.f2,0,3,0,0,3,0,0,0,0
+green,78,caged control,small,f3,78.f3,0,1,2,0,1,1,0,0,1
+green,78,caged control,small,f4,78.f4,0,2,0,0,2,0,0,0,0
+green,78,caged control,small,f5,78.f5,0,2,0,0,2,0,0,0,0
+green,78,caged control,small,f6,78.f6,0,2,1,0,1,1,0,1,0
+green,78,caged control,small,f7,78.f7,1,0,0,1,0,0,0,0,0
+green,78,caged control,small,f8,78.f8,0,0,0,0,0,0,0,0,0
+green,78,caged control,small,f9,78.f9,0,1,0,0,1,0,0,0,0
+green,78,caged control,small,g1,78.g1,0,0,0,0,0,0,0,0,0
+green,78,caged control,small,g2,78.g2,0,1,0,0,1,0,0,0,0
+green,78,caged control,small,g3,78.g3,0,1,0,0,1,0,0,0,0
+green,78,caged control,small,g4,78.g4,0,0,0,0,0,0,0,0,0
+green,78,caged control,small,g5,78.g5,0,2,0,0,2,0,0,0,0
+green,78,caged control,small,g6,78.g6,0,0,0,0,0,0,0,0,0
+green,78,caged control,small,g7,78.g7,1,1,0,1,1,0,0,0,0
+green,78,caged control,small,g8,78.g8,1,1,0,1,1,0,0,0,0
+green,78,caged control,small,g9,78.g9,0,0,2,0,0,2,0,0,0
+green,78,caged control,small,h1,78.h1,1,0,0,1,0,0,0,0,0
+green,78,caged control,small,h2,78.h2,0,1,0,0,1,0,0,0,0
+green,78,caged control,small,h3,78.h3,0,2,1,0,2,1,0,0,0
+green,78,caged control,small,h4,78.h4,0,1,0,0,1,0,0,0,0
+green,78,caged control,small,h5,78.h5,0,0,0,0,0,0,0,0,0
+green,78,caged control,small,h6,78.h6,2,0,0,2,0,0,0,0,0
+green,78,caged control,small,h7,78.h7,1,1,0,1,1,0,0,0,0
+green,78,caged control,small,h8,78.h8,0,0,0,0,0,0,0,0,0
+green,78,caged control,small,h9,78.h9,0,1,0,0,1,0,0,0,0
+green,78,caged control,small,i1,78.i1,0,0,0,0,0,0,0,0,0
+green,78,caged control,small,i2,78.i2,4,0,0,4,0,0,0,0,0
+green,78,caged control,small,i3,78.i3,0,0,0,0,0,0,0,0,0
+green,78,caged control,small,i4,78.i4,0,1,0,0,1,0,0,0,0
+green,78,caged control,small,i5,78.i5,0,1,0,0,1,0,0,0,0
+green,78,caged control,small,i6,78.i6,0,1,0,0,1,0,0,0,0
+green,78,caged control,small,i7,78.i7,0,0,0,0,0,0,0,0,0
+green,78,caged control,small,i8,78.i8,0,0,0,0,0,0,0,0,0
+green,78,caged control,small,i9,78.i9,0,0,0,0,0,0,0,0,0

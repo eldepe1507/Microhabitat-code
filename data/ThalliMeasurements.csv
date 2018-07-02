@@ -1,0 +1,817 @@
+﻿Date,Treatment,Cage,Colour,Crevice.tile,Crevice.number,Crevice.ID,Crevice.Code,length.mm,width.mm,comment,Tile.Number
+23/03/2018,full cage,FCbl,black,large,1,FCbll1,black1,9,7,,54
+31/03/2018,full cage,FCbl,black,large,1,FCbll1,black1,8,8,,54
+9/04/2018,full cage,FCbl,black,large,1,FCbll1,black1,NA,NA,,54
+17/04/2018,full cage,FCbl,black,large,1,FCbll1,black1,NA,NA,,54
+23/03/2018,full cage,FCgr,green,large,1,FCgrl1,green1,10,7,,65
+31/03/2018,full cage,FCgr,green,large,1,FCgrl1,green1,10,6,,65
+9/04/2018,full cage,FCgr,green,large,1,FCgrl1,green1,10,6,,65
+17/04/2018,full cage,FCgr,green,large,1,FCgrl1,green1,NA,NA,,65
+23/03/2018,full cage,FCre,red,large,1,FCrel1,red1,10,8,,69
+31/03/2018,full cage,FCre,red,large,1,FCrel1,red1,10,7,,69
+9/04/2018,full cage,FCre,red,large,1,FCrel1,red1,NA,NA,,69
+17/04/2018,full cage,FCre,red,large,1,FCrel1,red1,NA,NA,,69
+23/03/2018,full cage,FCye,yellow,large,1,FCyel1,yellow1,8,7,,3
+31/03/2018,full cage,FCye,yellow,large,1,FCyel1,yellow1,9,8,,3
+9/04/2018,full cage,FCye,yellow,large,1,FCyel1,yellow1,7,6,,3
+17/04/2018,full cage,FCye,yellow,large,1,FCyel1,yellow1,9,8,,3
+23/03/2018,open,Obl,black,large,1,Obll1,black1,7,7,,84.2
+31/03/2018,open,Obl,black,large,1,Obll1,black1,8,7,,84.2
+9/04/2018,open,Obl,black,large,1,Obll1,black1,10,6,,84.2
+17/04/2018,open,Obl,black,large,1,Obll1,black1,10,7,,84.2
+31/03/2018,open,Ogr,green,large,1,Ogrl1,green1,8,6,,27
+9/04/2018,open,Ogr,green,large,1,Ogrl1,green1,8,7,,27
+17/04/2018,open,Ogr,green,large,1,Ogrl1,green1,10,7,,27
+23/03/2018,open,Ogr,green,large,1,Orel1,green1,8,6,,26
+23/03/2018,open,Ore,red,large,1,Ogrl1,red1,11,5,,50.2
+31/03/2018,open,Ore,red,large,1,Orel1,red1,NA,NA,,50.2
+9/04/2018,open,Ore,red,large,1,Orel1,red1,NA,NA,,50.2
+17/04/2018,open,Ore,red,large,1,Orel1,red1,NA,NA,,50.2
+23/03/2018,open,Oye,yellow,large,1,Oyel1,yellow1,9,7,,19.2
+31/03/2018,open,Oye,yellow,large,1,Oyel1,yellow1,8,7,,19.2
+9/04/2018,open,Oye,yellow,large,1,Oyel1,yellow1,8,8,,19.2
+17/04/2018,open,Oye,yellow,large,1,Oyel1,yellow1,10,8,,19.2
+23/03/2018,partial cage,PCbl,black,large,1,PCbll1,black1,10,8,,110
+31/03/2018,partial cage,PCbl,black,large,1,PCbll1,black1,8,6,broken?,110
+9/04/2018,partial cage,PCbl,black,large,1,PCbll1,black1,7,5,,110
+17/04/2018,partial cage,PCbl,black,large,1,PCbll1,black1,8,6,,110
+23/03/2018,partial cage,PCgr,green,large,1,PCgrl1,green1,9,6,,17
+31/03/2018,partial cage,PCgr,green,large,1,PCgrl1,green1,8,6,,17
+9/04/2018,partial cage,PCgr,green,large,1,PCgrl1,green1,8,4,,17
+17/04/2018,partial cage,PCgr,green,large,1,PCgrl1,green1,9,6,,17
+23/03/2018,partial cage,PCre,red,large,1,PCrel1,red1,9,6,,42
+31/03/2018,partial cage,PCre,red,large,1,PCrel1,red1,8,6,,42
+9/04/2018,partial cage,PCre,red,large,1,PCrel1,red1,6,6,,42
+17/04/2018,partial cage,PCre,red,large,1,PCrel1,red1,8,7,,42
+23/03/2018,partial cage,PCye,yellow,large,1,PCyel1,yellow1,9,8,,93
+31/03/2018,partial cage,PCye,yellow,large,1,PCyel1,yellow1,9,6,,93
+9/04/2018,partial cage,PCye,yellow,large,1,PCyel1,yellow1,8,5,,93
+17/04/2018,partial cage,PCye,yellow,large,1,PCyel1,yellow1,8,6,,93
+23/03/2018,full cage,FCbl,black,medium,1,FCblm1,black1,11,6,,52
+31/03/2018,full cage,FCbl,black,medium,1,FCblm1,black1,10,5,,52
+9/04/2018,full cage,FCbl,black,medium,1,FCblm1,black1,7,5,,52
+17/04/2018,full cage,FCbl,black,medium,1,FCblm1,black1,8,6,NO CROSS,52
+23/03/2018,full cage,FCbl,black,medium,2,FCblm2,black2,7,6,,52
+31/03/2018,full cage,FCbl,black,medium,2,FCblm2,black2,8,6,,52
+9/04/2018,full cage,FCbl,black,medium,2,FCblm2,black2,7,4,,52
+17/04/2018,full cage,FCbl,black,medium,2,FCblm2,black2,8,8,,52
+23/03/2018,full cage,FCbl,black,medium,3,FCblm3,black3,6,5,,52
+31/03/2018,full cage,FCbl,black,medium,3,FCblm3,black3,6,5,,52
+9/04/2018,full cage,FCbl,black,medium,3,FCblm3,black3,5,4,looks like it's dying,52
+17/04/2018,full cage,FCbl,black,medium,3,FCblm3,black3,NA,NA,,52
+23/03/2018,full cage,FCbl,black,medium,4,FCblm4,black4,7,6,,52
+31/03/2018,full cage,FCbl,black,medium,4,FCblm4,black4,8,6,broken?,52
+9/04/2018,full cage,FCbl,black,medium,4,FCblm4,black4,2,2,broken?,52
+17/04/2018,full cage,FCbl,black,medium,4,FCblm4,black4,4,3,,52
+23/03/2018,full cage,FCbl,black,medium,5,FCblm5,black5,8,4,,52
+31/03/2018,full cage,FCbl,black,medium,5,FCblm5,black5,6,5,,52
+9/04/2018,full cage,FCbl,black,medium,5,FCblm5,black5,5,2,,52
+17/04/2018,full cage,FCbl,black,medium,5,FCblm5,black5,5,4,,52
+23/03/2018,full cage,FCbl,black,medium,6,FCblm6,black6,9,5,,52
+31/03/2018,full cage,FCbl,black,medium,6,FCblm6,black6,9,6,,52
+9/04/2018,full cage,FCbl,black,medium,6,FCblm6,black6,8,6,,52
+17/04/2018,full cage,FCbl,black,medium,6,FCblm6,black6,8,5,,52
+23/03/2018,full cage,FCbl,black,medium,7,FCblm7,black7,11,4,,52
+31/03/2018,full cage,FCbl,black,medium,7,FCblm7,black7,12,5,,52
+9/04/2018,full cage,FCbl,black,medium,7,FCblm7,black7,11,6,,52
+17/04/2018,full cage,FCbl,black,medium,7,FCblm7,black7,11,7,,52
+23/03/2018,full cage,FCbl,black,medium,8,FCblm8,black8,10,7,,52
+31/03/2018,full cage,FCbl,black,medium,8,FCblm8,black8,9,8,,52
+9/04/2018,full cage,FCbl,black,medium,8,FCblm8,black8,8,8,,52
+17/04/2018,full cage,FCbl,black,medium,8,FCblm8,black8,8,5,,52
+23/03/2018,full cage,FCgr,green,medium,1,FCgrm1,green1,11,7,,64
+31/03/2018,full cage,FCgr,green,medium,1,FCgrm1,green1,11,7,,64
+9/04/2018,full cage,FCgr,green,medium,1,FCgrm1,green1,12,8,,64
+17/04/2018,full cage,FCgr,green,medium,1,FCgrm1,green1,9,7,,64
+23/03/2018,full cage,FCgr,green,medium,2,FCgrm2,green2,7,4,,64
+31/03/2018,full cage,FCgr,green,medium,2,FCgrm2,green2,6,5,,64
+9/04/2018,full cage,FCgr,green,medium,2,FCgrm2,green2,6,5,,64
+17/04/2018,full cage,FCgr,green,medium,2,FCgrm2,green2,7,5,,64
+23/03/2018,full cage,FCgr,green,medium,3,FCgrm3,green3,10,8,,64
+31/03/2018,full cage,FCgr,green,medium,3,FCgrm3,green3,12,8,,64
+9/04/2018,full cage,FCgr,green,medium,3,FCgrm3,green3,13,6,,64
+17/04/2018,full cage,FCgr,green,medium,3,FCgrm3,green3,10,7,,64
+23/03/2018,full cage,FCgr,green,medium,4,FCgrm4,green4,13,9,,64
+31/03/2018,full cage,FCgr,green,medium,4,FCgrm4,green4,9,7,,64
+9/04/2018,full cage,FCgr,green,medium,4,FCgrm4,green4,4,4,,64
+17/04/2018,full cage,FCgr,green,medium,4,FCgrm4,green4,NA,NA,,64
+23/03/2018,full cage,FCgr,green,medium,5,FCgrm5,green5,10,6,,64
+31/03/2018,full cage,FCgr,green,medium,5,FCgrm5,green5,10,7,,64
+9/04/2018,full cage,FCgr,green,medium,5,FCgrm5,green5,10,5,,64
+17/04/2018,full cage,FCgr,green,medium,5,FCgrm5,green5,10,6,,64
+23/03/2018,full cage,FCgr,green,medium,6,FCgrm6,green6,9,9,,64
+31/03/2018,full cage,FCgr,green,medium,6,FCgrm6,green6,13,10,,64
+9/04/2018,full cage,FCgr,green,medium,6,FCgrm6,green6,NA,NA,,64
+17/04/2018,full cage,FCgr,green,medium,6,FCgrm6,green6,7,4,,64
+23/03/2018,full cage,FCgr,green,medium,7,FCgrm7,green7,6,8,,64
+31/03/2018,full cage,FCgr,green,medium,7,FCgrm7,green7,NA,NA,,64
+9/04/2018,full cage,FCgr,green,medium,7,FCgrm7,green7,NA,NA,,64
+17/04/2018,full cage,FCgr,green,medium,7,FCgrm7,green7,NA,Na,2 PIECES,64
+23/03/2018,full cage,FCgr,green,medium,8,FCgrm8,green8,10,7,,64
+31/03/2018,full cage,FCgr,green,medium,8,FCgrm8,green8,8,6,,64
+9/04/2018,full cage,FCgr,green,medium,8,FCgrm8,green8,9,6,,64
+17/04/2018,full cage,FCgr,green,medium,8,FCgrm8,green8,8,6,,64
+23/03/2018,full cage,FCre,red,medium,1,FCrem1,red1,9,6,,68
+31/03/2018,full cage,FCre,red,medium,1,FCrem1,red1,8,8,,68
+9/04/2018,full cage,FCre,red,medium,1,FCrem1,red1,9,6,,68
+17/04/2018,full cage,FCre,red,medium,1,FCrem1,red1,9,7,NO CROSS,68
+23/03/2018,full cage,FCre,red,medium,2,FCrem2,red2,7,6,,68
+31/03/2018,full cage,FCre,red,medium,2,FCrem2,red2,7,6,,68
+9/04/2018,full cage,FCre,red,medium,2,FCrem2,red2,8,6,,68
+17/04/2018,full cage,FCre,red,medium,2,FCrem2,red2,9,7,,68
+23/03/2018,full cage,FCre,red,medium,3,FCrem3,red3,7,7,,68
+31/03/2018,full cage,FCre,red,medium,3,FCrem3,red3,7,4,,68
+9/04/2018,full cage,FCre,red,medium,3,FCrem3,red3,8,5,,68
+17/04/2018,full cage,FCre,red,medium,3,FCrem3,red3,10,5,,68
+23/03/2018,full cage,FCre,red,medium,4,FCrem4,red4,7,6,,68
+31/03/2018,full cage,FCre,red,medium,4,FCrem4,red4,7,6,,68
+9/04/2018,full cage,FCre,red,medium,4,FCrem4,red4,7,6,,68
+17/04/2018,full cage,FCre,red,medium,4,FCrem4,red4,8,6,,68
+23/03/2018,full cage,FCre,red,medium,5,FCrem5,red5,8,7,,68
+31/03/2018,full cage,FCre,red,medium,5,FCrem5,red5,8,8,,68
+9/04/2018,full cage,FCre,red,medium,5,FCrem5,red5,10,9,,68
+17/04/2018,full cage,FCre,red,medium,5,FCrem5,red5,7,5,,68
+23/03/2018,full cage,FCre,red,medium,6,FCrem6,red6,7,6,,68
+31/03/2018,full cage,FCre,red,medium,6,FCrem6,red6,9,6,,68
+9/04/2018,full cage,FCre,red,medium,6,FCrem6,red6,9,5,,68
+17/04/2018,full cage,FCre,red,medium,6,FCrem6,red6,6,6,,68
+23/03/2018,full cage,FCre,red,medium,7,FCrem7,red7,10,6,,68
+31/03/2018,full cage,FCre,red,medium,7,FCrem7,red7,8,6,,68
+9/04/2018,full cage,FCre,red,medium,7,FCrem7,red7,9,7,,68
+17/04/2018,full cage,FCre,red,medium,7,FCrem7,red7,9,7,,68
+23/03/2018,full cage,FCre,red,medium,8,FCrem8,red8,10,6,,68
+31/03/2018,full cage,FCre,red,medium,8,FCrem8,red8,10,6,,68
+9/04/2018,full cage,FCre,red,medium,8,FCrem8,red8,8,6,,68
+17/04/2018,full cage,FCre,red,medium,8,FCrem8,red8,7,7,,68
+23/03/2018,full cage,FCye,yellow,medium,1,FCyem1,yellow1,10,9,,4
+31/03/2018,full cage,FCye,yellow,medium,1,FCyem1,yellow1,6,5,,4
+9/04/2018,full cage,FCye,yellow,medium,1,FCyem1,yellow1,5,4,,4
+17/04/2018,full cage,FCye,yellow,medium,1,FCyem1,yellow1,6,6,,4
+23/03/2018,full cage,FCye,yellow,medium,2,FCyem2,yellow2,11,7,,4
+31/03/2018,full cage,FCye,yellow,medium,2,FCyem2,yellow2,8,7,,4
+9/04/2018,full cage,FCye,yellow,medium,2,FCyem2,yellow2,5,4,,4
+17/04/2018,full cage,FCye,yellow,medium,2,FCyem2,yellow2,5,4,,4
+23/03/2018,full cage,FCye,yellow,medium,3,FCyem3,yellow3,9,5,,4
+31/03/2018,full cage,FCye,yellow,medium,3,FCyem3,yellow3,NA,NA,,4
+9/04/2018,full cage,FCye,yellow,medium,3,FCyem3,yellow3,NA,NA,,4
+17/04/2018,full cage,FCye,yellow,medium,3,FCyem3,yellow3,NA,NA,,4
+23/03/2018,full cage,FCye,yellow,medium,4,FCyem4,yellow4,7,7,,4
+31/03/2018,full cage,FCye,yellow,medium,4,FCyem4,yellow4,6,5,,4
+9/04/2018,full cage,FCye,yellow,medium,4,FCyem4,yellow4,6,5,,4
+17/04/2018,full cage,FCye,yellow,medium,4,FCyem4,yellow4,NA,NA,,4
+23/03/2018,full cage,FCye,yellow,medium,5,FCyem5,yellow5,6,5,,4
+31/03/2018,full cage,FCye,yellow,medium,5,FCyem5,yellow5,9,5,,4
+9/04/2018,full cage,FCye,yellow,medium,5,FCyem5,yellow5,6,5,hermit crab,4
+17/04/2018,full cage,FCye,yellow,medium,5,FCyem5,yellow5,7,6,,4
+23/03/2018,full cage,FCye,yellow,medium,6,FCyem6,yellow6,9,7,,4
+31/03/2018,full cage,FCye,yellow,medium,6,FCyem6,yellow6,9,9,,4
+9/04/2018,full cage,FCye,yellow,medium,6,FCyem6,yellow6,7,6,,4
+17/04/2018,full cage,FCye,yellow,medium,6,FCyem6,yellow6,6,5,,4
+23/03/2018,full cage,FCye,yellow,medium,7,FCyem7,yellow7,7,4,,4
+31/03/2018,full cage,FCye,yellow,medium,7,FCyem7,yellow7,7,6,,4
+9/04/2018,full cage,FCye,yellow,medium,7,FCyem7,yellow7,5,5,,4
+17/04/2018,full cage,FCye,yellow,medium,7,FCyem7,yellow7,7,7,,4
+23/03/2018,full cage,FCye,yellow,medium,8,FCyem8,yellow8,9,6,,4
+31/03/2018,full cage,FCye,yellow,medium,8,FCyem8,yellow8,8,6,,4
+9/04/2018,full cage,FCye,yellow,medium,8,FCyem8,yellow8,8,6,,4
+17/04/2018,full cage,FCye,yellow,medium,8,FCyem8,yellow8,9,5,2 PIECES,4
+23/03/2018,open,Obl,black,medium,1,Oblm1,black1,8,6,,97.2
+31/03/2018,open,Obl,black,medium,1,Oblm1,black1,8,5,,97.2
+9/04/2018,open,Obl,black,medium,1,Oblm1,black1,7,6,,97.2
+17/04/2018,open,Obl,black,medium,1,Oblm1,black1,8,5,NO CROSS,97.2
+23/03/2018,open,Obl,black,medium,2,Oblm2,black2,10,7,,97.2
+31/03/2018,open,Obl,black,medium,2,Oblm2,black2,NA,NA,,97.2
+9/04/2018,open,Obl,black,medium,2,Oblm2,black2,NA,NA,,97.2
+17/04/2018,open,Obl,black,medium,2,Oblm2,black2,NA,NA,,97.2
+23/03/2018,open,Obl,black,medium,3,Oblm3,black3,7,4,,97.2
+31/03/2018,open,Obl,black,medium,3,Oblm3,black3,6,4,,97.2
+9/04/2018,open,Obl,black,medium,3,Oblm3,black3,NA,NA,,97.2
+17/04/2018,open,Obl,black,medium,3,Oblm3,black3,NA,NA,,97.2
+23/03/2018,open,Obl,black,medium,4,Oblm4,black4,9,9,,97.2
+31/03/2018,open,Obl,black,medium,4,Oblm4,black4,9,5,,97.2
+9/04/2018,open,Obl,black,medium,4,Oblm4,black4,8,5,broken,97.2
+17/04/2018,open,Obl,black,medium,4,Oblm4,black4,9,5,,97.2
+23/03/2018,open,Obl,black,medium,5,Oblm5,black5,8,7,,97.2
+31/03/2018,open,Obl,black,medium,5,Oblm5,black5,8,3,,97.2
+9/04/2018,open,Obl,black,medium,5,Oblm5,black5,7,5,,97.2
+17/04/2018,open,Obl,black,medium,5,Oblm5,black5,8,6,2 PIECES,97.2
+23/03/2018,open,Obl,black,medium,6,Oblm6,black6,8,5,,97.2
+31/03/2018,open,Obl,black,medium,6,Oblm6,black6,6,6,,97.2
+9/04/2018,open,Obl,black,medium,6,Oblm6,black6,6,5,,97.2
+17/04/2018,open,Obl,black,medium,6,Oblm6,black6,7,6,,97.2
+23/03/2018,open,Obl,black,medium,7,Oblm7,black7,9,7,,97.2
+31/03/2018,open,Obl,black,medium,7,Oblm7,black7,8,7,,97.2
+9/04/2018,open,Obl,black,medium,7,Oblm7,black7,9,8,,97.2
+17/04/2018,open,Obl,black,medium,7,Oblm7,black7,9,8,,97.2
+23/03/2018,open,Obl,black,medium,8,Oblm8,black8,9,5,,97.2
+31/03/2018,open,Obl,black,medium,8,Oblm8,black8,2,5,broken?,97.2
+9/04/2018,open,Obl,black,medium,8,Oblm8,black8,4,2,,97.2
+17/04/2018,open,Obl,black,medium,8,Oblm8,black8,4,2,,97.2
+23/03/2018,open,Ogr,green,medium,1,Ogrm1,green1,10,7,,26
+31/03/2018,open,Ogr,green,medium,1,Ogrm1,green1,8,6,,26
+9/04/2018,open,Ogr,green,medium,1,Ogrm1,green1,6,4,,26
+17/04/2018,open,Ogr,green,medium,1,Ogrm1,green1,7,5,NO CROSS,26
+23/03/2018,open,Ogr,green,medium,2,Ogrm2,green2,9,7,,26
+31/03/2018,open,Ogr,green,medium,2,Ogrm2,green2,9,6,,26
+9/04/2018,open,Ogr,green,medium,2,Ogrm2,green2,6,4,,26
+17/04/2018,open,Ogr,green,medium,2,Ogrm2,green2,5,3,,26
+23/03/2018,open,Ogr,green,medium,3,Ogrm3,green3,9,5,,26
+31/03/2018,open,Ogr,green,medium,3,Ogrm3,green3,9,5,,26
+9/04/2018,open,Ogr,green,medium,3,Ogrm3,green3,10,8,,26
+17/04/2018,open,Ogr,green,medium,3,Ogrm3,green3,10,7,,26
+23/03/2018,open,Ogr,green,medium,4,Ogrm4,green4,8,7,,26
+31/03/2018,open,Ogr,green,medium,4,Ogrm4,green4,7,6,,26
+9/04/2018,open,Ogr,green,medium,4,Ogrm4,green4,8,5,,26
+17/04/2018,open,Ogr,green,medium,4,Ogrm4,green4,9,5,,26
+23/03/2018,open,Ogr,green,medium,5,Ogrm5,green5,9,7,,26
+31/03/2018,open,Ogr,green,medium,5,Ogrm5,green5,5,5,,26
+9/04/2018,open,Ogr,green,medium,5,Ogrm5,green5,8,4,,26
+17/04/2018,open,Ogr,green,medium,5,Ogrm5,green5,9,8,,26
+23/03/2018,open,Ogr,green,medium,6,Ogrm6,green6,9,6,,26
+31/03/2018,open,Ogr,green,medium,6,Ogrm6,green6,7,5,,26
+9/04/2018,open,Ogr,green,medium,6,Ogrm6,green6,7,6,,26
+17/04/2018,open,Ogr,green,medium,6,Ogrm6,green6,7,6,,26
+23/03/2018,open,Ogr,green,medium,7,Ogrm7,green7,7,5,,26
+31/03/2018,open,Ogr,green,medium,7,Ogrm7,green7,6,5,,26
+9/04/2018,open,Ogr,green,medium,7,Ogrm7,green7,5,4,,26
+17/04/2018,open,Ogr,green,medium,7,Ogrm7,green7,6,6,,26
+23/03/2018,open,Ogr,green,medium,8,Ogrm8,green8,7,6,,25
+31/03/2018,open,Ogr,green,medium,8,Ogrm8,green8,6,6,,26
+9/04/2018,open,Ogr,green,medium,8,Ogrm8,green8,6,6,,26
+17/04/2018,open,Ogr,green,medium,8,Ogrm8,green8,8,6,,26
+23/03/2018,open,Ore,red,medium,1,Orem1,red1,8,8,,83.2
+31/03/2018,open,Ore,red,medium,1,Orem1,red1,7,5,,83.2
+9/04/2018,open,Ore,red,medium,1,Orem1,red1,3,2,,83.2
+17/04/2018,open,Ore,red,medium,1,Orem1,red1,5,3,NO CROSS,83.2
+23/03/2018,open,Ore,red,medium,2,Orem2,red2,9,6,,83.2
+31/03/2018,open,Ore,red,medium,2,Orem2,red2,NA,NA,,83.2
+9/04/2018,open,Ore,red,medium,2,Orem2,red2,NA,NA,,83.2
+17/04/2018,open,Ore,red,medium,2,Orem2,red2,NA,NA,,83.2
+23/03/2018,open,Ore,red,medium,3,Orem3,red3,12,7,,83.2
+31/03/2018,open,Ore,red,medium,3,Orem3,red3,7,4,,83.2
+9/04/2018,open,Ore,red,medium,3,Orem3,red3,7,5,,83.2
+17/04/2018,open,Ore,red,medium,3,Orem3,red3,6,4,,83.2
+23/03/2018,open,Ore,red,medium,4,Orem4,red4,9,7,,83.2
+31/03/2018,open,Ore,red,medium,4,Orem4,red4,10,8,,83.2
+9/04/2018,open,Ore,red,medium,4,Orem4,red4,11,9,,83.2
+17/04/2018,open,Ore,red,medium,4,Orem4,red4,10,8,2 PIECES,83.2
+23/03/2018,open,Ore,red,medium,5,Orem5,red5,9,7,,83.2
+31/03/2018,open,Ore,red,medium,5,Orem5,red5,7,6,,83.2
+9/04/2018,open,Ore,red,medium,5,Orem5,red5,8,6,,83.2
+17/04/2018,open,Ore,red,medium,5,Orem5,red5,8,7,,83.2
+23/03/2018,open,Ore,red,medium,6,Orem6,red6,10,8,,83.2
+31/03/2018,open,Ore,red,medium,6,Orem6,red6,10,6,,83.2
+9/04/2018,open,Ore,red,medium,6,Orem6,red6,10,5,,83.2
+17/04/2018,open,Ore,red,medium,6,Orem6,red6,9,6,,83.2
+23/03/2018,open,Ore,red,medium,7,Orem7,red7,10,6,,83.2
+31/03/2018,open,Ore,red,medium,7,Orem7,red7,8,7,,83.2
+9/04/2018,open,Ore,red,medium,7,Orem7,red7,8,7,,83.2
+17/04/2018,open,Ore,red,medium,7,Orem7,red7,8,7,,83.2
+23/03/2018,open,Ore,red,medium,8,Orem8,red8,10,7,,83.2
+31/03/2018,open,Ore,red,medium,8,Orem8,red8,11,6,,83.2
+9/04/2018,open,Ore,red,medium,8,Orem8,red8,9,6,,83.2
+17/04/2018,open,Ore,red,medium,8,Orem8,red8,12,6,,83.2
+23/03/2018,open,Oye,yellow,medium,1,Oyem1,yellow1,12,7,,22.2
+31/03/2018,open,Oye,yellow,medium,1,Oyem1,yellow1,12,6,,22.2
+9/04/2018,open,Oye,yellow,medium,1,Oyem1,yellow1,11,6,,22.2
+17/04/2018,open,Oye,yellow,medium,1,Oyem1,yellow1,11,6,2 pieces,22.2
+23/03/2018,open,Oye,yellow,medium,2,Oyem2,yellow2,6,6,,22.2
+31/03/2018,open,Oye,yellow,medium,2,Oyem2,yellow2,8,7,,22.2
+9/04/2018,open,Oye,yellow,medium,2,Oyem2,yellow2,8,5,,22.2
+17/04/2018,open,Oye,yellow,medium,2,Oyem2,yellow2,8,6,,22.2
+23/03/2018,open,Oye,yellow,medium,3,Oyem3,yellow3,8,6,,22.2
+31/03/2018,open,Oye,yellow,medium,3,Oyem3,yellow3,9,6,,22.2
+9/04/2018,open,Oye,yellow,medium,3,Oyem3,yellow3,5,5,,22.2
+17/04/2018,open,Oye,yellow,medium,3,Oyem3,yellow3,5,4,,22.2
+23/03/2018,open,Oye,yellow,medium,4,Oyem4,yellow4,10,5,,22.2
+31/03/2018,open,Oye,yellow,medium,4,Oyem4,yellow4,11,5,,22.2
+9/04/2018,open,Oye,yellow,medium,4,Oyem4,yellow4,9,4,,22.2
+17/04/2018,open,Oye,yellow,medium,4,Oyem4,yellow4,10,5,,22.2
+23/03/2018,open,Oye,yellow,medium,5,Oyem5,yellow5,6,6,,22.2
+31/03/2018,open,Oye,yellow,medium,5,Oyem5,yellow5,7,6,,22.2
+9/04/2018,open,Oye,yellow,medium,5,Oyem5,yellow5,7,6,,22.2
+17/04/2018,open,Oye,yellow,medium,5,Oyem5,yellow5,9,6,,22.2
+23/03/2018,open,Oye,yellow,medium,6,Oyem6,yellow6,8,7,,22.2
+31/03/2018,open,Oye,yellow,medium,6,Oyem6,yellow6,8,8,,22.2
+9/04/2018,open,Oye,yellow,medium,6,Oyem6,yellow6,8,8,,22.2
+17/04/2018,open,Oye,yellow,medium,6,Oyem6,yellow6,9,8,,22.2
+23/03/2018,open,Oye,yellow,medium,7,Oyem7,yellow7,9,7,,22.2
+31/03/2018,open,Oye,yellow,medium,7,Oyem7,yellow7,10,8,,22.2
+9/04/2018,open,Oye,yellow,medium,7,Oyem7,yellow7,10,8,,22.2
+17/04/2018,open,Oye,yellow,medium,7,Oyem7,yellow7,10,7,,22.2
+23/03/2018,open,Oye,yellow,medium,8,Oyem8,yellow8,8,3,,22.2
+31/03/2018,open,Oye,yellow,medium,8,Oyem8,yellow8,8,3,,22.2
+9/04/2018,open,Oye,yellow,medium,8,Oyem8,yellow8,8,3,,22.2
+17/04/2018,open,Oye,yellow,medium,8,Oyem8,yellow8,8,3,,22.2
+23/03/2018,partial cage,PCbl,black,medium,1,PCblm1,black1,7,7,,109
+31/03/2018,partial cage,PCbl,black,medium,1,PCblm1,black1,8,6,,109
+9/04/2018,partial cage,PCbl,black,medium,1,PCblm1,black1,4,3,,109
+17/04/2018,partial cage,PCbl,black,medium,1,PCblm1,black1,7,6,NO CROSS,109
+23/03/2018,partial cage,PCbl,black,medium,2,PCblm2,black2,9,6,,109
+31/03/2018,partial cage,PCbl,black,medium,2,PCblm2,black2,9,6,,109
+9/04/2018,partial cage,PCbl,black,medium,2,PCblm2,black2,8,7,,109
+17/04/2018,partial cage,PCbl,black,medium,2,PCblm2,black2,11,9,,109
+23/03/2018,partial cage,PCbl,black,medium,3,PCblm3,black3,9,7,,109
+31/03/2018,partial cage,PCbl,black,medium,3,PCblm3,black3,9,8,,109
+9/04/2018,partial cage,PCbl,black,medium,3,PCblm3,black3,8,8,,109
+17/04/2018,partial cage,PCbl,black,medium,3,PCblm3,black3,9,7,,109
+23/03/2018,partial cage,PCbl,black,medium,4,PCblm4,black4,7,5,,109
+31/03/2018,partial cage,PCbl,black,medium,4,PCblm4,black4,9,5,,109
+9/04/2018,partial cage,PCbl,black,medium,4,PCblm4,black4,NA,NA,,109
+17/04/2018,partial cage,PCbl,black,medium,4,PCblm4,black4,9,6,,109
+23/03/2018,partial cage,PCbl,black,medium,5,PCblm5,black5,9,5,,109
+31/03/2018,partial cage,PCbl,black,medium,5,PCblm5,black5,11,6,,109
+9/04/2018,partial cage,PCbl,black,medium,5,PCblm5,black5,NA,NA,,109
+17/04/2018,partial cage,PCbl,black,medium,5,PCblm5,black5,9,6,,109
+23/03/2018,partial cage,PCbl,black,medium,6,PCblm6,black6,7,7,,109
+31/03/2018,partial cage,PCbl,black,medium,6,PCblm6,black6,9,7,,109
+9/04/2018,partial cage,PCbl,black,medium,6,PCblm6,black6,4,4,,109
+17/04/2018,partial cage,PCbl,black,medium,6,PCblm6,black6,7,6,,109
+23/03/2018,partial cage,PCbl,black,medium,7,PCblm7,black7,9,6,,109
+31/03/2018,partial cage,PCbl,black,medium,7,PCblm7,black7,NA,NA,,109
+9/04/2018,partial cage,PCbl,black,medium,7,PCblm7,black7,NA,NA,hermit crab,109
+17/04/2018,partial cage,PCbl,black,medium,7,PCblm7,black7,NA,NA,,109
+23/03/2018,partial cage,PCbl,black,medium,8,PCblm8,black8,10,5,,109
+31/03/2018,partial cage,PCbl,black,medium,8,PCblm8,black8,10,5,,109
+9/04/2018,partial cage,PCbl,black,medium,8,PCblm8,black8,10,6,,109
+17/04/2018,partial cage,PCbl,black,medium,8,PCblm8,black8,11,6,,109
+23/03/2018,partial cage,PCgr,green,medium,1,PCgrm1,green1,9,7,,15
+31/03/2018,partial cage,PCgr,green,medium,1,PCgrm1,green1,10,7,,15
+9/04/2018,partial cage,PCgr,green,medium,1,PCgrm1,green1,NA,NA,,15
+17/04/2018,partial cage,PCgr,green,medium,1,PCgrm1,green1,NA,NA,,15
+23/03/2018,partial cage,PCgr,green,medium,2,PCgrm2,green2,9,6,,15
+31/03/2018,partial cage,PCgr,green,medium,2,PCgrm2,green2,7,5,,15
+9/04/2018,partial cage,PCgr,green,medium,2,PCgrm2,green2,7,5,,15
+17/04/2018,partial cage,PCgr,green,medium,2,PCgrm2,green2,8,5,,15
+23/03/2018,partial cage,PCgr,green,medium,3,PCgrm3,green3,8,7,,15
+31/03/2018,partial cage,PCgr,green,medium,3,PCgrm3,green3,7,6,,15
+9/04/2018,partial cage,PCgr,green,medium,3,PCgrm3,green3,6,5,,15
+17/04/2018,partial cage,PCgr,green,medium,3,PCgrm3,green3,7,7,,15
+23/03/2018,partial cage,PCgr,green,medium,4,PCgrm4,green4,7,6,,15
+31/03/2018,partial cage,PCgr,green,medium,4,PCgrm4,green4,7,5,,15
+9/04/2018,partial cage,PCgr,green,medium,4,PCgrm4,green4,6,6,,15
+17/04/2018,partial cage,PCgr,green,medium,4,PCgrm4,green4,8,5,,15
+23/03/2018,partial cage,PCgr,green,medium,5,PCgrm5,green5,6,4,,15
+31/03/2018,partial cage,PCgr,green,medium,5,PCgrm5,green5,5,4,,15
+9/04/2018,partial cage,PCgr,green,medium,5,PCgrm5,green5,6,4,,15
+17/04/2018,partial cage,PCgr,green,medium,5,PCgrm5,green5,7,4,,15
+23/03/2018,partial cage,PCgr,green,medium,6,PCgrm6,green6,8,7,,15
+31/03/2018,partial cage,PCgr,green,medium,6,PCgrm6,green6,NA,NA,,15
+9/04/2018,partial cage,PCgr,green,medium,6,PCgrm6,green6,NA,NA,,15
+17/04/2018,partial cage,PCgr,green,medium,6,PCgrm6,green6,NA,NA,,15
+23/03/2018,partial cage,PCgr,green,medium,7,PCgrm7,green7,7,4,,15
+31/03/2018,partial cage,PCgr,green,medium,7,PCgrm7,green7,6,5,,15
+9/04/2018,partial cage,PCgr,green,medium,7,PCgrm7,green7,6,5,,15
+17/04/2018,partial cage,PCgr,green,medium,7,PCgrm7,green7,7,5,,15
+23/03/2018,partial cage,PCgr,green,medium,8,PCgrm8,green8,10,7,,15
+31/03/2018,partial cage,PCgr,green,medium,8,PCgrm8,green8,6,6,,15
+9/04/2018,partial cage,PCgr,green,medium,8,PCgrm8,green8,7,5,,15
+17/04/2018,partial cage,PCgr,green,medium,8,PCgrm8,green8,7,7,,15
+23/03/2018,partial cage,PCre,red,medium,1,PCrem1,red1,8,8,,41
+31/03/2018,partial cage,PCre,red,medium,1,PCrem1,red1,7,5,,41
+9/04/2018,partial cage,PCre,red,medium,1,PCrem1,red1,NA,NA,,41
+17/04/2018,partial cage,PCre,red,medium,1,PCrem1,red1,NA,NA,,41
+23/03/2018,partial cage,PCre,red,medium,2,PCrem2,red2,7,4,,41
+31/03/2018,partial cage,PCre,red,medium,2,PCrem2,red2,NA,NA,,41
+9/04/2018,partial cage,PCre,red,medium,2,PCrem2,red2,NA,NA,,41
+17/04/2018,partial cage,PCre,red,medium,2,PCrem2,red2,NA,NA,,41
+23/03/2018,partial cage,PCre,red,medium,3,PCrem3,red3,9,5,,41
+31/03/2018,partial cage,PCre,red,medium,3,PCrem3,red3,5,4,,41
+9/04/2018,partial cage,PCre,red,medium,3,PCrem3,red3,NA,NA,,41
+17/04/2018,partial cage,PCre,red,medium,3,PCrem3,red3,NA,NA,,41
+23/03/2018,partial cage,PCre,red,medium,4,PCrem4,red4,9,5,,41
+31/03/2018,partial cage,PCre,red,medium,4,PCrem4,red4,NA,NA,,41
+9/04/2018,partial cage,PCre,red,medium,4,PCrem4,red4,NA,NA,,41
+17/04/2018,partial cage,PCre,red,medium,4,PCrem4,red4,NA,NA,,41
+23/03/2018,partial cage,PCre,red,medium,5,PCrem5,red5,10,6,,41
+31/03/2018,partial cage,PCre,red,medium,5,PCrem5,red5,9,6,,41
+9/04/2018,partial cage,PCre,red,medium,5,PCrem5,red5,6,6,,41
+17/04/2018,partial cage,PCre,red,medium,5,PCrem5,red5,11,5,,41
+23/03/2018,partial cage,PCre,red,medium,6,PCrem6,red6,8,7,,41
+31/03/2018,partial cage,PCre,red,medium,6,PCrem6,red6,10,8,,41
+9/04/2018,partial cage,PCre,red,medium,6,PCrem6,red6,7,6,,41
+17/04/2018,partial cage,PCre,red,medium,6,PCrem6,red6,9,7,,41
+23/03/2018,partial cage,PCre,red,medium,7,PCrem7,red7,6,6,,41
+31/03/2018,partial cage,PCre,red,medium,7,PCrem7,red7,6,5,,41
+9/04/2018,partial cage,PCre,red,medium,7,PCrem7,red7,7,6,,41
+17/04/2018,partial cage,PCre,red,medium,7,PCrem7,red7,6,5,,41
+23/03/2018,partial cage,PCre,red,medium,8,PCrem8,red8,7,6,,41
+31/03/2018,partial cage,PCre,red,medium,8,PCrem8,red8,5,4,,41
+9/04/2018,partial cage,PCre,red,medium,8,PCrem8,red8,6,5,,41
+17/04/2018,partial cage,PCre,red,medium,8,PCrem8,red8,7,5,,41
+23/03/2018,partial cage,PCye,yellow,medium,1,PCyem1,yellow1,9,8,,92
+31/03/2018,partial cage,PCye,yellow,medium,1,PCyem1,yellow1,10,9,,92
+9/04/2018,partial cage,PCye,yellow,medium,1,PCyem1,yellow1,9,5,,92
+17/04/2018,partial cage,PCye,yellow,medium,1,PCyem1,yellow1,8,5,,92
+23/03/2018,partial cage,PCye,yellow,medium,2,PCyem2,yellow2,8,8,,92
+31/03/2018,partial cage,PCye,yellow,medium,2,PCyem2,yellow2,8,8,,92
+9/04/2018,partial cage,PCye,yellow,medium,2,PCyem2,yellow2,7,6,,92
+17/04/2018,partial cage,PCye,yellow,medium,2,PCyem2,yellow2,8,7,,92
+23/03/2018,partial cage,PCye,yellow,medium,3,PCyem3,yellow3,7,6,,92
+31/03/2018,partial cage,PCye,yellow,medium,3,PCyem3,yellow3,NA,NA,,92
+9/04/2018,partial cage,PCye,yellow,medium,3,PCyem3,yellow3,NA,NA,,92
+17/04/2018,partial cage,PCye,yellow,medium,3,PCyem3,yellow3,NA,NA,,92
+23/03/2018,partial cage,PCye,yellow,medium,4,PCyem4,yellow4,7,5,,92
+31/03/2018,partial cage,PCye,yellow,medium,4,PCyem4,yellow4,7,5,,92
+9/04/2018,partial cage,PCye,yellow,medium,4,PCyem4,yellow4,5,3,,92
+17/04/2018,partial cage,PCye,yellow,medium,4,PCyem4,yellow4,NA,NA,,92
+23/03/2018,partial cage,PCye,yellow,medium,5,PCyem5,yellow5,9,6,,92
+31/03/2018,partial cage,PCye,yellow,medium,5,PCyem5,yellow5,10,6,,92
+9/04/2018,partial cage,PCye,yellow,medium,5,PCyem5,yellow5,7,6,,92
+17/04/2018,partial cage,PCye,yellow,medium,5,PCyem5,yellow5,8,6,,92
+23/03/2018,partial cage,PCye,yellow,medium,6,PCyem6,yellow6,7,6,,92
+31/03/2018,partial cage,PCye,yellow,medium,6,PCyem6,yellow6,6,5,broken?,92
+9/04/2018,partial cage,PCye,yellow,medium,6,PCyem6,yellow6,NA,NA,,92
+17/04/2018,partial cage,PCye,yellow,medium,6,PCyem6,yellow6,5,4,,92
+23/03/2018,partial cage,PCye,yellow,medium,7,PCyem7,yellow7,9,7,,92
+31/03/2018,partial cage,PCye,yellow,medium,7,PCyem7,yellow7,7,4,,92
+9/04/2018,partial cage,PCye,yellow,medium,7,PCyem7,yellow7,6,2,,92
+17/04/2018,partial cage,PCye,yellow,medium,7,PCyem7,yellow7,5,4,,92
+23/03/2018,partial cage,PCye,yellow,medium,8,PCyem8,yellow8,8,6,,92
+31/03/2018,partial cage,PCye,yellow,medium,8,PCyem8,yellow8,10,7,,92
+9/04/2018,partial cage,PCye,yellow,medium,8,PCyem8,yellow8,9,7,,92
+17/04/2018,partial cage,PCye,yellow,medium,8,PCyem8,yellow8,9,7,,92
+23/03/2018,full cage,FCbl,black,small,1,FCbls1,black1,10,6,,53
+31/03/2018,full cage,FCbl,black,small,1,FCbls1,black1,10,5,,53
+9/04/2018,full cage,FCbl,black,small,1,FCbls1,black1,7,5,,53
+17/04/2018,full cage,FCbl,black,small,1,FCbls1,black1,9,6,,53
+23/03/2018,full cage,FCbl,black,small,2,FCbls2,black2,8,7,,53
+31/03/2018,full cage,FCbl,black,small,2,FCbls2,black2,7,6,,53
+9/04/2018,full cage,FCbl,black,small,2,FCbls2,black2,8,6,,53
+17/04/2018,full cage,FCbl,black,small,2,FCbls2,black2,8,5,,53
+23/03/2018,full cage,FCbl,black,small,3,FCbls3,black3,8,6,,53
+31/03/2018,full cage,FCbl,black,small,3,FCbls3,black3,6,6,,53
+9/04/2018,full cage,FCbl,black,small,3,FCbls3,black3,8,6,,53
+17/04/2018,full cage,FCbl,black,small,3,FCbls3,black3,8,6,2 PIECES,53
+23/03/2018,full cage,FCbl,black,small,4,FCbls4,black4,6,5,,53
+31/03/2018,full cage,FCbl,black,small,4,FCbls4,black4,5,5,,53
+9/04/2018,full cage,FCbl,black,small,4,FCbls4,black4,6,5,,53
+17/04/2018,full cage,FCbl,black,small,4,FCbls4,black4,5,6,,53
+23/03/2018,full cage,FCbl,black,small,5,FCbls5,black5,8,7,,53
+31/03/2018,full cage,FCbl,black,small,5,FCbls5,black5,7,4,,53
+9/04/2018,full cage,FCbl,black,small,5,FCbls5,black5,6,5,dying?,53
+17/04/2018,full cage,FCbl,black,small,5,FCbls5,black5,8,6,,53
+23/03/2018,full cage,FCbl,black,small,6,FCbls6,black6,6,6,,53
+31/03/2018,full cage,FCbl,black,small,6,FCbls6,black6,6,5,,53
+9/04/2018,full cage,FCbl,black,small,6,FCbls6,black6,6,4,,53
+17/04/2018,full cage,FCbl,black,small,6,FCbls6,black6,6,4,,53
+23/03/2018,full cage,FCbl,black,small,7,FCbls7,black7,9,5,,53
+31/03/2018,full cage,FCbl,black,small,7,FCbls7,black7,NA,NA,,53
+9/04/2018,full cage,FCbl,black,small,7,FCbls7,black7,NA,NA,,53
+17/04/2018,full cage,FCbl,black,small,7,FCbls7,black7,NA,NA,,53
+23/03/2018,full cage,FCbl,black,small,8,FCbls8,black8,6,5,,53
+31/03/2018,full cage,FCbl,black,small,8,FCbls8,black8,5,5,,53
+9/04/2018,full cage,FCbl,black,small,8,FCbls8,black8,4,4,,53
+17/04/2018,full cage,FCbl,black,small,8,FCbls8,black8,6,5,,53
+23/03/2018,full cage,FCgr,green,small,1,FCgrs1,green1,11,6,,66
+31/03/2018,full cage,FCgr,green,small,1,FCgrs1,green1,11,6,,66
+9/04/2018,full cage,FCgr,green,small,1,FCgrs1,green1,11,5,,66
+17/04/2018,full cage,FCgr,green,small,1,FCgrs1,green1,11,6,,66
+23/03/2018,full cage,FCgr,green,small,2,FCgrs2,green2,7,6,,66
+31/03/2018,full cage,FCgr,green,small,2,FCgrs2,green2,6,6,,66
+9/04/2018,full cage,FCgr,green,small,2,FCgrs2,green2,7,6,,66
+17/04/2018,full cage,FCgr,green,small,2,FCgrs2,green2,8,5,,66
+23/03/2018,full cage,FCgr,green,small,3,FCgrs3,green3,9,7,,66
+31/03/2018,full cage,FCgr,green,small,3,FCgrs3,green3,8,6,,66
+9/04/2018,full cage,FCgr,green,small,3,FCgrs3,green3,9,6,,66
+17/04/2018,full cage,FCgr,green,small,3,FCgrs3,green3,7,6,,66
+23/03/2018,full cage,FCgr,green,small,4,FCgrs4,green4,10,5,,66
+31/03/2018,full cage,FCgr,green,small,4,FCgrs4,green4,7,7,,66
+9/04/2018,full cage,FCgr,green,small,4,FCgrs4,green4,8,6,,66
+17/04/2018,full cage,FCgr,green,small,4,FCgrs4,green4,9,8,,66
+23/03/2018,full cage,FCgr,green,small,5,FCgrs5,green5,11,6,,66
+31/03/2018,full cage,FCgr,green,small,5,FCgrs5,green5,10,4,,66
+9/04/2018,full cage,FCgr,green,small,5,FCgrs5,green5,10,5,,66
+17/04/2018,full cage,FCgr,green,small,5,FCgrs5,green5,8,5,2 PIECES,66
+23/03/2018,full cage,FCgr,green,small,6,FCgrs6,green6,11,6,,66
+31/03/2018,full cage,FCgr,green,small,6,FCgrs6,green6,8,5,,66
+9/04/2018,full cage,FCgr,green,small,6,FCgrs6,green6,9,6,,66
+17/04/2018,full cage,FCgr,green,small,6,FCgrs6,green6,8,6,,66
+23/03/2018,full cage,FCgr,green,small,7,FCgrs7,green7,8,6,,66
+31/03/2018,full cage,FCgr,green,small,7,FCgrs7,green7,NA,NA,,66
+9/04/2018,full cage,FCgr,green,small,7,FCgrs7,green7,NA,NA,,66
+17/04/2018,full cage,FCgr,green,small,7,FCgrs7,green7,NA,NA,,66
+23/03/2018,full cage,FCgr,green,small,8,FCgrs8,green8,11,6,,66
+31/03/2018,full cage,FCgr,green,small,8,FCgrs8,green8,11,4,,66
+9/04/2018,full cage,FCgr,green,small,8,FCgrs8,green8,11,4,,66
+17/04/2018,full cage,FCgr,green,small,8,FCgrs8,green8,9,6,2 PIECES,66
+23/03/2018,full cage,FCre,red,small,1,FCres1,red1,11,6,,67
+31/03/2018,full cage,FCre,red,small,1,FCres1,red1,10,6,,67
+9/04/2018,full cage,FCre,red,small,1,FCres1,red1,10,6,,67
+17/04/2018,full cage,FCre,red,small,1,FCres1,red1,9,5,,67
+23/03/2018,full cage,FCre,red,small,2,FCres2,red2,12,5,,67
+31/03/2018,full cage,FCre,red,small,2,FCres2,red2,11,4,,67
+9/04/2018,full cage,FCre,red,small,2,FCres2,red2,11,5,,67
+17/04/2018,full cage,FCre,red,small,2,FCres2,red2,12,4,2 PIECES,67
+23/03/2018,full cage,FCre,red,small,3,FCres3,red3,10,6,,67
+31/03/2018,full cage,FCre,red,small,3,FCres3,red3,7,6,,67
+9/04/2018,full cage,FCre,red,small,3,FCres3,red3,7,4,,67
+17/04/2018,full cage,FCre,red,small,3,FCres3,red3,11,6,,67
+23/03/2018,full cage,FCre,red,small,4,FCres4,red4,8,5,,67
+31/03/2018,full cage,FCre,red,small,4,FCres4,red4,9,5,,67
+9/04/2018,full cage,FCre,red,small,4,FCres4,red4,9,6,,67
+17/04/2018,full cage,FCre,red,small,4,FCres4,red4,9,6,,67
+23/03/2018,full cage,FCre,red,small,5,FCres5,red5,8,7,,67
+31/03/2018,full cage,FCre,red,small,5,FCres5,red5,7,6,,67
+9/04/2018,full cage,FCre,red,small,5,FCres5,red5,5,5,,67
+17/04/2018,full cage,FCre,red,small,5,FCres5,red5,9,6,,67
+23/03/2018,full cage,FCre,red,small,6,FCres6,red6,8,6,,67
+31/03/2018,full cage,FCre,red,small,6,FCres6,red6,8,5,,67
+9/04/2018,full cage,FCre,red,small,6,FCres6,red6,NA,NA,,67
+17/04/2018,full cage,FCre,red,small,6,FCres6,red6,NA,NA,,67
+23/03/2018,full cage,FCre,red,small,7,FCres7,red7,7,6,,67
+31/03/2018,full cage,FCre,red,small,7,FCres7,red7,NA,NA,,67
+9/04/2018,full cage,FCre,red,small,7,FCres7,red7,NA,NA,,67
+17/04/2018,full cage,FCre,red,small,7,FCres7,red7,NA,NA,,67
+23/03/2018,full cage,FCre,red,small,8,FCres8,red8,8,6,,67
+31/03/2018,full cage,FCre,red,small,8,FCres8,red8,6,5,,67
+9/04/2018,full cage,FCre,red,small,8,FCres8,red8,6,4,,67
+17/04/2018,full cage,FCre,red,small,8,FCres8,red8,6,4,,67
+23/03/2018,full cage,FCye,yellow,small,1,FCyes1,yellow1,9,6,,5
+31/03/2018,full cage,FCye,yellow,small,1,FCyes1,yellow1,4,3,broken?,5
+9/04/2018,full cage,FCye,yellow,small,1,FCyes1,yellow1,6,2,,5
+17/04/2018,full cage,FCye,yellow,small,1,FCyes1,yellow1,4,2,NO CROSS,5
+23/03/2018,full cage,FCye,yellow,small,2,FCyes2,yellow2,11,5,,5
+31/03/2018,full cage,FCye,yellow,small,2,FCyes2,yellow2,10,5,,5
+9/04/2018,full cage,FCye,yellow,small,2,FCyes2,yellow2,10,4,,5
+17/04/2018,full cage,FCye,yellow,small,2,FCyes2,yellow2,10,4,,5
+23/03/2018,full cage,FCye,yellow,small,3,FCyes3,yellow3,8,7,,5
+31/03/2018,full cage,FCye,yellow,small,3,FCyes3,yellow3,8,7,,5
+9/04/2018,full cage,FCye,yellow,small,3,FCyes3,yellow3,8,7,,5
+17/04/2018,full cage,FCye,yellow,small,3,FCyes3,yellow3,8,8,,5
+23/03/2018,full cage,FCye,yellow,small,4,FCyes4,yellow4,8,6,,5
+31/03/2018,full cage,FCye,yellow,small,4,FCyes4,yellow4,8,6,,5
+9/04/2018,full cage,FCye,yellow,small,4,FCyes4,yellow4,9,6,,5
+17/04/2018,full cage,FCye,yellow,small,4,FCyes4,yellow4,8,6,,5
+23/03/2018,full cage,FCye,yellow,small,5,FCyes5,yellow5,8,6,,5
+31/03/2018,full cage,FCye,yellow,small,5,FCyes5,yellow5,9,6,,5
+9/04/2018,full cage,FCye,yellow,small,5,FCyes5,yellow5,6,4,,5
+17/04/2018,full cage,FCye,yellow,small,5,FCyes5,yellow5,4,4,,5
+23/03/2018,full cage,FCye,yellow,small,6,FCyes6,yellow6,7,5,,5
+31/03/2018,full cage,FCye,yellow,small,6,FCyes6,yellow6,8,8,,5
+9/04/2018,full cage,FCye,yellow,small,6,FCyes6,yellow6,7,4,,5
+17/04/2018,full cage,FCye,yellow,small,6,FCyes6,yellow6,NA,NA,,5
+23/03/2018,full cage,FCye,yellow,small,7,FCyes7,yellow7,6,6,,5
+31/03/2018,full cage,FCye,yellow,small,7,FCyes7,yellow7,7,6,,5
+9/04/2018,full cage,FCye,yellow,small,7,FCyes7,yellow7,6,3,,5
+17/04/2018,full cage,FCye,yellow,small,7,FCyes7,yellow7,6,6,,5
+23/03/2018,full cage,FCye,yellow,small,8,FCyes8,yellow8,6,5,,5
+31/03/2018,full cage,FCye,yellow,small,8,FCyes8,yellow8,7,5,,5
+9/04/2018,full cage,FCye,yellow,small,8,FCyes8,yellow8,7,6,,5
+17/04/2018,full cage,FCye,yellow,small,8,FCyes8,yellow8,6,5,,5
+23/03/2018,open,Obl,black,small,1,Obls1,black1,7,5,,7.2
+31/03/2018,open,Obl,black,small,1,Obls1,black1,7,4,,7.2
+9/04/2018,open,Obl,black,small,1,Obls1,black1,7,4,,7.2
+17/04/2018,open,Obl,black,small,1,Obls1,black1,7,5,,7.2
+23/03/2018,open,Obl,black,small,2,Obls2,black2,7,6,,7.2
+31/03/2018,open,Obl,black,small,2,Obls2,black2,5,4,broken?,7.2
+9/04/2018,open,Obl,black,small,2,Obls2,black2,NA,NA,,7.2
+17/04/2018,open,Obl,black,small,2,Obls2,black2,NA,NA,,7.2
+23/03/2018,open,Obl,black,small,3,Obls3,black3,9,7,,7.2
+31/03/2018,open,Obl,black,small,3,Obls3,black3,7,5,,7.2
+9/04/2018,open,Obl,black,small,3,Obls3,black3,8,6,,7.2
+17/04/2018,open,Obl,black,small,3,Obls3,black3,9,7,,7.2
+23/03/2018,open,Obl,black,small,4,Obls4,black4,8,5,,7.2
+31/03/2018,open,Obl,black,small,4,Obls4,black4,7,5,,7.2
+9/04/2018,open,Obl,black,small,4,Obls4,black4,NA,NA,,7.2
+17/04/2018,open,Obl,black,small,4,Obls4,black4,NA,NA,,7.2
+23/03/2018,open,Obl,black,small,5,Obls5,black5,10,5,,7.2
+31/03/2018,open,Obl,black,small,5,Obls5,black5,10,4,,7.2
+9/04/2018,open,Obl,black,small,5,Obls5,black5,9,5,,7.2
+17/04/2018,open,Obl,black,small,5,Obls5,black5,10,5,,7.2
+23/03/2018,open,Obl,black,small,6,Obls6,black6,10,6,,7.2
+31/03/2018,open,Obl,black,small,6,Obls6,black6,8,5,,7.2
+9/04/2018,open,Obl,black,small,6,Obls6,black6,7,5,,7.2
+17/04/2018,open,Obl,black,small,6,Obls6,black6,8,6,,7.2
+23/03/2018,open,Obl,black,small,7,Obls7,black7,7,6,,7.2
+31/03/2018,open,Obl,black,small,7,Obls7,black7,7,4,,7.2
+9/04/2018,open,Obl,black,small,7,Obls7,black7,8,5,,7.2
+17/04/2018,open,Obl,black,small,7,Obls7,black7,7,7,,7.2
+23/03/2018,open,Obl,black,small,8,Obls8,black8,7,6,,7.2
+31/03/2018,open,Obl,black,small,8,Obls8,black8,8,5,,7.2
+9/04/2018,open,Obl,black,small,8,Obls8,black8,8,5,,7.2
+17/04/2018,open,Obl,black,small,8,Obls8,black8,10,6,,7.2
+23/03/2018,open,Ogr,green,small,1,Ogrs1,green1,11,6,,27
+31/03/2018,open,Ogr,green,small,1,Ogrs1,green1,6,6,,25
+9/04/2018,open,Ogr,green,small,1,Ogrs1,green1,7,6,,25
+17/04/2018,open,Ogr,green,small,1,Ogrs1,green1,8,6,NO CROSS,25
+23/03/2018,open,Ogr,green,small,2,Ogrs2,green2,7,5,,25
+31/03/2018,open,Ogr,green,small,2,Ogrs2,green2,6,5,,25
+9/04/2018,open,Ogr,green,small,2,Ogrs2,green2,6,4,,25
+17/04/2018,open,Ogr,green,small,2,Ogrs2,green2,6,5,,25
+23/03/2018,open,Ogr,green,small,3,Ogrs3,green3,5,5,,25
+31/03/2018,open,Ogr,green,small,3,Ogrs3,green3,NA,NA,,25
+9/04/2018,open,Ogr,green,small,3,Ogrs3,green3,NA,NA,,25
+17/04/2018,open,Ogr,green,small,3,Ogrs3,green3,NA,NA,,25
+23/03/2018,open,Ogr,green,small,4,Ogrs4,green4,7,7,,25
+31/03/2018,open,Ogr,green,small,4,Ogrs4,green4,NA,NA,,25
+9/04/2018,open,Ogr,green,small,4,Ogrs4,green4,NA,NA,,25
+17/04/2018,open,Ogr,green,small,4,Ogrs4,green4,NA,NA,,25
+23/03/2018,open,Ogr,green,small,5,Ogrs5,green5,11,4,,25
+31/03/2018,open,Ogr,green,small,5,Ogrs5,green5,5,5,broken?,25
+9/04/2018,open,Ogr,green,small,5,Ogrs5,green5,5,4,,25
+17/04/2018,open,Ogr,green,small,5,Ogrs5,green5,8,5,1 CROWN MISSING,25
+23/03/2018,open,Ogr,green,small,6,Ogrs6,green6,8,7,,25
+31/03/2018,open,Ogr,green,small,6,Ogrs6,green6,NA,NA,,25
+9/04/2018,open,Ogr,green,small,6,Ogrs6,green6,NA,NA,,25
+17/04/2018,open,Ogr,green,small,6,Ogrs6,green6,NA,NA,,25
+23/03/2018,open,Ogr,green,small,7,Ogrs7,green7,7,6,,25
+31/03/2018,open,Ogr,green,small,7,Ogrs7,green7,5,3,,25
+9/04/2018,open,Ogr,green,small,7,Ogrs7,green7,4,3,,25
+17/04/2018,open,Ogr,green,small,7,Ogrs7,green7,4,3,,25
+23/03/2018,open,Ogr,green,small,8,Ogrs8,green8,6,6,,25
+31/03/2018,open,Ogr,green,small,8,Ogrs8,green8,7,6,,25
+9/04/2018,open,Ogr,green,small,8,Ogrs8,green8,7,6,,25
+17/04/2018,open,Ogr,green,small,8,Ogrs8,green8,8,6,,25
+23/03/2018,open,Ore,red,small,1,Ores1,red1,9,6,,37.2
+31/03/2018,open,Ore,red,small,1,Ores1,red1,6,5,,37.2
+9/04/2018,open,Ore,red,small,1,Ores1,red1,NA,NA,,37.2
+17/04/2018,open,Ore,red,small,1,Ores1,red1,NA,NA,NO CROSS,37.2
+23/03/2018,open,Ore,red,small,2,Ores2,red2,7,6,,37.2
+31/03/2018,open,Ore,red,small,2,Ores2,red2,6,5,,37.2
+9/04/2018,open,Ore,red,small,2,Ores2,red2,7,5,,37.2
+17/04/2018,open,Ore,red,small,2,Ores2,red2,7,6,,37.2
+23/03/2018,open,Ore,red,small,3,Ores3,red3,6,6,,37.2
+31/03/2018,open,Ore,red,small,3,Ores3,red3,7,6,,37.2
+9/04/2018,open,Ore,red,small,3,Ores3,red3,6,6,,37.2
+17/04/2018,open,Ore,red,small,3,Ores3,red3,7,6,,37.2
+23/03/2018,open,Ore,red,small,4,Ores4,red4,7,6,,37.2
+31/03/2018,open,Ore,red,small,4,Ores4,red4,8,4,,37.2
+9/04/2018,open,Ore,red,small,4,Ores4,red4,NA,NA,,37.2
+17/04/2018,open,Ore,red,small,4,Ores4,red4,NA,NA,,37.2
+23/03/2018,open,Ore,red,small,5,Ores5,red5,8,3,,37.2
+31/03/2018,open,Ore,red,small,5,Ores5,red5,9,5,,37.2
+9/04/2018,open,Ore,red,small,5,Ores5,red5,9,6,,37.2
+17/04/2018,open,Ore,red,small,5,Ores5,red5,9,8,,37.2
+23/03/2018,open,Ore,red,small,6,Ores6,red6,6,5,,37.2
+31/03/2018,open,Ore,red,small,6,Ores6,red6,7,6,,37.2
+9/04/2018,open,Ore,red,small,6,Ores6,red6,7,5,,37.2
+17/04/2018,open,Ore,red,small,6,Ores6,red6,6,6,,37.2
+23/03/2018,open,Ore,red,small,7,Ores7,red7,7,6,,37.2
+31/03/2018,open,Ore,red,small,7,Ores7,red7,7,5,,37.2
+9/04/2018,open,Ore,red,small,7,Ores7,red7,7,4,,37.2
+17/04/2018,open,Ore,red,small,7,Ores7,red7,6,6,,37.2
+23/03/2018,open,Ore,red,small,8,Ores8,red8,6,5,,37.2
+31/03/2018,open,Ore,red,small,8,Ores8,red8,7,5,,37.2
+9/04/2018,open,Ore,red,small,8,Ores8,red8,4,3,,37.2
+17/04/2018,open,Ore,red,small,8,Ores8,red8,5,3,,37.2
+23/03/2018,open,Oye,yellow,small,1,Oyes1,yellow1,9,4,,103.2
+31/03/2018,open,Oye,yellow,small,1,Oyes1,yellow1,8,4,,103.2
+9/04/2018,open,Oye,yellow,small,1,Oyes1,yellow1,8,3,,103.2
+17/04/2018,open,Oye,yellow,small,1,Oyes1,yellow1,7,6,,103.2
+23/03/2018,open,Oye,yellow,small,2,Oyes2,yellow2,7,6,,103.2
+31/03/2018,open,Oye,yellow,small,2,Oyes2,yellow2,7,5,,103.2
+9/04/2018,open,Oye,yellow,small,2,Oyes2,yellow2,2,2,,103.2
+17/04/2018,open,Oye,yellow,small,2,Oyes2,yellow2,3,3,,103.2
+23/03/2018,open,Oye,yellow,small,3,Oyes3,yellow3,8,4,,103.2
+31/03/2018,open,Oye,yellow,small,3,Oyes3,yellow3,6,5,,103.2
+9/04/2018,open,Oye,yellow,small,3,Oyes3,yellow3,4,4,,103.2
+17/04/2018,open,Oye,yellow,small,3,Oyes3,yellow3,5,4,,103.2
+23/03/2018,open,Oye,yellow,small,4,Oyes4,yellow4,9,5,,103.2
+31/03/2018,open,Oye,yellow,small,4,Oyes4,yellow4,7,5,,103.2
+9/04/2018,open,Oye,yellow,small,4,Oyes4,yellow4,5,4,,103.2
+17/04/2018,open,Oye,yellow,small,4,Oyes4,yellow4,8,6,,103.2
+23/03/2018,open,Oye,yellow,small,5,Oyes5,yellow5,9,5,,103.2
+31/03/2018,open,Oye,yellow,small,5,Oyes5,yellow5,11,4,,103.2
+9/04/2018,open,Oye,yellow,small,5,Oyes5,yellow5,8,4,,103.2
+17/04/2018,open,Oye,yellow,small,5,Oyes5,yellow5,5,3,,103.2
+23/03/2018,open,Oye,yellow,small,6,Oyes6,yellow6,8,5,,103.2
+31/03/2018,open,Oye,yellow,small,6,Oyes6,yellow6,7,5,,103.2
+9/04/2018,open,Oye,yellow,small,6,Oyes6,yellow6,6,4,,103.2
+17/04/2018,open,Oye,yellow,small,6,Oyes6,yellow6,6,4,2 PIECES,103.2
+23/03/2018,open,Oye,yellow,small,7,Oyes7,yellow7,8,5,,103.2
+31/03/2018,open,Oye,yellow,small,7,Oyes7,yellow7,7,6,,103.2
+9/04/2018,open,Oye,yellow,small,7,Oyes7,yellow7,7,5,,103.2
+17/04/2018,open,Oye,yellow,small,7,Oyes7,yellow7,9,6,,103.2
+23/03/2018,open,Oye,yellow,small,8,Oyes8,yellow8,7,6,,103.2
+31/03/2018,open,Oye,yellow,small,8,Oyes8,yellow8,8,7,,103.2
+9/04/2018,open,Oye,yellow,small,8,Oyes8,yellow8,8,5,,103.2
+17/04/2018,open,Oye,yellow,small,8,Oyes8,yellow8,9,6,,103.2
+23/03/2018,partial cage,PCbl,black,small,1,PCbls1,black1,7,6,,114
+31/03/2018,partial cage,PCbl,black,small,1,PCbls1,black1,NA,NA,,114
+9/04/2018,partial cage,PCbl,black,small,1,PCbls1,black1,NA,NA,,114
+17/04/2018,partial cage,PCbl,black,small,1,PCbls1,black1,NA,NA,,114
+23/03/2018,partial cage,PCbl,black,small,2,PCbls2,black2,7,6,,114
+31/03/2018,partial cage,PCbl,black,small,2,PCbls2,black2,8,6,,114
+9/04/2018,partial cage,PCbl,black,small,2,PCbls2,black2,6,6,,114
+17/04/2018,partial cage,PCbl,black,small,2,PCbls2,black2,8,7,,114
+23/03/2018,partial cage,PCbl,black,small,3,PCbls3,black3,7,4,,114
+31/03/2018,partial cage,PCbl,black,small,3,PCbls3,black3,6,6,,114
+9/04/2018,partial cage,PCbl,black,small,3,PCbls3,black3,6,3,,114
+17/04/2018,partial cage,PCbl,black,small,3,PCbls3,black3,7,6,,114
+23/03/2018,partial cage,PCbl,black,small,4,PCbls4,black4,9,6,,114
+31/03/2018,partial cage,PCbl,black,small,4,PCbls4,black4,6,5,,114
+9/04/2018,partial cage,PCbl,black,small,4,PCbls4,black4,5,4,,114
+17/04/2018,partial cage,PCbl,black,small,4,PCbls4,black4,5,4,,114
+23/03/2018,partial cage,PCbl,black,small,5,PCbls5,black5,6,5,,114
+31/03/2018,partial cage,PCbl,black,small,5,PCbls5,black5,10,7,,114
+9/04/2018,partial cage,PCbl,black,small,5,PCbls5,black5,5,3,,114
+17/04/2018,partial cage,PCbl,black,small,5,PCbls5,black5,7,4,,114
+23/03/2018,partial cage,PCbl,black,small,6,PCbls6,black6,7,5,,114
+31/03/2018,partial cage,PCbl,black,small,6,PCbls6,black6,5,4,,114
+9/04/2018,partial cage,PCbl,black,small,6,PCbls6,black6,5,4,,114
+17/04/2018,partial cage,PCbl,black,small,6,PCbls6,black6,7,4,,114
+23/03/2018,partial cage,PCbl,black,small,7,PCbls7,black7,7,5,,114
+31/03/2018,partial cage,PCbl,black,small,7,PCbls7,black7,7,6,,114
+9/04/2018,partial cage,PCbl,black,small,7,PCbls7,black7,8,5,,114
+17/04/2018,partial cage,PCbl,black,small,7,PCbls7,black7,8,4,,114
+23/03/2018,partial cage,PCbl,black,small,8,PCbls8,black8,7,6,,114
+31/03/2018,partial cage,PCbl,black,small,8,PCbls8,black8,8,6,,114
+9/04/2018,partial cage,PCbl,black,small,8,PCbls8,black8,8,7,,114
+17/04/2018,partial cage,PCbl,black,small,8,PCbls8,black8,6,4,,114
+23/03/2018,partial cage,PCgr,green,small,1,PCgrs1,green1,9,4,,16
+31/03/2018,partial cage,PCgr,green,small,1,PCgrs1,green1,11,4,,16
+9/04/2018,partial cage,PCgr,green,small,1,PCgrs1,green1,10,4,,16
+17/04/2018,partial cage,PCgr,green,small,1,PCgrs1,green1,10,5,,16
+23/03/2018,partial cage,PCgr,green,small,2,PCgrs2,green2,7,5,,16
+31/03/2018,partial cage,PCgr,green,small,2,PCgrs2,green2,NA,NA,,16
+9/04/2018,partial cage,PCgr,green,small,2,PCgrs2,green2,NA,NA,,16
+17/04/2018,partial cage,PCgr,green,small,2,PCgrs2,green2,NA,NA,,16
+23/03/2018,partial cage,PCgr,green,small,3,PCgrs3,green3,9,6,,16
+31/03/2018,partial cage,PCgr,green,small,3,PCgrs3,green3,NA,NA,,16
+9/04/2018,partial cage,PCgr,green,small,3,PCgrs3,green3,NA,NA,,16
+17/04/2018,partial cage,PCgr,green,small,3,PCgrs3,green3,NA,NA,,16
+23/03/2018,partial cage,PCgr,green,small,4,PCgrs4,green4,6,5,,16
+31/03/2018,partial cage,PCgr,green,small,4,PCgrs4,green4,5,5,,16
+9/04/2018,partial cage,PCgr,green,small,4,PCgrs4,green4,6,4,,16
+17/04/2018,partial cage,PCgr,green,small,4,PCgrs4,green4,6,6,,16
+23/03/2018,partial cage,PCgr,green,small,5,PCgrs5,green5,8,5,,16
+31/03/2018,partial cage,PCgr,green,small,5,PCgrs5,green5,NA,NA,,16
+9/04/2018,partial cage,PCgr,green,small,5,PCgrs5,green5,NA,NA,,16
+17/04/2018,partial cage,PCgr,green,small,5,PCgrs5,green5,NA,NA,,16
+23/03/2018,partial cage,PCgr,green,small,6,PCgrs6,green6,8,4,,16
+31/03/2018,partial cage,PCgr,green,small,6,PCgrs6,green6,9,6,,16
+9/04/2018,partial cage,PCgr,green,small,6,PCgrs6,green6,8,5,,16
+17/04/2018,partial cage,PCgr,green,small,6,PCgrs6,green6,9,5,,16
+23/03/2018,partial cage,PCgr,green,small,7,PCgrs7,green7,7,5,,16
+31/03/2018,partial cage,PCgr,green,small,7,PCgrs7,green7,8,5,,16
+9/04/2018,partial cage,PCgr,green,small,7,PCgrs7,green7,6,3,,16
+17/04/2018,partial cage,PCgr,green,small,7,PCgrs7,green7,6,5,,16
+23/03/2018,partial cage,PCgr,green,small,8,PCgrs8,green8,6,5,,16
+31/03/2018,partial cage,PCgr,green,small,8,PCgrs8,green8,NA,NA,,16
+9/04/2018,partial cage,PCgr,green,small,8,PCgrs8,green8,NA,NA,"lots of detritus, especially in small crevices; the case on most tiles",16
+17/04/2018,partial cage,PCgr,green,small,8,PCgrs8,green8,NA,NA,,16
+23/03/2018,partial cage,PCre,red,small,1,PCres1,red1,6,4,,70
+31/03/2018,partial cage,PCre,red,small,1,PCres1,red1,8,4,,70
+9/04/2018,partial cage,PCre,red,small,1,PCres1,red1,8,4,,70
+17/04/2018,partial cage,PCre,red,small,1,PCres1,red1,10,4,,70
+23/03/2018,partial cage,PCre,red,small,2,PCres2,red2,7,5,,70
+31/03/2018,partial cage,PCre,red,small,2,PCres2,red2,NA,NA,,70
+9/04/2018,partial cage,PCre,red,small,2,PCres2,red2,NA,NA,,70
+17/04/2018,partial cage,PCre,red,small,2,PCres2,red2,NA,NA,,70
+23/03/2018,partial cage,PCre,red,small,3,PCres3,red3,10,6,,70
+31/03/2018,partial cage,PCre,red,small,3,PCres3,red3,11,4,,70
+9/04/2018,partial cage,PCre,red,small,3,PCres3,red3,5,4,,70
+17/04/2018,partial cage,PCre,red,small,3,PCres3,red3,6,4,,70
+23/03/2018,partial cage,PCre,red,small,4,PCres4,red4,7,6,,70
+31/03/2018,partial cage,PCre,red,small,4,PCres4,red4,8,6,,70
+9/04/2018,partial cage,PCre,red,small,4,PCres4,red4,5,3,,70
+17/04/2018,partial cage,PCre,red,small,4,PCres4,red4,6,4,,70
+23/03/2018,partial cage,PCre,red,small,5,PCres5,red5,6,5,,70
+31/03/2018,partial cage,PCre,red,small,5,PCres5,red5,6,5,,70
+9/04/2018,partial cage,PCre,red,small,5,PCres5,red5,5,4,,70
+17/04/2018,partial cage,PCre,red,small,5,PCres5,red5,5,7,,70
+23/03/2018,partial cage,PCre,red,small,6,PCres6,red6,5,5,,70
+31/03/2018,partial cage,PCre,red,small,6,PCres6,red6,7,5,,70
+9/04/2018,partial cage,PCre,red,small,6,PCres6,red6,5,4,,70
+17/04/2018,partial cage,PCre,red,small,6,PCres6,red6,6,3,,70
+23/03/2018,partial cage,PCre,red,small,7,PCres7,red7,6,6,,70
+31/03/2018,partial cage,PCre,red,small,7,PCres7,red7,7,4,,70
+9/04/2018,partial cage,PCre,red,small,7,PCres7,red7,6,6,,70
+17/04/2018,partial cage,PCre,red,small,7,PCres7,red7,5,6,,70
+23/03/2018,partial cage,PCre,red,small,8,PCres8,red8,8,6,,70
+31/03/2018,partial cage,PCre,red,small,8,PCres8,red8,9,6,,70
+9/04/2018,partial cage,PCre,red,small,8,PCres8,red8,9,6,,70
+17/04/2018,partial cage,PCre,red,small,8,PCres8,red8,8,5,,70
+23/03/2018,partial cage,PCye,yellow,small,1,PCyes1,yellow1,8,5,,94
+31/03/2018,partial cage,PCye,yellow,small,1,PCyes1,yellow1,4,4,,94
+9/04/2018,partial cage,PCye,yellow,small,1,PCyes1,yellow1,NA,NA,,94
+17/04/2018,partial cage,PCye,yellow,small,1,PCyes1,yellow1,NA,NA,NO CROSS,94
+23/03/2018,partial cage,PCye,yellow,small,2,PCyes2,yellow2,9,6,,94
+31/03/2018,partial cage,PCye,yellow,small,2,PCyes2,yellow2,9,5,,94
+9/04/2018,partial cage,PCye,yellow,small,2,PCyes2,yellow2,8,3,,94
+17/04/2018,partial cage,PCye,yellow,small,2,PCyes2,yellow2,9,3,1 CROWN MISSING,94
+23/03/2018,partial cage,PCye,yellow,small,3,PCyes3,yellow3,7,5,,94
+31/03/2018,partial cage,PCye,yellow,small,3,PCyes3,yellow3,7,4,,94
+9/04/2018,partial cage,PCye,yellow,small,3,PCyes3,yellow3,6,5,,94
+17/04/2018,partial cage,PCye,yellow,small,3,PCyes3,yellow3,8,6,1 CROWN MISSING,94
+23/03/2018,partial cage,PCye,yellow,small,4,PCyes4,yellow4,9,8,,94
+31/03/2018,partial cage,PCye,yellow,small,4,PCyes4,yellow4,7,7,,94
+9/04/2018,partial cage,PCye,yellow,small,4,PCyes4,yellow4,7,7,,94
+17/04/2018,partial cage,PCye,yellow,small,4,PCyes4,yellow4,11,7,,94
+23/03/2018,partial cage,PCye,yellow,small,5,PCyes5,yellow5,8,3,,94
+31/03/2018,partial cage,PCye,yellow,small,5,PCyes5,yellow5,4,3,,94
+9/04/2018,partial cage,PCye,yellow,small,5,PCyes5,yellow5,2,2,,94
+17/04/2018,partial cage,PCye,yellow,small,5,PCyes5,yellow5,6,4,1 CROWN MISSING,94
+23/03/2018,partial cage,PCye,yellow,small,6,PCyes6,yellow6,8,5,,94
+31/03/2018,partial cage,PCye,yellow,small,6,PCyes6,yellow6,8,5,,94
+9/04/2018,partial cage,PCye,yellow,small,6,PCyes6,yellow6,10,5,,94
+17/04/2018,partial cage,PCye,yellow,small,6,PCyes6,yellow6,10,5,,94
+23/03/2018,partial cage,PCye,yellow,small,7,PCyes7,yellow7,7,6,,94
+31/03/2018,partial cage,PCye,yellow,small,7,PCyes7,yellow7,6,5,,94
+9/04/2018,partial cage,PCye,yellow,small,7,PCyes7,yellow7,6,5,,94
+17/04/2018,partial cage,PCye,yellow,small,7,PCyes7,yellow7,5,4,,94
+23/03/2018,partial cage,PCye,yellow,small,8,PCyes8,yellow8,7,8,,94
+31/03/2018,partial cage,PCye,yellow,small,8,PCyes8,yellow8,8,6,,94
+9/04/2018,partial cage,PCye,yellow,small,8,PCyes8,yellow8,8,7,,94
+17/04/2018,partial cage,PCye,yellow,small,8,PCyes8,yellow8,9,6,2 PIECES,94

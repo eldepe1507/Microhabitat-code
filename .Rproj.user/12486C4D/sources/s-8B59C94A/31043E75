@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1530512649174.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "31043E75",
+    "lastKnownWriteTime" : 1530510009,
+    "last_content_update" : 1530510009,
+    "path" : "~/Documents/PhD/Data/Chapter-Microhabitat/Experiments_with_created_MH_tiles/R_analysis/Manipulated_tiles/scripts/Bites-LobvsnoLob.R",
+    "project_path" : "scripts/Bites-LobvsnoLob.R",
+    "properties" : {
+        "cursorPosition" : "415,17",
+        "scrollLine" : "402",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

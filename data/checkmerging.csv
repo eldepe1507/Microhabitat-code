@@ -1,0 +1,1439 @@
+"","colour.in.videos","tile.number","Treatment","Crevice.kind","Location","number.LOB.before","number.otherMA.before","number.unknown.before","number.Lob.after","number.otherMA.after","number.unknown.after","number.LOB.removed","number.otherMA.removed","number.unknown.removed","Species","sumbites"
+"1","yellow","8","caged control","large","a1",0,1,0,0,1,0,0,0,0,NA,NA
+"2","yellow","8","caged control","large","a2",1,1,0,1,1,0,0,0,0,NA,NA
+"3","yellow","8","caged control","large","a3",0,0,0,0,0,0,0,0,0,NA,NA
+"4","yellow","8","caged control","large","a4",3,0,0,3,0,0,0,0,0,NA,NA
+"5","yellow","8","caged control","large","a5",1,1,0,1,1,0,0,0,0,NA,NA
+"6","yellow","8","caged control","large","a6",2,5,0,2,5,0,0,0,0,NA,NA
+"7","yellow","8","caged control","large","a7",3,0,0,3,0,0,0,0,0,NA,NA
+"8","yellow","8","caged control","large","a8",2,0,0,2,0,0,0,0,0,NA,NA
+"9","yellow","8","caged control","large","a9",0,0,0,0,0,0,0,0,0,NA,NA
+"10","yellow","8","caged control","large","b1",1,0,0,1,0,0,0,0,0,NA,NA
+"11","yellow","8","caged control","large","b2",4,7,0,4,7,0,0,0,0,NA,NA
+"12","yellow","8","caged control","large","b3",2,2,0,2,2,0,0,0,0,NA,NA
+"13","yellow","8","caged control","large","b4",0,4,0,0,4,0,0,0,0,NA,NA
+"14","yellow","8","caged control","large","b5",1,5,0,1,5,0,0,0,0,NA,NA
+"15","yellow","8","caged control","large","b6",5,5,0,5,5,0,0,0,0,NA,NA
+"16","yellow","8","caged control","large","b7",2,3,1,2,3,1,0,0,0,NA,NA
+"17","yellow","8","caged control","large","b8",3,5,0,3,5,0,0,0,0,NA,NA
+"18","yellow","8","caged control","large","b9",4,2,0,4,2,0,0,0,0,NA,NA
+"19","yellow","8","caged control","large","c1",0,1,0,0,1,0,0,0,0,NA,NA
+"20","yellow","8","caged control","large","c2",2,2,0,2,2,0,0,0,0,NA,NA
+"21","yellow","8","caged control","large","c3",2,1,0,2,1,0,0,0,0,NA,NA
+"22","yellow","8","caged control","large","c4",1,4,1,1,4,1,0,0,0,NA,NA
+"23","yellow","8","caged control","large","c5",3,2,0,3,2,0,0,0,0,NA,NA
+"24","yellow","8","caged control","large","c6",3,0,0,3,0,0,0,0,0,NA,NA
+"25","yellow","8","caged control","large","c7",5,3,0,5,3,0,0,0,0,NA,NA
+"26","yellow","8","caged control","large","c8",6,2,0,6,2,0,0,0,0,NA,NA
+"27","yellow","8","caged control","large","c9",1,1,0,1,1,0,0,0,0,NA,NA
+"28","yellow","8","caged control","large","d1",0,0,0,0,0,0,0,0,0,NA,NA
+"29","yellow","8","caged control","large","d2",2,5,0,2,5,0,0,0,0,NA,NA
+"30","yellow","8","caged control","large","d3",2,5,0,2,5,0,0,0,0,NA,NA
+"31","yellow","8","caged control","large","d4",2,1,0,2,1,0,0,0,0,NA,NA
+"32","yellow","8","caged control","large","d5",0,0,0,0,0,0,0,0,0,NA,NA
+"33","yellow","8","caged control","large","d6",3,4,1,3,4,1,0,0,0,NA,NA
+"34","yellow","8","caged control","large","d7",2,2,2,2,0,2,0,2,0,NA,NA
+"35","yellow","8","caged control","large","d8",3,3,0,3,3,0,0,0,0,NA,NA
+"36","yellow","8","caged control","large","d9",1,1,0,1,1,0,0,0,0,NA,NA
+"37","yellow","8","caged control","large","e1",0,0,0,0,0,0,0,0,0,NA,NA
+"38","yellow","8","caged control","large","e2",1,4,0,1,4,0,0,0,0,NA,NA
+"39","yellow","8","caged control","large","e3",6,1,0,6,1,0,0,0,0,NA,NA
+"40","yellow","8","caged control","large","e4",5,8,0,5,8,0,0,0,0,NA,NA
+"41","yellow","8","caged control","large","e5",6,0,0,6,0,0,0,0,0,NA,NA
+"42","yellow","8","caged control","large","e6",3,2,1,3,2,1,0,0,0,NA,NA
+"43","yellow","8","caged control","large","e7",4,2,0,4,2,0,0,0,0,NA,NA
+"44","yellow","8","caged control","large","e8",1,2,1,1,2,1,0,0,0,NA,NA
+"45","yellow","8","caged control","large","e9",1,0,0,1,0,0,0,0,0,NA,NA
+"46","yellow","8","caged control","large","f1",1,0,0,1,0,0,0,0,0,NA,NA
+"47","yellow","8","caged control","large","f2",2,4,0,2,4,0,0,0,0,NA,NA
+"48","yellow","8","caged control","large","f3",1,4,0,1,4,0,0,0,0,NA,NA
+"49","yellow","8","caged control","large","f4",2,5,0,2,5,0,0,0,0,NA,NA
+"50","yellow","8","caged control","large","f5",0,0,0,0,0,0,0,0,0,NA,NA
+"51","yellow","8","caged control","large","f6",2,3,1,2,3,1,0,0,0,NA,NA
+"52","yellow","8","caged control","large","f7",0,1,0,0,1,0,0,0,0,NA,NA
+"53","yellow","8","caged control","large","f8",5,3,0,5,3,0,0,0,0,NA,NA
+"54","yellow","8","caged control","large","f9",3,2,0,3,2,0,0,0,0,NA,NA
+"55","yellow","8","caged control","large","g1",1,1,0,1,1,0,0,0,0,NA,NA
+"56","yellow","8","caged control","large","g2",1,3,0,1,3,0,0,0,0,NA,NA
+"57","yellow","8","caged control","large","g3",7,4,0,7,4,0,0,0,0,NA,NA
+"58","yellow","8","caged control","large","g4",1,1,0,1,1,0,0,0,0,NA,NA
+"59","yellow","8","caged control","large","g5",0,3,0,0,3,0,0,0,0,NA,NA
+"60","yellow","8","caged control","large","g6",1,6,0,1,6,0,0,0,0,NA,NA
+"61","yellow","8","caged control","large","g7",2,1,0,2,1,0,0,0,0,NA,NA
+"62","yellow","8","caged control","large","g8",8,8,0,8,8,0,0,0,0,NA,NA
+"63","yellow","8","caged control","large","g9",2,0,0,2,0,0,0,0,0,NA,NA
+"64","yellow","8","caged control","large","h1",1,2,0,1,2,0,0,0,0,NA,NA
+"65","yellow","8","caged control","large","h2",2,4,0,2,4,0,0,0,0,NA,NA
+"66","yellow","8","caged control","large","h3",1,2,0,1,2,0,0,0,0,NA,NA
+"67","yellow","8","caged control","large","h4",2,4,0,2,4,0,0,0,0,NA,NA
+"68","yellow","8","caged control","large","h5",0,2,0,0,2,0,0,0,0,NA,NA
+"69","yellow","8","caged control","large","h6",2,1,0,2,1,0,0,0,0,NA,NA
+"70","yellow","8","caged control","large","h7",7,6,0,7,6,0,0,0,0,NA,NA
+"71","yellow","8","caged control","large","h8",2,3,0,2,3,0,0,0,0,NA,NA
+"72","yellow","8","caged control","large","h9",2,4,0,2,4,0,0,0,0,NA,NA
+"73","yellow","8","caged control","large","i1",1,0,0,1,0,0,0,0,0,NA,NA
+"74","yellow","8","caged control","large","i2",3,1,0,3,1,0,0,0,0,NA,NA
+"75","yellow","8","caged control","large","i3",0,2,0,0,2,0,0,0,0,NA,NA
+"76","yellow","8","caged control","large","i4",1,1,0,1,1,0,0,0,0,NA,NA
+"77","yellow","8","caged control","large","i5",1,0,0,1,0,0,0,0,0,NA,NA
+"78","yellow","8","caged control","large","i6",4,0,0,4,0,0,0,0,0,NA,NA
+"79","yellow","8","caged control","large","i7",0,1,0,0,1,0,0,0,0,NA,NA
+"80","yellow","8","caged control","large","i8",1,0,0,1,0,0,0,0,0,NA,NA
+"81","yellow","8","caged control","large","i9",0,2,0,0,2,0,0,0,0,NA,NA
+"82","green","45","caged control","large","a1",0,0,0,0,0,0,0,0,0,NA,NA
+"83","green","45","caged control","large","a2",0,0,0,0,0,0,0,0,0,NA,NA
+"84","green","45","caged control","large","a3",0,0,0,0,0,0,0,0,0,NA,NA
+"85","green","45","caged control","large","a4",1,0,0,1,0,0,0,0,0,NA,NA
+"86","green","45","caged control","large","a5",0,1,0,0,1,0,0,0,0,NA,NA
+"87","green","45","caged control","large","a6",2,0,0,2,0,0,0,0,0,NA,NA
+"88","green","45","caged control","large","a7",0,1,0,0,1,0,0,0,0,NA,NA
+"89","green","45","caged control","large","a8",0,0,0,0,0,0,0,0,0,NA,NA
+"90","green","45","caged control","large","a9",0,0,0,0,0,0,0,0,0,NA,NA
+"91","green","45","caged control","large","b1",0,0,0,0,0,0,0,0,0,NA,NA
+"92","green","45","caged control","large","b2",1,3,0,0,3,0,1,0,0,NA,NA
+"93","green","45","caged control","large","b3",2,4,0,2,4,0,0,0,0,NA,NA
+"94","green","45","caged control","large","b4",0,2,0,0,2,0,0,0,0,NA,NA
+"95","green","45","caged control","large","b5",1,2,0,1,2,0,0,0,0,NA,NA
+"96","green","45","caged control","large","b6",0,4,0,0,4,0,0,0,0,NA,NA
+"97","green","45","caged control","large","b7",0,8,0,0,8,0,0,0,0,NA,NA
+"98","green","45","caged control","large","b8",0,9,0,0,9,0,0,0,0,NA,NA
+"99","green","45","caged control","large","b9",0,0,0,0,0,0,0,0,0,NA,NA
+"100","green","45","caged control","large","c1",0,0,0,0,0,0,0,0,0,NA,NA
+"101","green","45","caged control","large","c2",0,2,0,0,2,0,0,0,0,NA,NA
+"102","green","45","caged control","large","c3",0,1,0,0,1,0,0,0,0,NA,NA
+"103","green","45","caged control","large","c4",1,3,0,0,3,0,1,0,0,NA,NA
+"104","green","45","caged control","large","c5",0,0,0,0,0,0,0,0,0,NA,NA
+"105","green","45","caged control","large","c6",1,1,0,1,1,0,0,0,0,NA,NA
+"106","green","45","caged control","large","c7",0,5,0,0,5,0,0,0,0,NA,NA
+"107","green","45","caged control","large","c8",1,1,0,1,1,0,0,0,0,NA,NA
+"108","green","45","caged control","large","c9",0,1,0,0,1,0,0,0,0,NA,NA
+"109","green","45","caged control","large","d1",0,0,0,0,0,0,0,0,0,NA,NA
+"110","green","45","caged control","large","d2",0,6,0,0,6,0,0,0,0,NA,NA
+"111","green","45","caged control","large","d3",1,1,0,1,1,0,0,0,0,NA,NA
+"112","green","45","caged control","large","d4",0,7,0,0,7,0,0,0,0,NA,NA
+"113","green","45","caged control","large","d5",1,3,0,1,3,0,0,0,0,NA,NA
+"114","green","45","caged control","large","d6",0,2,0,0,2,0,0,0,0,NA,NA
+"115","green","45","caged control","large","d7",0,0,0,0,0,0,0,0,0,NA,NA
+"116","green","45","caged control","large","d8",0,6,0,0,6,0,0,0,0,NA,NA
+"117","green","45","caged control","large","d9",0,0,0,0,0,0,0,0,0,NA,NA
+"118","green","45","caged control","large","e1",1,0,0,0,0,0,1,0,0,NA,NA
+"119","green","45","caged control","large","e2",1,2,0,1,2,0,0,0,0,NA,NA
+"120","green","45","caged control","large","e3",0,0,0,0,0,0,0,0,0,NA,NA
+"121","green","45","caged control","large","e4",0,5,0,0,5,0,0,0,0,NA,NA
+"122","green","45","caged control","large","e5",0,3,0,0,3,0,0,0,0,NA,NA
+"123","green","45","caged control","large","e6",0,4,0,0,4,0,0,0,0,NA,NA
+"124","green","45","caged control","large","e7",0,5,0,0,4,0,0,1,0,NA,NA
+"125","green","45","caged control","large","e8",1,1,0,1,1,0,0,0,0,NA,NA
+"126","green","45","caged control","large","e9",0,0,0,0,0,0,0,0,0,NA,NA
+"127","green","45","caged control","large","f1",0,0,0,0,0,0,0,0,0,NA,NA
+"128","green","45","caged control","large","f2",0,1,0,0,1,0,0,0,0,NA,NA
+"129","green","45","caged control","large","f3",1,1,0,1,1,0,0,0,0,NA,NA
+"130","green","45","caged control","large","f4",0,3,0,0,3,0,0,0,0,NA,NA
+"131","green","45","caged control","large","f5",1,2,0,1,2,0,0,0,0,NA,NA
+"132","green","45","caged control","large","f6",0,4,0,0,4,0,0,0,0,NA,NA
+"133","green","45","caged control","large","f7",1,5,0,1,5,0,0,0,0,NA,NA
+"134","green","45","caged control","large","f8",0,4,0,0,4,0,0,0,0,NA,NA
+"135","green","45","caged control","large","f9",0,0,0,0,0,0,0,0,0,NA,NA
+"136","green","45","caged control","large","g1",0,0,0,0,0,0,0,0,0,NA,NA
+"137","green","45","caged control","large","g2",0,2,0,0,2,0,0,0,0,NA,NA
+"138","green","45","caged control","large","g3",1,4,0,1,4,0,0,0,0,NA,NA
+"139","green","45","caged control","large","g4",0,5,0,0,5,0,0,0,0,NA,NA
+"140","green","45","caged control","large","g5",0,14,0,0,14,0,0,0,0,NA,NA
+"141","green","45","caged control","large","g6",0,2,0,0,2,0,0,0,0,NA,NA
+"142","green","45","caged control","large","g7",1,22,0,1,19,0,0,3,0,NA,NA
+"143","green","45","caged control","large","g8",0,6,0,0,6,0,0,0,0,NA,NA
+"144","green","45","caged control","large","g9",0,2,0,0,2,0,0,0,0,NA,NA
+"145","green","45","caged control","large","h1",0,0,0,0,0,0,0,0,0,NA,NA
+"146","green","45","caged control","large","h2",0,2,0,0,2,0,0,0,0,NA,NA
+"147","green","45","caged control","large","h3",1,3,0,1,3,0,0,0,0,NA,NA
+"148","green","45","caged control","large","h4",0,9,0,0,9,0,0,0,0,NA,NA
+"149","green","45","caged control","large","h5",0,0,0,0,0,0,0,0,0,NA,NA
+"150","green","45","caged control","large","h6",1,7,0,1,7,0,0,0,0,NA,NA
+"151","green","45","caged control","large","h7",1,1,0,1,1,0,0,0,0,NA,NA
+"152","green","45","caged control","large","h8",0,6,0,0,6,0,0,0,0,NA,NA
+"153","green","45","caged control","large","h9",1,1,0,1,1,0,0,0,0,NA,NA
+"154","green","45","caged control","large","i1",1,0,0,1,0,0,0,0,0,NA,NA
+"155","green","45","caged control","large","i2",0,0,0,0,0,0,0,0,0,NA,NA
+"156","green","45","caged control","large","i3",0,0,0,0,0,0,0,0,0,NA,NA
+"157","green","45","caged control","large","i4",0,2,0,0,2,0,0,0,0,NA,NA
+"158","green","45","caged control","large","i5",0,0,0,0,0,0,0,0,0,NA,NA
+"159","green","45","caged control","large","i6",0,2,0,0,2,0,0,0,0,NA,NA
+"160","green","45","caged control","large","i7",2,2,0,2,2,0,0,0,0,NA,NA
+"161","green","45","caged control","large","i8",0,1,0,0,1,0,0,0,0,NA,NA
+"162","green","45","caged control","large","i9",0,1,0,0,1,0,0,0,0,NA,NA
+"163","red","71","accessible","large","a1",0,0,0,0,0,0,0,0,0,NA,NA
+"164","red","71","accessible","large","a2",0,2,0,0,2,0,0,0,0,"Acanthurus nigrofuscus",2
+"165","red","71","accessible","large","a3",1,0,0,0,0,0,1,0,0,NA,NA
+"166","red","71","accessible","large","a4",0,1,0,0,1,0,0,0,0,"Acanthurus nigrofuscus",3
+"167","red","71","accessible","large","a4",0,1,0,0,1,0,0,0,0,"Ctenochaetus striatus",1
+"168","red","71","accessible","large","a5",0,0,0,0,0,0,0,0,0,NA,NA
+"169","red","71","accessible","large","a6",1,0,0,0,0,0,1,0,0,"Zebrasoma scopas",2
+"170","red","71","accessible","large","a7",0,0,0,0,0,0,0,0,0,"Acanthurus nigrofuscus",1
+"171","red","71","accessible","large","a8",0,0,0,0,0,0,0,0,0,NA,NA
+"172","red","71","accessible","large","a9",0,0,0,0,0,0,0,0,0,"Zebrasoma scopas",1
+"173","red","71","accessible","large","b1",3,1,0,3,1,0,0,0,0,NA,NA
+"174","red","71","accessible","large","b2",3,2,0,3,2,0,0,0,0,"Acanthurus nigrofuscus",2
+"175","red","71","accessible","large","b2",3,2,0,3,2,0,0,0,0,"Ctenochaetus striatus",8
+"176","red","71","accessible","large","b2",3,2,0,3,2,0,0,0,0,"Zebrasoma scopas",2
+"177","red","71","accessible","large","b3",0,1,0,0,1,0,0,0,0,"Acanthurus nigrofuscus",1
+"178","red","71","accessible","large","b3",0,1,0,0,1,0,0,0,0,"Ctenochaetus striatus",1
+"179","red","71","accessible","large","b4",1,1,0,0,1,0,1,0,0,"Acanthurus nigrofuscus",3
+"180","red","71","accessible","large","b4",1,1,0,0,1,0,1,0,0,"Ctenochaetus striatus",7
+"181","red","71","accessible","large","b4",1,1,0,0,1,0,1,0,0,"Zebrasoma scopas",1
+"182","red","71","accessible","large","b5",1,8,0,1,8,0,0,0,0,"Ctenochaetus striatus",1
+"183","red","71","accessible","large","b6",2,2,0,1,0,0,1,2,0,"Acanthurus nigrofuscus",4
+"184","red","71","accessible","large","b6",2,2,0,1,0,0,1,2,0,"Ctenochaetus striatus",6
+"185","red","71","accessible","large","b6",2,2,0,1,0,0,1,2,0,"Zebrasoma scopas",5
+"186","red","71","accessible","large","b7",0,7,0,0,7,0,0,0,0,"Acanthurus nigrofuscus",9
+"187","red","71","accessible","large","b7",0,7,0,0,7,0,0,0,0,"Ctenochaetus striatus",7
+"188","red","71","accessible","large","b7",0,7,0,0,7,0,0,0,0,"Zebrasoma scopas",2
+"189","red","71","accessible","large","b8",2,1,1,2,1,1,0,0,0,"Acanthurus nigrofuscus",5
+"190","red","71","accessible","large","b8",2,1,1,2,1,1,0,0,0,"Ctenochaetus striatus",2
+"191","red","71","accessible","large","b9",0,0,0,0,0,0,0,0,0,"Acanthurus nigrofuscus",3
+"192","red","71","accessible","large","b9",0,0,0,0,0,0,0,0,0,"Ctenochaetus striatus",1
+"193","red","71","accessible","large","c1",2,2,0,2,2,0,0,0,0,NA,NA
+"194","red","71","accessible","large","c2",2,1,4,2,1,4,0,0,0,"Ctenochaetus striatus",5
+"195","red","71","accessible","large","c3",1,0,0,1,0,0,0,0,0,"Acanthurus nigrofuscus",1
+"196","red","71","accessible","large","c3",1,0,0,1,0,0,0,0,0,"Ctenochaetus striatus",4
+"197","red","71","accessible","large","c3",1,0,0,1,0,0,0,0,0,"Zebrasoma scopas",1
+"198","red","71","accessible","large","c4",0,1,0,0,1,0,0,0,0,"Acanthurus nigrofuscus",6
+"199","red","71","accessible","large","c4",0,1,0,0,1,0,0,0,0,"Ctenochaetus striatus",5
+"200","red","71","accessible","large","c4",0,1,0,0,1,0,0,0,0,"Zebrasoma scopas",2
+"201","red","71","accessible","large","c5",2,1,0,1,1,0,1,0,0,"Ctenochaetus striatus",1
+"202","red","71","accessible","large","c5",2,1,0,1,1,0,1,0,0,"Zebrasoma scopas",1
+"203","red","71","accessible","large","c6",1,0,0,1,0,0,0,0,0,"Acanthurus nigrofuscus",1
+"204","red","71","accessible","large","c6",1,0,0,1,0,0,0,0,0,"Ctenochaetus striatus",2
+"205","red","71","accessible","large","c7",1,0,0,1,0,0,0,0,0,"Acanthurus nigrofuscus",3
+"206","red","71","accessible","large","c7",1,0,0,1,0,0,0,0,0,"Ctenochaetus striatus",3
+"207","red","71","accessible","large","c7",1,0,0,1,0,0,0,0,0,"Zebrasoma scopas",2
+"208","red","71","accessible","large","c8",0,7,0,0,7,0,0,0,0,"Acanthurus nigrofuscus",4
+"209","red","71","accessible","large","c8",0,7,0,0,7,0,0,0,0,"Ctenochaetus striatus",4
+"210","red","71","accessible","large","c8",0,7,0,0,7,0,0,0,0,"Zebrasoma scopas",10
+"211","red","71","accessible","large","c9",0,1,0,0,1,0,0,0,0,"Ctenochaetus striatus",1
+"212","red","71","accessible","large","d1",1,0,0,1,0,0,0,0,0,NA,NA
+"213","red","71","accessible","large","d2",3,7,0,3,7,0,0,0,0,"Ctenochaetus striatus",12
+"214","red","71","accessible","large","d3",4,1,0,4,1,0,0,0,0,"Ctenochaetus striatus",1
+"215","red","71","accessible","large","d4",2,4,0,2,2,0,0,2,0,"Acanthurus nigrofuscus",4
+"216","red","71","accessible","large","d4",2,4,0,2,2,0,0,2,0,"Ctenochaetus striatus",8
+"217","red","71","accessible","large","d5",2,2,1,2,2,1,0,0,0,"Ctenochaetus striatus",1
+"218","red","71","accessible","large","d6",1,2,0,1,2,0,0,0,0,"Ctenochaetus striatus",4
+"219","red","71","accessible","large","d6",1,2,0,1,2,0,0,0,0,"Zebrasoma scopas",1
+"220","red","71","accessible","large","d7",1,0,0,1,0,0,0,0,0,"Acanthurus nigrofuscus",1
+"221","red","71","accessible","large","d7",1,0,0,1,0,0,0,0,0,"Ctenochaetus striatus",4
+"222","red","71","accessible","large","d8",0,2,0,0,2,0,0,0,0,"Acanthurus nigrofuscus",5
+"223","red","71","accessible","large","d8",0,2,0,0,2,0,0,0,0,"Ctenochaetus striatus",2
+"224","red","71","accessible","large","d8",0,2,0,0,2,0,0,0,0,"Zebrasoma scopas",7
+"225","red","71","accessible","large","d9",1,1,0,1,1,0,0,0,0,"Acanthurus nigrofuscus",4
+"226","red","71","accessible","large","d9",1,1,0,1,1,0,0,0,0,"Ctenochaetus striatus",1
+"227","red","71","accessible","large","e1",2,1,0,2,1,0,0,0,0,"Ctenochaetus striatus",2
+"228","red","71","accessible","large","e2",4,1,0,4,1,0,0,0,0,"Ctenochaetus striatus",2
+"229","red","71","accessible","large","e3",7,5,0,7,5,0,0,0,0,"Acanthurus nigrofuscus",4
+"230","red","71","accessible","large","e3",7,5,0,7,5,0,0,0,0,"Ctenochaetus striatus",4
+"231","red","71","accessible","large","e4",1,5,0,1,4,0,0,1,0,"Acanthurus nigrofuscus",1
+"232","red","71","accessible","large","e4",1,5,0,1,4,0,0,1,0,"Ctenochaetus striatus",4
+"233","red","71","accessible","large","e5",2,1,0,1,1,0,1,0,0,NA,NA
+"234","red","71","accessible","large","e6",2,1,0,2,1,0,0,0,0,"Acanthurus nigrofuscus",1
+"235","red","71","accessible","large","e6",2,1,0,2,1,0,0,0,0,"Ctenochaetus striatus",1
+"236","red","71","accessible","large","e7",0,1,0,0,1,0,0,0,0,"Acanthurus nigrofuscus",2
+"237","red","71","accessible","large","e7",0,1,0,0,1,0,0,0,0,"Ctenochaetus striatus",1
+"238","red","71","accessible","large","e8",2,11,0,2,8,0,0,3,0,"Acanthurus nigrofuscus",2
+"239","red","71","accessible","large","e8",2,11,0,2,8,0,0,3,0,"Ctenochaetus striatus",4
+"240","red","71","accessible","large","e8",2,11,0,2,8,0,0,3,0,"Zebrasoma scopas",3
+"241","red","71","accessible","large","e9",0,0,0,0,0,0,0,0,0,"Ctenochaetus striatus",1
+"242","red","71","accessible","large","f1",1,2,0,1,2,0,0,0,0,"Ctenochaetus striatus",2
+"243","red","71","accessible","large","f2",2,7,0,1,7,0,1,0,0,"Ctenochaetus striatus",7
+"244","red","71","accessible","large","f2",2,7,0,1,7,0,1,0,0,"Pomacentrus bankanensis",1
+"245","red","71","accessible","large","f2",2,7,0,1,7,0,1,0,0,"Zebrasoma scopas",1
+"246","red","71","accessible","large","f3",2,1,0,2,1,0,0,0,0,NA,NA
+"247","red","71","accessible","large","f4",2,4,0,2,4,0,0,0,0,"Ctenochaetus striatus",7
+"248","red","71","accessible","large","f4",2,4,0,2,4,0,0,0,0,"Zebrasoma scopas",1
+"249","red","71","accessible","large","f5",0,0,1,0,0,1,0,0,0,"Acanthurus nigrofuscus",2
+"250","red","71","accessible","large","f5",0,0,1,0,0,1,0,0,0,"Ctenochaetus striatus",1
+"251","red","71","accessible","large","f6",0,3,0,0,3,0,0,0,0,"Acanthurus nigrofuscus",3
+"252","red","71","accessible","large","f6",0,3,0,0,3,0,0,0,0,"Ctenochaetus striatus",5
+"253","red","71","accessible","large","f6",0,3,0,0,3,0,0,0,0,"Zebrasoma scopas",3
+"254","red","71","accessible","large","f7",0,5,0,0,5,0,0,0,0,"Acanthurus nigrofuscus",1
+"255","red","71","accessible","large","f7",0,5,0,0,5,0,0,0,0,"Ctenochaetus striatus",4
+"256","red","71","accessible","large","f7",0,5,0,0,5,0,0,0,0,"Zebrasoma scopas",4
+"257","red","71","accessible","large","f8",3,3,0,2,1,0,1,2,0,"Acanthurus nigrofuscus",6
+"258","red","71","accessible","large","f8",3,3,0,2,1,0,1,2,0,"Ctenochaetus striatus",5
+"259","red","71","accessible","large","f8",3,3,0,2,1,0,1,2,0,"Zebrasoma scopas",10
+"260","red","71","accessible","large","f9",0,2,0,0,2,0,0,0,0,"Ctenochaetus striatus",2
+"261","red","71","accessible","large","g1",1,0,1,1,0,1,0,0,0,"Ctenochaetus striatus",2
+"262","red","71","accessible","large","g2",2,2,0,2,2,0,0,0,0,"Ctenochaetus striatus",3
+"263","red","71","accessible","large","g3",3,3,0,3,3,0,0,0,0,"Ctenochaetus striatus",6
+"264","red","71","accessible","large","g3",3,3,0,3,3,0,0,0,0,"Zebrasoma scopas",3
+"265","red","71","accessible","large","g4",4,3,3,4,3,3,0,0,0,"Ctenochaetus striatus",1
+"266","red","71","accessible","large","g5",9,10,0,9,9,0,0,1,0,"Acanthurus nigrofuscus",7
+"267","red","71","accessible","large","g5",9,10,0,9,9,0,0,1,0,"Ctenochaetus striatus",5
+"268","red","71","accessible","large","g6",9,0,0,9,0,0,0,0,0,NA,NA
+"269","red","71","accessible","large","g7",0,3,0,0,3,0,0,0,0,"Acanthurus nigrofuscus",5
+"270","red","71","accessible","large","g7",0,3,0,0,3,0,0,0,0,"Ctenochaetus striatus",9
+"271","red","71","accessible","large","g7",0,3,0,0,3,0,0,0,0,"Zebrasoma scopas",3
+"272","red","71","accessible","large","g8",2,2,0,2,2,0,0,0,0,"Zebrasoma scopas",1
+"273","red","71","accessible","large","g9",0,3,0,0,3,0,0,0,0,"Acanthurus nigrofuscus",1
+"274","red","71","accessible","large","g9",0,3,0,0,3,0,0,0,0,"Ctenochaetus striatus",1
+"275","red","71","accessible","large","h1",1,0,1,1,0,1,0,0,0,NA,NA
+"276","red","71","accessible","large","h2",7,1,0,4,1,0,3,0,0,"Acanthurus nigrofuscus",2
+"277","red","71","accessible","large","h2",7,1,0,4,1,0,3,0,0,"Ctenochaetus striatus",11
+"278","red","71","accessible","large","h2",7,1,0,4,1,0,3,0,0,"Zebrasoma scopas",8
+"279","red","71","accessible","large","h3",3,2,1,3,2,1,0,0,0,"Ctenochaetus striatus",1
+"280","red","71","accessible","large","h4",0,1,0,0,1,0,0,0,0,"Acanthurus nigrofuscus",4
+"281","red","71","accessible","large","h4",0,1,0,0,1,0,0,0,0,"Ctenochaetus striatus",9
+"282","red","71","accessible","large","h4",0,1,0,0,1,0,0,0,0,"Zebrasoma scopas",3
+"283","red","71","accessible","large","h5",3,2,0,3,2,0,0,0,0,"Acanthurus nigrofuscus",2
+"284","red","71","accessible","large","h5",3,2,0,3,2,0,0,0,0,"Ctenochaetus striatus",3
+"285","red","71","accessible","large","h6",1,5,1,1,5,1,0,0,0,"Acanthurus nigrofuscus",6
+"286","red","71","accessible","large","h6",1,5,1,1,5,1,0,0,0,"Ctenochaetus striatus",9
+"287","red","71","accessible","large","h6",1,5,1,1,5,1,0,0,0,"Zebrasoma scopas",12
+"288","red","71","accessible","large","h7",6,2,1,6,2,1,0,0,0,"Zebrasoma scopas",5
+"289","red","71","accessible","large","h8",1,2,0,1,2,0,0,0,0,"Acanthurus nigrofuscus",13
+"290","red","71","accessible","large","h8",1,2,0,1,2,0,0,0,0,"Ctenochaetus striatus",4
+"291","red","71","accessible","large","h8",1,2,0,1,2,0,0,0,0,"Zebrasoma scopas",17
+"292","red","71","accessible","large","h9",1,0,0,1,0,0,0,0,0,"Acanthurus nigrofuscus",3
+"293","red","71","accessible","large","h9",1,0,0,1,0,0,0,0,0,"Ctenochaetus striatus",1
+"294","red","71","accessible","large","h9",1,0,0,1,0,0,0,0,0,"Zebrasoma scopas",4
+"295","red","71","accessible","large","i1",0,0,0,0,0,0,0,0,0,NA,NA
+"296","red","71","accessible","large","i2",0,0,0,0,0,0,0,0,0,"Ctenochaetus striatus",1
+"297","red","71","accessible","large","i3",1,0,0,1,0,0,0,0,0,NA,NA
+"298","red","71","accessible","large","i4",1,0,0,1,0,0,0,0,0,"Ctenochaetus striatus",1
+"299","red","71","accessible","large","i5",1,0,0,1,0,0,0,0,0,NA,NA
+"300","red","71","accessible","large","i6",2,0,0,2,0,0,0,0,0,NA,NA
+"301","red","71","accessible","large","i7",0,1,0,0,1,0,0,0,0,"Acanthurus nigrofuscus",1
+"302","red","71","accessible","large","i7",0,1,0,0,1,0,0,0,0,"Zebrasoma scopas",1
+"303","red","71","accessible","large","i8",2,0,0,2,0,0,0,0,0,"Acanthurus nigrofuscus",2
+"304","red","71","accessible","large","i8",2,0,0,2,0,0,0,0,0,"Zebrasoma scopas",3
+"305","red","71","accessible","large","i9",0,0,0,0,0,0,0,0,0,"Ctenochaetus striatus",1
+"306","red","71","accessible","large","i9",0,0,0,0,0,0,0,0,0,"Zebrasoma scopas",2
+"307","blank","74","accessible","large","a1",0,0,0,0,0,0,0,0,0,NA,NA
+"308","blank","74","accessible","large","a2",1,0,0,1,0,0,0,0,0,NA,NA
+"309","blank","74","accessible","large","a3",0,0,0,0,0,0,0,0,0,NA,NA
+"310","blank","74","accessible","large","a4",0,0,0,0,0,0,0,0,0,NA,NA
+"311","blank","74","accessible","large","a5",0,2,0,0,2,0,0,0,0,NA,NA
+"312","blank","74","accessible","large","a6",0,0,0,0,0,0,0,0,0,NA,NA
+"313","blank","74","accessible","large","a7",0,0,0,0,0,0,0,0,0,NA,NA
+"314","blank","74","accessible","large","a8",0,0,0,0,0,0,0,0,0,NA,NA
+"315","blank","74","accessible","large","a9",0,0,0,0,0,0,0,0,0,NA,NA
+"316","blank","74","accessible","large","b1",0,0,0,0,0,0,0,0,0,NA,NA
+"317","blank","74","accessible","large","b2",0,7,0,0,7,0,0,0,0,"Scarus niger",1
+"318","blank","74","accessible","large","b3",1,1,0,1,1,0,0,0,0,NA,NA
+"319","blank","74","accessible","large","b4",0,2,0,0,0,0,0,2,0,"Scarus niger",1
+"320","blank","74","accessible","large","b5",0,0,0,0,0,0,0,0,0,"Scarus niger",1
+"321","blank","74","accessible","large","b6",0,3,0,0,3,0,0,0,0,NA,NA
+"322","blank","74","accessible","large","b7",0,2,0,0,0,0,0,2,0,NA,NA
+"323","blank","74","accessible","large","b8",1,0,0,1,0,0,0,0,0,"Scarus niger",1
+"324","blank","74","accessible","large","b9",0,0,0,0,0,0,0,0,0,NA,NA
+"325","blank","74","accessible","large","c1",0,0,0,0,0,0,0,0,0,NA,NA
+"326","blank","74","accessible","large","c2",1,5,0,1,5,0,0,0,0,NA,NA
+"327","blank","74","accessible","large","c3",0,3,0,0,2,0,0,1,0,"Scarus niger",1
+"328","blank","74","accessible","large","c4",0,0,0,0,0,0,0,0,0,NA,NA
+"329","blank","74","accessible","large","c5",0,2,0,0,2,0,0,0,0,NA,NA
+"330","blank","74","accessible","large","c6",0,2,0,0,2,0,0,0,0,"Scarus niger",1
+"331","blank","74","accessible","large","c7",1,1,0,1,1,0,0,0,0,NA,NA
+"332","blank","74","accessible","large","c8",0,3,0,0,3,0,0,0,0,NA,NA
+"333","blank","74","accessible","large","c9",0,0,0,0,0,0,0,0,0,NA,NA
+"334","blank","74","accessible","large","d1",0,0,0,0,0,0,0,0,0,NA,NA
+"335","blank","74","accessible","large","d2",0,0,0,0,0,0,0,0,0,"Scarus niger",2
+"336","blank","74","accessible","large","d3",0,1,0,0,1,0,0,0,0,"Scarus niger",1
+"337","blank","74","accessible","large","d4",1,1,1,1,0,1,0,1,0,NA,NA
+"338","blank","74","accessible","large","d5",0,0,0,0,0,0,0,0,0,"Scarus niger",1
+"339","blank","74","accessible","large","d6",0,1,0,0,1,0,0,0,0,NA,NA
+"340","blank","74","accessible","large","d7",0,2,0,0,2,0,0,0,0,NA,NA
+"341","blank","74","accessible","large","d8",0,4,0,0,4,0,0,0,0,"Scarus niger",1
+"342","blank","74","accessible","large","d9",0,0,0,0,0,0,0,0,0,NA,NA
+"343","blank","74","accessible","large","e1",0,0,0,0,0,0,0,0,0,NA,NA
+"344","blank","74","accessible","large","e2",1,3,0,0,3,0,1,0,0,NA,NA
+"345","blank","74","accessible","large","e3",0,4,0,0,4,0,0,0,0,NA,NA
+"346","blank","74","accessible","large","e4",0,0,0,0,0,0,0,0,0,NA,NA
+"347","blank","74","accessible","large","e5",0,3,0,0,3,0,0,0,0,NA,NA
+"348","blank","74","accessible","large","e6",0,0,0,0,0,0,0,0,0,NA,NA
+"349","blank","74","accessible","large","e7",0,4,0,0,4,0,0,0,0,"Scarus niger",1
+"350","blank","74","accessible","large","e8",0,1,0,0,1,0,0,0,0,NA,NA
+"351","blank","74","accessible","large","e9",0,0,0,0,0,0,0,0,0,NA,NA
+"352","blank","74","accessible","large","f1",0,1,0,0,1,0,0,0,0,NA,NA
+"353","blank","74","accessible","large","f2",1,6,0,1,6,0,0,0,0,NA,NA
+"354","blank","74","accessible","large","f3",2,0,0,2,0,0,0,0,0,NA,NA
+"355","blank","74","accessible","large","f4",0,3,0,0,3,0,0,0,0,"Scarus niger",1
+"356","blank","74","accessible","large","f5",0,2,0,0,1,0,0,1,0,NA,NA
+"357","blank","74","accessible","large","f6",0,5,0,0,4,0,0,1,0,NA,NA
+"358","blank","74","accessible","large","f7",0,0,0,0,0,0,0,0,0,NA,NA
+"359","blank","74","accessible","large","f8",0,2,0,0,2,0,0,0,0,NA,NA
+"360","blank","74","accessible","large","f9",0,0,0,0,0,0,0,0,0,NA,NA
+"361","blank","74","accessible","large","g1",0,0,0,0,0,0,0,0,0,NA,NA
+"362","blank","74","accessible","large","g2",0,2,0,0,2,0,0,0,0,NA,NA
+"363","blank","74","accessible","large","g3",0,5,0,0,5,0,0,0,0,"Scarus niger",2
+"364","blank","74","accessible","large","g4",0,0,0,0,0,0,0,0,0,NA,NA
+"365","blank","74","accessible","large","g5",0,2,0,0,2,0,0,0,0,NA,NA
+"366","blank","74","accessible","large","g6",3,0,0,3,0,0,0,0,0,NA,NA
+"367","blank","74","accessible","large","g7",0,1,0,0,1,0,0,0,0,"Scarus niger",1
+"368","blank","74","accessible","large","g8",0,0,0,0,0,0,0,0,0,"Pomacentrus bankanensis",1
+"369","blank","74","accessible","large","g9",0,0,0,0,0,0,0,0,0,NA,0
+"370","blank","74","accessible","large","h1",0,1,0,0,1,0,0,0,0,NA,NA
+"371","blank","74","accessible","large","h2",0,0,0,0,0,0,0,0,0,NA,NA
+"372","blank","74","accessible","large","h3",0,1,0,0,1,0,0,0,0,NA,NA
+"373","blank","74","accessible","large","h4",1,3,0,1,3,0,0,0,0,NA,NA
+"374","blank","74","accessible","large","h5",0,0,0,0,0,0,0,0,0,NA,NA
+"375","blank","74","accessible","large","h6",0,3,0,0,2,0,0,1,0,NA,NA
+"376","blank","74","accessible","large","h7",0,0,0,0,0,0,0,0,0,NA,NA
+"377","blank","74","accessible","large","h8",0,0,0,0,0,0,0,0,0,NA,NA
+"378","blank","74","accessible","large","h9",1,0,0,1,0,0,0,0,0,NA,NA
+"379","blank","74","accessible","large","i1",0,0,0,0,0,0,0,0,0,NA,NA
+"380","blank","74","accessible","large","i2",1,0,1,1,0,1,0,0,0,NA,NA
+"381","blank","74","accessible","large","i3",0,0,0,0,0,0,0,0,0,NA,NA
+"382","blank","74","accessible","large","i4",0,0,0,0,0,0,0,0,0,NA,NA
+"383","blank","74","accessible","large","i5",0,0,0,0,0,0,0,0,0,NA,NA
+"384","blank","74","accessible","large","i6",0,0,0,0,0,0,0,0,0,NA,NA
+"385","blank","74","accessible","large","i7",0,0,0,0,0,0,0,0,0,NA,NA
+"386","blank","74","accessible","large","i8",0,1,0,0,1,0,0,0,0,NA,NA
+"387","blank","74","accessible","large","i9",0,0,0,0,0,0,0,0,0,NA,NA
+"388","black","80","accessible","large","a1",0,0,0,0,0,0,0,0,0,NA,NA
+"389","black","80","accessible","large","a2",0,0,0,0,0,0,0,0,0,NA,NA
+"390","black","80","accessible","large","a3",0,1,0,0,1,0,0,0,0,NA,NA
+"391","black","80","accessible","large","a4",2,0,0,2,0,0,0,0,0,NA,NA
+"392","black","80","accessible","large","a5",1,0,0,1,0,0,0,0,0,NA,NA
+"393","black","80","accessible","large","a6",0,0,0,0,0,0,0,0,0,NA,NA
+"394","black","80","accessible","large","a7",0,1,0,0,1,0,0,0,0,NA,NA
+"395","black","80","accessible","large","a8",2,1,0,2,1,0,0,0,0,NA,NA
+"396","black","80","accessible","large","a9",0,1,0,0,1,0,0,0,0,NA,NA
+"397","black","80","accessible","large","b1",0,1,0,0,1,0,0,0,0,NA,NA
+"398","black","80","accessible","large","b2",1,4,0,1,3,0,0,1,0,"Naso lituratus",2
+"399","black","80","accessible","large","b3",1,3,1,1,3,1,0,0,0,NA,NA
+"400","black","80","accessible","large","b4",0,3,0,0,3,0,0,0,0,"Ctenochaetus binotatus",4
+"401","black","80","accessible","large","b4",0,3,0,0,3,0,0,0,0,"Naso lituratus",5
+"402","black","80","accessible","large","b5",0,0,0,0,0,0,0,0,0,NA,NA
+"403","black","80","accessible","large","b6",1,5,0,1,5,0,0,0,0,"Naso lituratus",5
+"404","black","80","accessible","large","b7",0,3,0,0,3,0,0,0,0,NA,NA
+"405","black","80","accessible","large","b8",0,1,0,0,1,0,0,0,0,"Naso lituratus",2
+"406","black","80","accessible","large","b9",0,0,0,0,0,0,0,0,0,NA,NA
+"407","black","80","accessible","large","c1",0,0,0,0,0,0,0,0,0,"Naso lituratus",1
+"408","black","80","accessible","large","c2",2,2,0,2,2,0,0,0,0,NA,NA
+"409","black","80","accessible","large","c3",1,0,1,1,0,1,0,0,0,NA,NA
+"410","black","80","accessible","large","c4",0,2,0,0,2,0,0,0,0,"Ctenochaetus binotatus",1
+"411","black","80","accessible","large","c5",2,3,0,2,3,0,0,0,0,NA,NA
+"412","black","80","accessible","large","c6",0,1,0,0,1,0,0,0,0,"Naso lituratus",2
+"413","black","80","accessible","large","c7",0,4,0,0,3,0,0,1,0,"Naso lituratus",1
+"414","black","80","accessible","large","c8",1,1,0,1,1,0,0,0,0,NA,NA
+"415","black","80","accessible","large","c9",0,0,0,0,0,0,0,0,0,NA,NA
+"416","black","80","accessible","large","d1",0,1,0,0,1,0,0,0,0,"Naso lituratus",1
+"417","black","80","accessible","large","d2",0,9,0,0,9,0,0,0,0,"Ctenochaetus binotatus",1
+"418","black","80","accessible","large","d2",0,9,0,0,9,0,0,0,0,"Naso lituratus",2
+"419","black","80","accessible","large","d3",0,0,0,0,0,0,0,0,0,"Ctenochaetus binotatus",2
+"420","black","80","accessible","large","d3",0,0,0,0,0,0,0,0,0,"Naso lituratus",2
+"421","black","80","accessible","large","d3",0,0,0,0,0,0,0,0,0,"unident wrasse",1
+"422","black","80","accessible","large","d4",1,2,0,1,2,0,0,0,0,NA,NA
+"423","black","80","accessible","large","d5",0,3,0,0,3,0,0,0,0,NA,NA
+"424","black","80","accessible","large","d6",0,3,0,0,3,0,0,0,0,NA,NA
+"425","black","80","accessible","large","d7",0,0,0,0,0,0,0,0,0,"Naso lituratus",1
+"426","black","80","accessible","large","d8",0,4,0,0,4,0,0,0,0,"Naso lituratus",2
+"427","black","80","accessible","large","d9",0,0,0,0,0,0,0,0,0,NA,NA
+"428","black","80","accessible","large","e1",0,1,0,0,1,0,0,0,0,"Ctenochaetus binotatus",1
+"429","black","80","accessible","large","e2",2,0,1,2,0,1,0,0,0,"Ctenochaetus binotatus",1
+"430","black","80","accessible","large","e3",0,2,0,0,2,0,0,0,0,"Ctenochaetus binotatus",6
+"431","black","80","accessible","large","e3",0,2,0,0,2,0,0,0,0,"Naso lituratus",2
+"432","black","80","accessible","large","e3",0,2,0,0,2,0,0,0,0,"unident wrasse",1
+"433","black","80","accessible","large","e4",1,5,0,1,5,0,0,0,0,"Ctenochaetus binotatus",1
+"434","black","80","accessible","large","e5",0,3,0,0,3,0,0,0,0,NA,NA
+"435","black","80","accessible","large","e6",0,0,0,0,0,0,0,0,0,NA,NA
+"436","black","80","accessible","large","e7",1,0,0,1,0,0,0,0,0,NA,NA
+"437","black","80","accessible","large","e8",1,1,0,1,1,0,0,0,0,NA,NA
+"438","black","80","accessible","large","e9",1,0,0,1,0,0,0,0,0,NA,NA
+"439","black","80","accessible","large","f1",1,0,0,1,0,0,0,0,0,NA,NA
+"440","black","80","accessible","large","f2",0,1,0,0,0,0,0,1,0,"Ctenochaetus binotatus",5
+"441","black","80","accessible","large","f2",0,1,0,0,0,0,0,1,0,"Naso lituratus",6
+"442","black","80","accessible","large","f3",1,1,0,1,1,0,0,0,0,"Ctenochaetus binotatus",1
+"443","black","80","accessible","large","f4",0,4,0,0,3,0,0,1,0,"Ctenochaetus binotatus",6
+"444","black","80","accessible","large","f4",0,4,0,0,3,0,0,1,0,"unident wrasse",1
+"445","black","80","accessible","large","f5",0,2,0,0,1,0,0,1,0,"Ctenochaetus binotatus",4
+"446","black","80","accessible","large","f6",0,1,0,0,1,0,0,0,0,"Ctenochaetus binotatus",2
+"447","black","80","accessible","large","f7",1,1,0,1,1,0,0,0,0,NA,NA
+"448","black","80","accessible","large","f8",0,3,0,0,3,0,0,0,0,"Naso lituratus",1
+"449","black","80","accessible","large","f9",0,0,1,0,0,1,0,0,0,NA,NA
+"450","black","80","accessible","large","g1",0,0,0,0,0,0,0,0,0,"Naso lituratus",3
+"451","black","80","accessible","large","g2",0,1,0,0,1,0,0,0,0,NA,NA
+"452","black","80","accessible","large","g3",0,1,0,0,1,0,0,0,0,"Ctenochaetus binotatus",6
+"453","black","80","accessible","large","g4",2,2,0,2,2,0,0,0,0,"unident wrasse",2
+"454","black","80","accessible","large","g5",0,0,0,0,0,0,0,0,0,"Ctenochaetus binotatus",3
+"455","black","80","accessible","large","g6",0,1,0,0,1,0,0,0,0,NA,NA
+"456","black","80","accessible","large","g7",2,3,0,2,3,0,0,0,0,"Chlorurus sordidus",5
+"457","black","80","accessible","large","g7",2,3,0,2,3,0,0,0,0,"Ctenochaetus binotatus",2
+"458","black","80","accessible","large","g7",2,3,0,2,3,0,0,0,0,"Naso lituratus",1
+"459","black","80","accessible","large","g8",1,2,0,1,2,0,0,0,0,"Chlorurus sordidus",1
+"460","black","80","accessible","large","g9",0,1,0,0,1,0,0,0,0,NA,NA
+"461","black","80","accessible","large","h1",0,1,0,0,1,0,0,0,0,NA,NA
+"462","black","80","accessible","large","h2",0,1,0,0,1,0,0,0,0,"Chlorurus sordidus",15
+"463","black","80","accessible","large","h2",0,1,0,0,1,0,0,0,0,"Naso lituratus",6
+"464","black","80","accessible","large","h3",2,3,0,2,3,0,0,0,0,NA,NA
+"465","black","80","accessible","large","h4",0,0,0,0,0,0,0,0,0,"Chlorurus sordidus",7
+"466","black","80","accessible","large","h4",0,0,0,0,0,0,0,0,0,"Ctenochaetus binotatus",2
+"467","black","80","accessible","large","h4",0,0,0,0,0,0,0,0,0,"Naso lituratus",3
+"468","black","80","accessible","large","h5",0,2,0,0,2,0,0,0,0,NA,NA
+"469","black","80","accessible","large","h6",0,4,0,0,3,0,0,1,0,"Chlorurus sordidus",7
+"470","black","80","accessible","large","h6",0,4,0,0,3,0,0,1,0,"Ctenochaetus binotatus",11
+"471","black","80","accessible","large","h6",0,4,0,0,3,0,0,1,0,"Naso lituratus",1
+"472","black","80","accessible","large","h7",1,2,0,1,2,0,0,0,0,"Chlorurus sordidus",3
+"473","black","80","accessible","large","h8",0,0,0,0,0,0,0,0,0,"Chlorurus sordidus",11
+"474","black","80","accessible","large","h8",0,0,0,0,0,0,0,0,0,"Naso lituratus",2
+"475","black","80","accessible","large","h9",1,1,0,1,1,0,0,0,0,NA,NA
+"476","black","80","accessible","large","i1",0,1,0,0,1,0,0,0,0,NA,NA
+"477","black","80","accessible","large","i2",0,0,0,0,0,0,0,0,0,NA,NA
+"478","black","80","accessible","large","i3",0,0,0,0,0,0,0,0,0,"Naso lituratus",1
+"479","black","80","accessible","large","i4",0,0,0,0,0,0,0,0,0,"Ctenochaetus binotatus",2
+"480","black","80","accessible","large","i5",0,0,0,0,0,0,0,0,0,"Chlorurus sordidus",1
+"481","black","80","accessible","large","i6",0,0,0,0,0,0,0,0,0,NA,NA
+"482","black","80","accessible","large","i7",0,1,0,0,1,0,0,0,0,NA,NA
+"483","black","80","accessible","large","i8",0,1,0,0,1,0,0,0,0,NA,NA
+"484","black","80","accessible","large","i9",1,0,0,1,0,0,0,0,0,NA,NA
+"485","green","13","caged control","medium","a1",0,0,0,0,0,0,0,0,0,NA,NA
+"486","green","13","caged control","medium","a2",0,0,0,0,0,0,0,0,0,NA,NA
+"487","green","13","caged control","medium","a3",0,0,0,0,0,0,0,0,0,NA,NA
+"488","green","13","caged control","medium","a4",1,0,0,1,0,0,0,0,0,NA,NA
+"489","green","13","caged control","medium","a5",0,1,0,0,1,0,0,0,0,NA,NA
+"490","green","13","caged control","medium","a6",0,0,0,0,0,0,0,0,0,NA,NA
+"491","green","13","caged control","medium","a7",0,0,0,0,0,0,0,0,0,NA,NA
+"492","green","13","caged control","medium","a8",1,0,0,1,0,0,0,0,0,NA,NA
+"493","green","13","caged control","medium","a9",0,0,0,0,0,0,0,0,0,NA,NA
+"494","green","13","caged control","medium","b1",0,0,0,0,0,0,0,0,0,NA,NA
+"495","green","13","caged control","medium","b2",0,1,0,0,1,0,0,0,0,NA,NA
+"496","green","13","caged control","medium","b3",0,0,0,0,0,0,0,0,0,NA,NA
+"497","green","13","caged control","medium","b4",0,0,0,0,0,0,0,0,0,NA,NA
+"498","green","13","caged control","medium","b5",2,1,0,2,1,0,0,0,0,NA,NA
+"499","green","13","caged control","medium","b6",1,0,0,1,0,0,0,0,0,NA,NA
+"500","green","13","caged control","medium","b7",0,1,0,0,1,0,0,0,0,NA,NA
+"501","green","13","caged control","medium","b8",1,0,0,1,0,0,0,0,0,NA,NA
+"502","green","13","caged control","medium","b9",0,0,0,0,0,0,0,0,0,NA,NA
+"503","green","13","caged control","medium","c1",0,2,0,0,2,0,0,0,0,NA,NA
+"504","green","13","caged control","medium","c2",0,0,0,0,0,0,0,0,0,NA,NA
+"505","green","13","caged control","medium","c3",0,1,0,0,1,0,0,0,0,NA,NA
+"506","green","13","caged control","medium","c4",0,2,0,0,2,0,0,0,0,NA,NA
+"507","green","13","caged control","medium","c5",1,0,0,1,0,0,0,0,0,NA,NA
+"508","green","13","caged control","medium","c6",0,0,0,0,0,0,0,0,0,NA,NA
+"509","green","13","caged control","medium","c7",0,1,0,0,1,0,0,0,0,NA,NA
+"510","green","13","caged control","medium","c8",0,3,0,0,3,0,0,0,0,NA,NA
+"511","green","13","caged control","medium","c9",0,0,0,0,0,0,0,0,0,NA,NA
+"512","green","13","caged control","medium","d1",0,0,1,0,0,1,0,0,0,NA,NA
+"513","green","13","caged control","medium","d2",0,1,0,0,1,0,0,0,0,NA,NA
+"514","green","13","caged control","medium","d3",1,0,0,1,0,0,0,0,0,NA,NA
+"515","green","13","caged control","medium","d4",0,0,0,0,0,0,0,0,0,NA,NA
+"516","green","13","caged control","medium","d5",0,3,1,0,3,1,0,0,0,NA,NA
+"517","green","13","caged control","medium","d6",0,3,0,0,2,0,0,1,0,NA,NA
+"518","green","13","caged control","medium","d7",0,3,0,0,3,0,0,0,0,NA,NA
+"519","green","13","caged control","medium","d8",0,1,0,0,1,0,0,0,0,NA,NA
+"520","green","13","caged control","medium","d9",0,0,0,0,0,0,0,0,0,NA,NA
+"521","green","13","caged control","medium","e1",0,0,0,0,0,0,0,0,0,NA,NA
+"522","green","13","caged control","medium","e2",1,0,0,1,0,0,0,0,0,NA,NA
+"523","green","13","caged control","medium","e3",0,3,0,0,3,0,0,0,0,NA,NA
+"524","green","13","caged control","medium","e4",0,0,1,0,0,1,0,0,0,NA,NA
+"525","green","13","caged control","medium","e5",1,1,0,1,1,0,0,0,0,NA,NA
+"526","green","13","caged control","medium","e6",0,2,1,0,2,1,0,0,0,NA,NA
+"527","green","13","caged control","medium","e7",0,0,0,0,0,0,0,0,0,NA,NA
+"528","green","13","caged control","medium","e8",0,1,0,0,1,0,0,0,0,NA,NA
+"529","green","13","caged control","medium","e9",0,0,0,0,0,0,0,0,0,NA,NA
+"530","green","13","caged control","medium","f1",0,2,0,0,2,0,0,0,0,NA,NA
+"531","green","13","caged control","medium","f2",0,0,0,0,0,0,0,0,0,NA,NA
+"532","green","13","caged control","medium","f3",0,1,0,0,1,0,0,0,0,NA,NA
+"533","green","13","caged control","medium","f4",0,1,0,0,1,0,0,0,0,NA,NA
+"534","green","13","caged control","medium","f5",0,1,0,0,1,1,0,0,-1,NA,NA
+"535","green","13","caged control","medium","f6",0,1,0,0,1,0,0,0,0,NA,NA
+"536","green","13","caged control","medium","f7",0,1,0,0,1,0,0,0,0,NA,NA
+"537","green","13","caged control","medium","f8",0,5,0,0,5,0,0,0,0,NA,NA
+"538","green","13","caged control","medium","f9",0,0,0,0,0,0,0,0,0,NA,NA
+"539","green","13","caged control","medium","g1",0,0,0,0,0,0,0,0,0,NA,NA
+"540","green","13","caged control","medium","g2",1,1,0,1,1,0,0,0,0,NA,NA
+"541","green","13","caged control","medium","g3",0,0,0,0,0,0,0,0,0,NA,NA
+"542","green","13","caged control","medium","g4",1,1,0,1,1,0,0,0,0,NA,NA
+"543","green","13","caged control","medium","g5",0,0,1,0,0,1,0,0,0,NA,NA
+"544","green","13","caged control","medium","g6",0,2,0,0,2,0,0,0,0,NA,NA
+"545","green","13","caged control","medium","g7",0,3,0,0,3,0,0,0,0,NA,NA
+"546","green","13","caged control","medium","g8",0,0,0,0,0,0,0,0,0,NA,NA
+"547","green","13","caged control","medium","g9",0,0,0,0,0,0,0,0,0,NA,NA
+"548","green","13","caged control","medium","h1",0,1,0,0,1,0,0,0,0,NA,NA
+"549","green","13","caged control","medium","h2",0,1,0,0,1,0,0,0,0,NA,NA
+"550","green","13","caged control","medium","h3",1,2,0,1,2,0,0,0,0,NA,NA
+"551","green","13","caged control","medium","h4",1,0,0,1,0,0,0,0,0,NA,NA
+"552","green","13","caged control","medium","h5",1,0,0,1,0,0,0,0,0,NA,NA
+"553","green","13","caged control","medium","h6",0,1,1,0,1,1,0,0,0,NA,NA
+"554","green","13","caged control","medium","h7",0,0,0,0,0,0,0,0,0,NA,NA
+"555","green","13","caged control","medium","h8",0,0,0,0,0,0,0,0,0,NA,NA
+"556","green","13","caged control","medium","h9",0,1,0,0,1,0,0,0,0,NA,NA
+"557","green","13","caged control","medium","i1",0,0,0,0,0,0,0,0,0,NA,NA
+"558","green","13","caged control","medium","i2",0,0,0,0,0,0,0,0,0,NA,NA
+"559","green","13","caged control","medium","i3",0,0,0,0,0,0,0,0,0,NA,NA
+"560","green","13","caged control","medium","i4",0,1,0,0,1,0,0,0,0,NA,NA
+"561","green","13","caged control","medium","i5",0,0,0,0,0,0,0,0,0,NA,NA
+"562","green","13","caged control","medium","i6",1,1,0,1,1,0,0,0,0,NA,NA
+"563","green","13","caged control","medium","i7",0,0,0,0,0,0,0,0,0,NA,NA
+"564","green","13","caged control","medium","i8",0,0,0,0,0,0,0,0,0,NA,NA
+"565","green","13","caged control","medium","i9",0,0,0,0,0,0,0,0,0,NA,NA
+"566","red","44","accessible","medium","a1",0,0,0,0,0,0,0,0,0,"Ctenochaetus striatus",1
+"567","red","44","accessible","medium","a2",0,0,0,0,0,0,0,0,0,NA,NA
+"568","red","44","accessible","medium","a3",0,0,0,0,0,0,0,0,0,NA,NA
+"569","red","44","accessible","medium","a4",0,0,0,0,0,0,0,0,0,NA,NA
+"570","red","44","accessible","medium","a5",0,0,0,0,0,0,0,0,0,NA,NA
+"571","red","44","accessible","medium","a6",0,0,0,0,0,0,0,0,0,NA,NA
+"572","red","44","accessible","medium","a7",0,0,0,0,0,0,0,0,0,NA,NA
+"573","red","44","accessible","medium","a8",0,0,0,0,0,0,0,0,0,NA,NA
+"574","red","44","accessible","medium","a9",0,0,0,0,0,0,0,0,0,NA,NA
+"575","red","44","accessible","medium","b1",0,0,0,0,0,0,0,0,0,"Acanthurus nigrofuscus",3
+"576","red","44","accessible","medium","b1",0,0,0,0,0,0,0,0,0,"Ctenochaetus striatus",1
+"577","red","44","accessible","medium","b1",0,0,0,0,0,0,0,0,0,"Zebrasoma scopas",2
+"578","red","44","accessible","medium","b2",1,1,0,1,1,0,0,0,0,"Acanthurus nigrofuscus",14
+"579","red","44","accessible","medium","b2",1,1,0,1,1,0,0,0,0,"Ctenochaetus striatus",8
+"580","red","44","accessible","medium","b3",1,0,0,1,0,0,0,0,0,"Ctenochaetus striatus",2
+"581","red","44","accessible","medium","b4",0,3,0,0,3,0,0,0,0,"Acanthurus nigrofuscus",4
+"582","red","44","accessible","medium","b4",0,3,0,0,3,0,0,0,0,"Ctenochaetus striatus",3
+"583","red","44","accessible","medium","b5",0,2,0,0,2,0,0,0,0,"Acanthurus nigrofuscus",2
+"584","red","44","accessible","medium","b6",0,0,0,0,0,0,0,0,0,"Acanthurus nigrofuscus",7
+"585","red","44","accessible","medium","b6",0,0,0,0,0,0,0,0,0,"Ctenochaetus striatus",4
+"586","red","44","accessible","medium","b7",0,1,0,0,1,0,0,0,0,"Acanthurus nigrofuscus",2
+"587","red","44","accessible","medium","b8",0,0,0,0,0,0,0,0,0,"Acanthurus nigrofuscus",5
+"588","red","44","accessible","medium","b8",0,0,0,0,0,0,0,0,0,"Ctenochaetus striatus",5
+"589","red","44","accessible","medium","b9",1,0,0,1,0,0,0,0,0,NA,NA
+"590","red","44","accessible","medium","c1",0,0,0,0,0,0,0,0,0,"Ctenochaetus striatus",4
+"591","red","44","accessible","medium","c1",0,0,0,0,0,0,0,0,0,"Zebrasoma scopas",1
+"592","red","44","accessible","medium","c2",0,0,0,0,0,0,0,0,0,NA,NA
+"593","red","44","accessible","medium","c3",0,1,0,0,0,0,0,1,0,"Acanthurus nigrofuscus",18
+"594","red","44","accessible","medium","c3",0,1,0,0,0,0,0,1,0,"Ctenochaetus striatus",NA
+"595","red","44","accessible","medium","c4",1,0,0,1,0,0,0,0,0,NA,NA
+"596","red","44","accessible","medium","c5",0,2,0,0,2,0,0,0,0,"Acanthurus nigrofuscus",8
+"597","red","44","accessible","medium","c5",0,2,0,0,2,0,0,0,0,"Zebrasoma scopas",1
+"598","red","44","accessible","medium","c6",0,0,0,0,0,0,0,0,0,"Acanthurus nigrofuscus",1
+"599","red","44","accessible","medium","c7",0,0,0,0,0,0,0,0,0,"Acanthurus nigrofuscus",4
+"600","red","44","accessible","medium","c7",0,0,0,0,0,0,0,0,0,"Ctenochaetus striatus",3
+"601","red","44","accessible","medium","c8",0,1,0,0,1,0,0,0,0,"Acanthurus nigrofuscus",1
+"602","red","44","accessible","medium","c9",1,0,0,1,0,0,0,0,0,NA,NA
+"603","red","44","accessible","medium","d1",0,1,0,0,1,0,0,0,0,"Acanthurus nigrofuscus",1
+"604","red","44","accessible","medium","d1",0,1,0,0,1,0,0,0,0,"Ctenochaetus striatus",2
+"605","red","44","accessible","medium","d1",0,1,0,0,1,0,0,0,0,"Zebrasoma scopas",1
+"606","red","44","accessible","medium","d2",0,2,0,0,1,0,0,1,0,"Acanthurus nigrofuscus",19
+"607","red","44","accessible","medium","d2",0,2,0,0,1,0,0,1,0,"Ctenochaetus striatus",5
+"608","red","44","accessible","medium","d2",0,2,0,0,1,0,0,1,0,"Zebrasoma scopas",1
+"609","red","44","accessible","medium","d3",0,0,0,0,0,0,0,0,0,"Acanthurus nigrofuscus",5
+"610","red","44","accessible","medium","d4",0,2,0,0,0,0,0,2,0,"Acanthurus nigrofuscus",13
+"611","red","44","accessible","medium","d4",0,2,0,0,0,0,0,2,0,"Ctenochaetus striatus",2
+"612","red","44","accessible","medium","d5",0,1,0,0,1,0,0,0,0,"Acanthurus nigrofuscus",4
+"613","red","44","accessible","medium","d6",1,1,0,1,0,0,0,1,0,"Acanthurus nigrofuscus",5
+"614","red","44","accessible","medium","d6",1,1,0,1,0,0,0,1,0,"Ctenochaetus striatus",4
+"615","red","44","accessible","medium","d6",1,1,0,1,0,0,0,1,0,"Zebrasoma scopas",1
+"616","red","44","accessible","medium","d7",0,1,0,0,1,0,0,0,0,NA,NA
+"617","red","44","accessible","medium","d8",0,0,0,0,0,0,0,0,0,"Acanthurus nigrofuscus",5
+"618","red","44","accessible","medium","d8",0,0,0,0,0,0,0,0,0,"Ctenochaetus striatus",4
+"619","red","44","accessible","medium","d8",0,0,0,0,0,0,0,0,0,"Zebrasoma scopas",1
+"620","red","44","accessible","medium","d9",1,1,0,0,1,0,1,0,0,"Acanthurus nigrofuscus",1
+"621","red","44","accessible","medium","e1",0,0,0,0,0,0,0,0,0,"Acanthurus nigrofuscus",1
+"622","red","44","accessible","medium","e1",0,0,0,0,0,0,0,0,0,"Ctenochaetus striatus",1
+"623","red","44","accessible","medium","e1",0,0,0,0,0,0,0,0,0,"Zebrasoma scopas",1
+"624","red","44","accessible","medium","e2",0,0,0,0,0,0,0,0,0,"Acanthurus nigrofuscus",2
+"625","red","44","accessible","medium","e2",0,0,0,0,0,0,0,0,0,"Ctenochaetus striatus",1
+"626","red","44","accessible","medium","e3",0,5,0,0,2,0,0,3,0,"Acanthurus nigrofuscus",12
+"627","red","44","accessible","medium","e3",0,5,0,0,2,0,0,3,0,"Ctenochaetus striatus",4
+"628","red","44","accessible","medium","e4",2,1,0,2,1,0,0,0,0,"Acanthurus nigrofuscus",1
+"629","red","44","accessible","medium","e5",0,0,0,0,0,0,0,0,0,NA,NA
+"630","red","44","accessible","medium","e6",1,0,0,1,0,0,0,0,0,"Acanthurus nigrofuscus",1
+"631","red","44","accessible","medium","e7",0,0,0,0,0,0,0,0,0,"Acanthurus nigrofuscus",2
+"632","red","44","accessible","medium","e7",0,0,0,0,0,0,0,0,0,"Zebrasoma scopas",2
+"633","red","44","accessible","medium","e8",0,2,0,0,2,0,0,0,0,"Ctenochaetus striatus",2
+"634","red","44","accessible","medium","e8",0,2,0,0,2,0,0,0,0,"Zebrasoma scopas",2
+"635","red","44","accessible","medium","e9",0,1,0,0,0,0,0,1,0,"Ctenochaetus striatus",6
+"636","red","44","accessible","medium","e9",0,1,0,0,0,0,0,1,0,"Zebrasoma scopas",6
+"637","red","44","accessible","medium","f1",0,0,0,0,0,0,0,0,0,"Acanthurus nigrofuscus",3
+"638","red","44","accessible","medium","f2",0,1,0,0,1,0,0,0,0,"Acanthurus nigrofuscus",13
+"639","red","44","accessible","medium","f2",0,1,0,0,1,0,0,0,0,"Ctenochaetus striatus",1
+"640","red","44","accessible","medium","f3",1,2,0,1,2,0,0,0,0,"Acanthurus nigrofuscus",1
+"641","red","44","accessible","medium","f4",0,0,0,0,0,0,0,0,0,"Acanthurus nigrofuscus",15
+"642","red","44","accessible","medium","f4",0,0,0,0,0,0,0,0,0,"Ctenochaetus striatus",2
+"643","red","44","accessible","medium","f4",0,0,0,0,0,0,0,0,0,"Zebrasoma scopas",1
+"644","red","44","accessible","medium","f5",1,1,0,1,1,0,0,0,0,"Acanthurus nigrofuscus",1
+"645","red","44","accessible","medium","f5",1,1,0,1,1,0,0,0,0,"Ctenochaetus striatus",1
+"646","red","44","accessible","medium","f5",1,1,0,1,1,0,0,0,0,"Zebrasoma scopas",1
+"647","red","44","accessible","medium","f6",0,0,0,0,0,0,0,0,0,"Acanthurus nigrofuscus",2
+"648","red","44","accessible","medium","f6",0,0,0,0,0,0,0,0,0,"Ctenochaetus striatus",4
+"649","red","44","accessible","medium","f6",0,0,0,0,0,0,0,0,0,"Zebrasoma scopas",2
+"650","red","44","accessible","medium","f7",0,1,0,0,1,0,0,0,0,NA,NA
+"651","red","44","accessible","medium","f8",0,1,0,0,1,0,0,0,0,"Acanthurus nigrofuscus",4
+"652","red","44","accessible","medium","f8",0,1,0,0,1,0,0,0,0,"Ctenochaetus striatus",1
+"653","red","44","accessible","medium","f8",0,1,0,0,1,0,0,0,0,"Zebrasoma scopas",5
+"654","red","44","accessible","medium","f9",1,0,0,1,0,0,0,0,0,"Acanthurus nigrofuscus",8
+"655","red","44","accessible","medium","f9",1,0,0,1,0,0,0,0,0,"Ctenochaetus striatus",1
+"656","red","44","accessible","medium","g1",0,1,0,0,1,0,0,0,0,"Acanthurus nigrofuscus",7
+"657","red","44","accessible","medium","g2",0,1,0,0,1,0,0,0,0,"Acanthurus nigrofuscus",9
+"658","red","44","accessible","medium","g3",0,1,0,0,1,0,0,0,0,"Acanthurus nigrofuscus",23
+"659","red","44","accessible","medium","g3",0,1,0,0,1,0,0,0,0,"Ctenochaetus striatus",6
+"660","red","44","accessible","medium","g4",0,2,1,0,2,1,0,0,0,NA,NA
+"661","red","44","accessible","medium","g5",0,1,0,0,0,0,0,1,0,"Acanthurus nigrofuscus",11
+"662","red","44","accessible","medium","g5",0,1,0,0,0,0,0,1,0,"Ctenochaetus striatus",3
+"663","red","44","accessible","medium","g5",0,1,0,0,0,0,0,1,0,"Zebrasoma scopas",1
+"664","red","44","accessible","medium","g6",0,0,0,0,0,0,0,0,0,"Acanthurus nigrofuscus",4
+"665","red","44","accessible","medium","g6",0,0,0,0,0,0,0,0,0,"Zebrasoma scopas",1
+"666","red","44","accessible","medium","g7",0,0,0,0,0,0,0,0,0,"Acanthurus nigrofuscus",11
+"667","red","44","accessible","medium","g7",0,0,0,0,0,0,0,0,0,"Ctenochaetus striatus",4
+"668","red","44","accessible","medium","g7",0,0,0,0,0,0,0,0,0,"Zebrasoma scopas",5
+"669","red","44","accessible","medium","g8",1,0,0,1,0,0,0,0,0,"Acanthurus nigrofuscus",3
+"670","red","44","accessible","medium","g8",1,0,0,1,0,0,0,0,0,"Ctenochaetus striatus",3
+"671","red","44","accessible","medium","g9",0,0,0,0,0,0,0,0,0,"Acanthurus nigrofuscus",2
+"672","red","44","accessible","medium","h1",0,0,0,0,0,0,0,0,0,"Acanthurus nigrofuscus",1
+"673","red","44","accessible","medium","h2",0,0,0,0,0,0,0,0,0,"Acanthurus nigrofuscus",16
+"674","red","44","accessible","medium","h2",0,0,0,0,0,0,0,0,0,"Ctenochaetus striatus",8
+"675","red","44","accessible","medium","h3",0,0,0,0,0,0,0,0,0,"Acanthurus nigrofuscus",11
+"676","red","44","accessible","medium","h3",0,0,0,0,0,0,0,0,0,"Zebrasoma scopas",1
+"677","red","44","accessible","medium","h4",1,0,0,1,0,0,0,0,0,"Acanthurus nigrofuscus",16
+"678","red","44","accessible","medium","h4",1,0,0,1,0,0,0,0,0,"Ctenochaetus striatus",6
+"679","red","44","accessible","medium","h4",1,0,0,1,0,0,0,0,0,"Zebrasoma scopas",1
+"680","red","44","accessible","medium","h5",1,0,0,1,0,0,0,0,0,"Acanthurus nigrofuscus",3
+"681","red","44","accessible","medium","h5",1,0,0,1,0,0,0,0,0,"Ctenochaetus striatus",1
+"682","red","44","accessible","medium","h6",0,0,0,0,0,0,0,0,0,"Acanthurus nigrofuscus",10
+"683","red","44","accessible","medium","h6",0,0,0,0,0,0,0,0,0,"Ctenochaetus striatus",6
+"684","red","44","accessible","medium","h6",0,0,0,0,0,0,0,0,0,"Zebrasoma scopas",9
+"685","red","44","accessible","medium","h7",0,0,0,0,0,0,0,0,0,"Acanthurus nigrofuscus",5
+"686","red","44","accessible","medium","h8",0,0,0,0,0,0,0,0,0,"Acanthurus nigrofuscus",10
+"687","red","44","accessible","medium","h8",0,0,0,0,0,0,0,0,0,"Ctenochaetus striatus",5
+"688","red","44","accessible","medium","h8",0,0,0,0,0,0,0,0,0,"Zebrasoma scopas",5
+"689","red","44","accessible","medium","h9",3,1,0,3,1,0,0,0,0,"Acanthurus nigrofuscus",4
+"690","red","44","accessible","medium","h9",3,1,0,3,1,0,0,0,0,"Ctenochaetus striatus",1
+"691","red","44","accessible","medium","i1",0,0,0,0,0,0,0,0,0,NA,NA
+"692","red","44","accessible","medium","i2",0,0,0,0,0,0,0,0,0,"Acanthurus nigrofuscus",1
+"693","red","44","accessible","medium","i3",0,0,0,0,0,0,0,0,0,"Acanthurus nigrofuscus",6
+"694","red","44","accessible","medium","i3",0,0,0,0,0,0,0,0,0,"Ctenochaetus striatus",2
+"695","red","44","accessible","medium","i4",0,0,0,0,0,0,0,0,0,"Acanthurus nigrofuscus",1
+"696","red","44","accessible","medium","i4",0,0,0,0,0,0,0,0,0,"Ctenochaetus striatus",2
+"697","red","44","accessible","medium","i5",0,0,0,0,0,0,0,0,0,"Acanthurus nigrofuscus",1
+"698","red","44","accessible","medium","i5",0,0,0,0,0,0,0,0,0,"Ctenochaetus striatus",1
+"699","red","44","accessible","medium","i5",0,0,0,0,0,0,0,0,0,"Zebrasoma scopas",3
+"700","red","44","accessible","medium","i6",0,0,3,0,0,3,0,0,0,"Acanthurus nigrofuscus",2
+"701","red","44","accessible","medium","i6",0,0,3,0,0,3,0,0,0,"Ctenochaetus striatus",2
+"702","red","44","accessible","medium","i6",0,0,3,0,0,3,0,0,0,"Zebrasoma scopas",4
+"703","red","44","accessible","medium","i7",0,0,0,0,0,0,0,0,0,"Acanthurus nigrofuscus",3
+"704","red","44","accessible","medium","i7",0,0,0,0,0,0,0,0,0,"Ctenochaetus striatus",4
+"705","red","44","accessible","medium","i7",0,0,0,0,0,0,0,0,0,"Zebrasoma scopas",1
+"706","red","44","accessible","medium","i8",0,0,0,0,0,0,0,0,0,"Acanthurus nigrofuscus",3
+"707","red","44","accessible","medium","i8",0,0,0,0,0,0,0,0,0,"Ctenochaetus striatus",3
+"708","red","44","accessible","medium","i9",0,0,0,0,0,0,0,0,0,NA,0
+"709","red","72","accessible","small","a1",0,0,0,0,0,0,0,0,0,"Zebrasoma scopas",1
+"710","red","72","accessible","small","a2",1,0,0,1,0,0,0,0,0,"Acanthurus nigrofuscus",3
+"711","red","72","accessible","small","a2",1,0,0,1,0,0,0,0,0,"Chlorurus sordidus",1
+"712","red","72","accessible","small","a2",1,0,0,1,0,0,0,0,0,"Ctenochaetus striatus",2
+"713","red","72","accessible","small","a2",1,0,0,1,0,0,0,0,0,"Zebrasoma scopas",3
+"714","red","72","accessible","small","a3",1,2,0,1,2,0,0,0,0,"Acanthurus nigrofuscus",5
+"715","red","72","accessible","small","a3",1,2,0,1,2,0,0,0,0,"Ctenochaetus striatus",1
+"716","red","72","accessible","small","a3",1,2,0,1,2,0,0,0,0,NA,0
+"717","red","72","accessible","small","a4",2,2,0,2,2,0,0,0,0,"Acanthurus nigrofuscus",1
+"718","red","72","accessible","small","a4",2,2,0,2,2,0,0,0,0,"Ctenochaetus striatus",6
+"719","red","72","accessible","small","a5",1,1,0,1,1,0,0,0,0,"Acanthurus nigrofuscus",4
+"720","red","72","accessible","small","a5",1,1,0,1,1,0,0,0,0,"Ctenochaetus striatus",1
+"721","red","72","accessible","small","a6",0,0,0,0,0,0,0,0,0,"Acanthurus nigrofuscus",4
+"722","red","72","accessible","small","a6",0,0,0,0,0,0,0,0,0,"Ctenochaetus striatus",3
+"723","red","72","accessible","small","a7",1,0,0,1,0,0,0,0,0,"Acanthurus nigrofuscus",3
+"724","red","72","accessible","small","a7",1,0,0,1,0,0,0,0,0,"Ctenochaetus striatus",6
+"725","red","72","accessible","small","a7",1,0,0,1,0,0,0,0,0,"Zebrasoma scopas",3
+"726","red","72","accessible","small","a8",0,1,0,0,1,0,0,0,0,"Acanthurus nigrofuscus",7
+"727","red","72","accessible","small","a8",0,1,0,0,1,0,0,0,0,"Ctenochaetus striatus",2
+"728","red","72","accessible","small","a9",0,0,0,0,0,0,0,0,0,NA,0
+"729","red","72","accessible","small","b1",0,0,0,0,0,0,0,0,0,"Acanthurus nigrofuscus",2
+"730","red","72","accessible","small","b1",0,0,0,0,0,0,0,0,0,"Ctenochaetus striatus",7
+"731","red","72","accessible","small","b2",0,2,0,0,0,0,0,2,0,"Acanthurus nigrofuscus",13
+"732","red","72","accessible","small","b2",0,2,0,0,0,0,0,2,0,"Ctenochaetus striatus",10
+"733","red","72","accessible","small","b2",0,2,0,0,0,0,0,2,0,"Zebrasoma scopas",5
+"734","red","72","accessible","small","b3",0,3,0,0,3,0,0,0,0,"Ctenochaetus striatus",1
+"735","red","72","accessible","small","b4",0,3,0,0,2,0,0,1,0,"Acanthurus nigrofuscus",8
+"736","red","72","accessible","small","b4",0,3,0,0,2,0,0,1,0,"Ctenochaetus striatus",8
+"737","red","72","accessible","small","b4",0,3,0,0,2,0,0,1,0,"Zebrasoma scopas",3
+"738","red","72","accessible","small","b5",0,0,0,0,0,0,0,0,0,"Acanthurus nigrofuscus",1
+"739","red","72","accessible","small","b5",0,0,0,0,0,0,0,0,0,"Ctenochaetus striatus",4
+"740","red","72","accessible","small","b6",0,0,0,0,0,0,0,0,0,"Acanthurus nigrofuscus",13
+"741","red","72","accessible","small","b6",0,0,0,0,0,0,0,0,0,"Ctenochaetus striatus",13
+"742","red","72","accessible","small","b6",0,0,0,0,0,0,0,0,0,"Zebrasoma scopas",1
+"743","red","72","accessible","small","b7",0,0,0,0,0,0,0,0,0,"Acanthurus nigrofuscus",1
+"744","red","72","accessible","small","b7",0,0,0,0,0,0,0,0,0,"Ctenochaetus striatus",7
+"745","red","72","accessible","small","b8",1,1,0,1,1,0,0,0,0,"Acanthurus nigrofuscus",25
+"746","red","72","accessible","small","b8",1,1,0,1,1,0,0,0,0,"Ctenochaetus striatus",9
+"747","red","72","accessible","small","b9",0,0,0,0,0,0,0,0,0,"Acanthurus nigrofuscus",6
+"748","red","72","accessible","small","c1",0,0,0,0,0,0,0,0,0,"Acanthurus nigrofuscus",4
+"749","red","72","accessible","small","c1",0,0,0,0,0,0,0,0,0,"Ctenochaetus striatus",11
+"750","red","72","accessible","small","c2",0,0,0,0,0,0,0,0,0,"Acanthurus nigrofuscus",1
+"751","red","72","accessible","small","c2",0,0,0,0,0,0,0,0,0,"Ctenochaetus striatus",3
+"752","red","72","accessible","small","c3",0,0,0,0,0,0,0,0,0,"Acanthurus nigrofuscus",1
+"753","red","72","accessible","small","c3",0,0,0,0,0,0,0,0,0,"Ctenochaetus striatus",6
+"754","red","72","accessible","small","c3",0,0,0,0,0,0,0,0,0,"Zebrasoma scopas",1
+"755","red","72","accessible","small","c4",0,0,0,0,0,0,0,0,0,NA,NA
+"756","red","72","accessible","small","c5",0,3,0,0,3,0,0,0,0,"Acanthurus nigrofuscus",1
+"757","red","72","accessible","small","c5",0,3,0,0,3,0,0,0,0,"Ctenochaetus striatus",9
+"758","red","72","accessible","small","c5",0,3,0,0,3,0,0,0,0,"Zebrasoma scopas",1
+"759","red","72","accessible","small","c6",0,2,0,0,2,0,0,0,0,NA,NA
+"760","red","72","accessible","small","c7",1,5,0,1,5,0,0,0,0,"Ctenochaetus striatus",6
+"761","red","72","accessible","small","c7",1,5,0,1,5,0,0,0,0,"Zebrasoma scopas",3
+"762","red","72","accessible","small","c8",0,0,0,0,0,0,0,0,0,"Acanthurus nigrofuscus",6
+"763","red","72","accessible","small","c8",0,0,0,0,0,0,0,0,0,"Ctenochaetus striatus",7
+"764","red","72","accessible","small","c9",2,1,0,2,1,0,0,0,0,"Acanthurus nigrofuscus",3
+"765","red","72","accessible","small","c9",2,1,0,2,1,0,0,0,0,"Ctenochaetus striatus",2
+"766","red","72","accessible","small","c9",2,1,0,2,1,0,0,0,0,NA,0
+"767","red","72","accessible","small","d1",4,2,0,4,2,0,0,0,0,"Acanthurus nigrofuscus",1
+"768","red","72","accessible","small","d1",4,2,0,4,2,0,0,0,0,"Ctenochaetus striatus",2
+"769","red","72","accessible","small","d2",1,4,0,1,4,0,0,0,0,"Acanthurus nigrofuscus",4
+"770","red","72","accessible","small","d2",1,4,0,1,4,0,0,0,0,"Ctenochaetus striatus",12
+"771","red","72","accessible","small","d2",1,4,0,1,4,0,0,0,0,"Zebrasoma scopas",3
+"772","red","72","accessible","small","d3",0,1,0,0,1,0,0,0,0,"Acanthurus nigrofuscus",2
+"773","red","72","accessible","small","d3",0,1,0,0,1,0,0,0,0,"Ctenochaetus striatus",2
+"774","red","72","accessible","small","d4",1,6,0,1,5,0,0,1,0,"Acanthurus nigrofuscus",5
+"775","red","72","accessible","small","d4",1,6,0,1,5,0,0,1,0,"Ctenochaetus striatus",5
+"776","red","72","accessible","small","d5",0,1,0,0,1,0,0,0,0,"Ctenochaetus striatus",7
+"777","red","72","accessible","small","d6",1,4,0,0,2,0,1,2,0,"Acanthurus nigrofuscus",4
+"778","red","72","accessible","small","d6",1,4,0,0,2,0,1,2,0,"Ctenochaetus striatus",9
+"779","red","72","accessible","small","d7",1,2,0,1,2,0,0,0,0,NA,NA
+"780","red","72","accessible","small","d8",4,2,0,4,2,0,0,0,0,"Acanthurus nigrofuscus",4
+"781","red","72","accessible","small","d8",4,2,0,4,2,0,0,0,0,"Ctenochaetus striatus",4
+"782","red","72","accessible","small","d8",4,2,0,4,2,0,0,0,0,"Zebrasoma scopas",1
+"783","red","72","accessible","small","d9",2,0,0,2,0,0,0,0,0,"Acanthurus nigrofuscus",1
+"784","red","72","accessible","small","e1",2,1,0,2,1,0,0,0,0,"Ctenochaetus striatus",4
+"785","red","72","accessible","small","e2",0,1,0,0,1,0,0,0,0,"Zebrasoma scopas",1
+"786","red","72","accessible","small","e3",0,0,0,0,0,0,0,0,0,"Acanthurus nigrofuscus",2
+"787","red","72","accessible","small","e3",0,0,0,0,0,0,0,0,0,"Ctenochaetus striatus",11
+"788","red","72","accessible","small","e3",0,0,0,0,0,0,0,0,0,"Zebrasoma scopas",3
+"789","red","72","accessible","small","e4",3,2,0,3,2,0,0,0,0,"Ctenochaetus striatus",3
+"790","red","72","accessible","small","e5",0,1,0,0,1,0,0,0,0,"Acanthurus nigrofuscus",1
+"791","red","72","accessible","small","e5",0,1,0,0,1,0,0,0,0,"Ctenochaetus striatus",1
+"792","red","72","accessible","small","e6",0,0,0,0,0,0,0,0,0,"Ctenochaetus striatus",2
+"793","red","72","accessible","small","e7",0,3,0,0,3,0,0,0,0,"Ctenochaetus striatus",8
+"794","red","72","accessible","small","e8",1,1,0,1,1,0,0,0,0,"Ctenochaetus striatus",2
+"795","red","72","accessible","small","e9",2,1,0,2,1,0,0,0,0,NA,NA
+"796","red","72","accessible","small","f1",1,1,0,1,1,0,0,0,0,"Acanthurus nigrofuscus",2
+"797","red","72","accessible","small","f1",1,1,0,1,1,0,0,0,0,"Ctenochaetus striatus",7
+"798","red","72","accessible","small","f1",1,1,0,1,1,0,0,0,0,"Zebrasoma scopas",3
+"799","red","72","accessible","small","f2",1,2,0,1,2,0,0,0,0,"Acanthurus nigrofuscus",4
+"800","red","72","accessible","small","f2",1,2,0,1,2,0,0,0,0,"Ctenochaetus striatus",7
+"801","red","72","accessible","small","f2",1,2,0,1,2,0,0,0,0,"Zebrasoma scopas",9
+"802","red","72","accessible","small","f3",0,2,0,0,2,0,0,0,0,"Ctenochaetus striatus",1
+"803","red","72","accessible","small","f4",0,3,0,0,3,0,0,0,0,"Acanthurus nigrofuscus",2
+"804","red","72","accessible","small","f4",0,3,0,0,3,0,0,0,0,"Ctenochaetus striatus",8
+"805","red","72","accessible","small","f4",0,3,0,0,3,0,0,0,0,"Zebrasoma scopas",2
+"806","red","72","accessible","small","f5",1,0,0,1,0,0,0,0,0,"Ctenochaetus striatus",4
+"807","red","72","accessible","small","f6",1,2,0,1,2,0,0,0,0,"Acanthurus nigrofuscus",5
+"808","red","72","accessible","small","f6",1,2,0,1,2,0,0,0,0,"Ctenochaetus striatus",7
+"809","red","72","accessible","small","f7",0,2,0,0,2,0,0,0,0,NA,NA
+"810","red","72","accessible","small","f8",0,2,0,0,2,0,0,0,0,"Acanthurus nigrofuscus",3
+"811","red","72","accessible","small","f8",0,2,0,0,2,0,0,0,0,"Ctenochaetus striatus",7
+"812","red","72","accessible","small","f8",0,2,0,0,2,0,0,0,0,"Zebrasoma scopas",1
+"813","red","72","accessible","small","f9",1,1,0,1,1,0,0,0,0,NA,NA
+"814","red","72","accessible","small","g1",0,0,0,0,0,0,0,0,0,"Acanthurus nigrofuscus",4
+"815","red","72","accessible","small","g1",0,0,0,0,0,0,0,0,0,"Ctenochaetus striatus",6
+"816","red","72","accessible","small","g1",0,0,0,0,0,0,0,0,0,"Zebrasoma scopas",3
+"817","red","72","accessible","small","g2",1,3,0,1,3,0,0,0,0,"Ctenochaetus striatus",3
+"818","red","72","accessible","small","g3",1,2,0,1,2,0,0,0,0,"Acanthurus nigrofuscus",2
+"819","red","72","accessible","small","g3",1,2,0,1,2,0,0,0,0,"Ctenochaetus striatus",8
+"820","red","72","accessible","small","g3",1,2,0,1,2,0,0,0,0,"Zebrasoma scopas",1
+"821","red","72","accessible","small","g4",0,0,0,0,0,0,0,0,0,NA,NA
+"822","red","72","accessible","small","g5",1,6,0,0,3,0,1,3,0,"Ctenochaetus striatus",5
+"823","red","72","accessible","small","g5",1,6,0,0,3,0,1,3,0,"Zebrasoma scopas",2
+"824","red","72","accessible","small","g6",0,2,0,0,2,0,0,0,0,"Zebrasoma scopas",2
+"825","red","72","accessible","small","g7",0,0,0,0,0,0,0,0,0,"Acanthurus nigrofuscus",8
+"826","red","72","accessible","small","g7",0,0,0,0,0,0,0,0,0,"Ctenochaetus striatus",12
+"827","red","72","accessible","small","g7",0,0,0,0,0,0,0,0,0,"Zebrasoma scopas",4
+"828","red","72","accessible","small","g8",1,1,0,1,1,0,0,0,0,NA,NA
+"829","red","72","accessible","small","g9",1,0,0,1,0,0,0,0,0,NA,NA
+"830","red","72","accessible","small","h1",0,0,0,0,0,0,0,0,0,"Ctenochaetus striatus",4
+"831","red","72","accessible","small","h1",0,0,0,0,0,0,0,0,0,"Zebrasoma scopas",3
+"832","red","72","accessible","small","h2",0,2,0,0,1,0,0,1,0,"Acanthurus nigrofuscus",23
+"833","red","72","accessible","small","h2",0,2,0,0,1,0,0,1,0,"Ctenochaetus striatus",6
+"834","red","72","accessible","small","h2",0,2,0,0,1,0,0,1,0,"Zebrasoma scopas",2
+"835","red","72","accessible","small","h3",3,1,1,3,1,1,0,0,0,"Acanthurus nigrofuscus",1
+"836","red","72","accessible","small","h3",3,1,1,3,1,1,0,0,0,"Ctenochaetus striatus",1
+"837","red","72","accessible","small","h3",3,1,1,3,1,1,0,0,0,"Zebrasoma scopas",2
+"838","red","72","accessible","small","h4",2,1,0,2,1,0,0,0,0,"Acanthurus nigrofuscus",2
+"839","red","72","accessible","small","h4",2,1,0,2,1,0,0,0,0,"Ctenochaetus striatus",6
+"840","red","72","accessible","small","h4",2,1,0,2,1,0,0,0,0,"Zebrasoma scopas",4
+"841","red","72","accessible","small","h5",1,4,0,1,4,0,0,0,0,"Ctenochaetus striatus",2
+"842","red","72","accessible","small","h6",2,3,0,2,3,0,0,0,0,"Acanthurus nigrofuscus",1
+"843","red","72","accessible","small","h6",2,3,0,2,3,0,0,0,0,"Ctenochaetus striatus",9
+"844","red","72","accessible","small","h6",2,3,0,2,3,0,0,0,0,"Zebrasoma scopas",1
+"845","red","72","accessible","small","h7",0,0,0,0,0,0,0,0,0,"Acanthurus nigrofuscus",2
+"846","red","72","accessible","small","h7",0,0,0,0,0,0,0,0,0,"Ctenochaetus striatus",5
+"847","red","72","accessible","small","h8",0,0,0,0,0,0,0,0,0,"Acanthurus nigrofuscus",1
+"848","red","72","accessible","small","h8",0,0,0,0,0,0,0,0,0,"Ctenochaetus striatus",10
+"849","red","72","accessible","small","h9",0,0,0,0,0,0,0,0,0,NA,NA
+"850","red","72","accessible","small","i1",0,0,0,0,0,0,0,0,0,NA,NA
+"851","red","72","accessible","small","i2",0,0,0,0,0,0,0,0,0,"Acanthurus nigrofuscus",3
+"852","red","72","accessible","small","i3",1,2,0,0,2,0,1,0,0,"Acanthurus nigrofuscus",2
+"853","red","72","accessible","small","i4",1,0,0,1,0,0,0,0,0,"Ctenochaetus striatus",4
+"854","red","72","accessible","small","i5",0,0,0,0,0,0,0,0,0,"Ctenochaetus striatus",5
+"855","red","72","accessible","small","i6",1,0,0,1,0,0,0,0,0,"Ctenochaetus striatus",4
+"856","red","72","accessible","small","i7",0,0,0,0,0,0,0,0,0,"Acanthurus nigrofuscus",1
+"857","red","72","accessible","small","i7",0,0,0,0,0,0,0,0,0,"Ctenochaetus striatus",6
+"858","red","72","accessible","small","i8",0,0,0,0,0,0,0,0,0,NA,NA
+"859","red","72","accessible","small","i9",0,0,0,0,0,0,0,0,0,NA,NA
+"860","yellow","73","caged control","medium","a1",0,2,0,0,2,0,0,0,0,NA,NA
+"861","yellow","73","caged control","medium","a2",0,1,0,0,1,0,0,0,0,NA,NA
+"862","yellow","73","caged control","medium","a3",0,0,0,0,0,0,0,0,0,NA,NA
+"863","yellow","73","caged control","medium","a4",0,0,0,0,0,0,0,0,0,NA,NA
+"864","yellow","73","caged control","medium","a5",0,2,0,0,2,0,0,0,0,NA,NA
+"865","yellow","73","caged control","medium","a6",0,0,0,0,0,0,0,0,0,NA,NA
+"866","yellow","73","caged control","medium","a7",0,0,0,0,0,0,0,0,0,NA,NA
+"867","yellow","73","caged control","medium","a8",0,0,0,0,0,0,0,0,0,NA,NA
+"868","yellow","73","caged control","medium","a9",1,0,0,1,0,0,0,0,0,NA,NA
+"869","yellow","73","caged control","medium","b1",1,0,0,1,0,0,0,0,0,NA,NA
+"870","yellow","73","caged control","medium","b2",2,4,0,2,4,0,0,0,0,NA,NA
+"871","yellow","73","caged control","medium","b3",1,2,1,1,2,1,0,0,0,NA,NA
+"872","yellow","73","caged control","medium","b4",1,2,0,1,2,0,0,0,0,NA,NA
+"873","yellow","73","caged control","medium","b5",0,0,0,0,0,0,0,0,0,NA,NA
+"874","yellow","73","caged control","medium","b6",1,1,1,1,1,1,0,0,0,NA,NA
+"875","yellow","73","caged control","medium","b7",0,1,1,0,1,1,0,0,0,NA,NA
+"876","yellow","73","caged control","medium","b8",2,3,0,1,3,0,1,0,0,NA,NA
+"877","yellow","73","caged control","medium","b9",0,0,1,0,0,1,0,0,0,NA,NA
+"878","yellow","73","caged control","medium","c1",1,0,0,1,0,0,0,0,0,NA,NA
+"879","yellow","73","caged control","medium","c2",0,0,0,0,0,0,0,0,0,NA,NA
+"880","yellow","73","caged control","medium","c3",1,8,0,1,8,0,0,0,0,NA,NA
+"881","yellow","73","caged control","medium","c4",0,0,0,0,0,0,0,0,0,NA,NA
+"882","yellow","73","caged control","medium","c5",1,2,0,1,2,0,0,0,0,NA,NA
+"883","yellow","73","caged control","medium","c6",2,2,0,2,2,0,0,0,0,NA,NA
+"884","yellow","73","caged control","medium","c7",0,1,0,0,1,0,0,0,0,NA,NA
+"885","yellow","73","caged control","medium","c8",0,1,1,0,1,1,0,0,0,NA,NA
+"886","yellow","73","caged control","medium","c9",0,0,0,0,0,0,0,0,0,NA,NA
+"887","yellow","73","caged control","medium","d1",1,1,0,1,1,0,0,0,0,NA,NA
+"888","yellow","73","caged control","medium","d2",0,1,0,0,1,0,0,0,0,NA,NA
+"889","yellow","73","caged control","medium","d3",1,1,1,1,1,1,0,0,0,NA,NA
+"890","yellow","73","caged control","medium","d4",0,5,1,0,5,1,0,0,0,NA,NA
+"891","yellow","73","caged control","medium","d5",2,0,2,2,0,2,0,0,0,NA,NA
+"892","yellow","73","caged control","medium","d6",1,3,3,1,3,3,0,0,0,NA,NA
+"893","yellow","73","caged control","medium","d7",0,0,1,0,0,1,0,0,0,NA,NA
+"894","yellow","73","caged control","medium","d8",2,3,0,2,3,0,0,0,0,NA,NA
+"895","yellow","73","caged control","medium","d9",0,1,0,0,1,0,0,0,0,NA,NA
+"896","yellow","73","caged control","medium","e1",0,0,1,0,0,1,0,0,0,NA,NA
+"897","yellow","73","caged control","medium","e2",0,4,0,0,4,0,0,0,0,NA,NA
+"898","yellow","73","caged control","medium","e3",3,1,2,3,1,2,0,0,0,NA,NA
+"899","yellow","73","caged control","medium","e4",0,2,1,0,2,0,0,0,1,NA,NA
+"900","yellow","73","caged control","medium","e5",0,1,0,0,1,0,0,0,0,NA,NA
+"901","yellow","73","caged control","medium","e6",2,0,2,2,0,2,0,0,0,NA,NA
+"902","yellow","73","caged control","medium","e7",0,0,0,0,0,0,0,0,0,NA,NA
+"903","yellow","73","caged control","medium","e8",1,4,0,1,4,0,0,0,0,NA,NA
+"904","yellow","73","caged control","medium","e9",0,0,0,0,0,0,0,0,0,NA,NA
+"905","yellow","73","caged control","medium","f1",3,0,0,3,0,0,0,0,0,NA,NA
+"906","yellow","73","caged control","medium","f2",1,4,1,1,4,1,0,0,0,NA,NA
+"907","yellow","73","caged control","medium","f3",4,1,0,4,1,0,0,0,0,NA,NA
+"908","yellow","73","caged control","medium","f4",1,2,0,1,2,0,0,0,0,NA,NA
+"909","yellow","73","caged control","medium","f5",2,0,0,2,0,0,0,0,0,NA,NA
+"910","yellow","73","caged control","medium","f6",0,3,0,0,3,0,0,0,0,NA,NA
+"911","yellow","73","caged control","medium","f7",0,0,0,0,0,0,0,0,0,NA,NA
+"912","yellow","73","caged control","medium","f8",2,11,0,2,10,0,0,1,0,NA,NA
+"913","yellow","73","caged control","medium","f9",0,3,0,0,3,0,0,0,0,NA,NA
+"914","yellow","73","caged control","medium","g1",0,0,0,0,0,0,0,0,0,NA,NA
+"915","yellow","73","caged control","medium","g2",3,1,0,3,1,0,0,0,0,NA,NA
+"916","yellow","73","caged control","medium","g3",0,0,0,0,0,0,0,0,0,NA,NA
+"917","yellow","73","caged control","medium","g4",1,0,0,1,0,0,0,0,0,NA,NA
+"918","yellow","73","caged control","medium","g5",2,6,3,2,6,3,0,0,0,NA,NA
+"919","yellow","73","caged control","medium","g6",0,2,0,0,2,0,0,0,0,NA,NA
+"920","yellow","73","caged control","medium","g7",1,4,0,0,4,0,1,0,0,NA,NA
+"921","yellow","73","caged control","medium","g8",0,2,2,0,2,2,0,0,0,NA,NA
+"922","yellow","73","caged control","medium","g9",0,0,0,0,0,0,0,0,0,NA,NA
+"923","yellow","73","caged control","medium","h1",0,0,0,0,0,0,0,0,0,NA,NA
+"924","yellow","73","caged control","medium","h2",1,1,1,1,1,1,0,0,0,NA,NA
+"925","yellow","73","caged control","medium","h3",3,1,0,3,1,0,0,0,0,NA,NA
+"926","yellow","73","caged control","medium","h4",1,6,0,1,6,0,0,0,0,NA,NA
+"927","yellow","73","caged control","medium","h5",4,3,2,4,3,2,0,0,0,NA,NA
+"928","yellow","73","caged control","medium","h6",2,4,0,2,4,0,0,0,0,NA,NA
+"929","yellow","73","caged control","medium","h7",0,4,0,0,4,0,0,0,0,NA,NA
+"930","yellow","73","caged control","medium","h8",0,0,0,0,0,0,0,0,0,NA,NA
+"931","yellow","73","caged control","medium","h9",2,0,0,2,0,0,0,0,0,NA,NA
+"932","yellow","73","caged control","medium","i1",0,0,0,0,0,0,0,0,0,NA,NA
+"933","yellow","73","caged control","medium","i2",1,4,0,1,4,0,0,0,0,NA,NA
+"934","yellow","73","caged control","medium","i3",1,0,0,1,0,0,0,0,0,NA,NA
+"935","yellow","73","caged control","medium","i4",3,0,0,3,0,0,0,0,0,NA,NA
+"936","yellow","73","caged control","medium","i5",1,2,0,1,2,0,0,0,0,NA,NA
+"937","yellow","73","caged control","medium","i6",1,0,0,1,0,0,0,0,0,NA,NA
+"938","yellow","73","caged control","medium","i7",0,0,0,0,0,0,0,0,0,NA,NA
+"939","yellow","73","caged control","medium","i8",0,0,0,0,0,0,0,0,0,NA,NA
+"940","yellow","73","caged control","medium","i9",1,2,0,1,2,0,0,0,0,NA,NA
+"941","blank","79","accessible","medium","a1",0,0,0,0,0,0,0,0,0,NA,NA
+"942","blank","79","accessible","medium","a2",0,3,0,0,3,0,0,0,0,NA,NA
+"943","blank","79","accessible","medium","a3",0,0,0,0,0,0,0,0,0,NA,NA
+"944","blank","79","accessible","medium","a4",0,1,0,0,1,0,0,0,0,NA,NA
+"945","blank","79","accessible","medium","a5",0,0,0,0,0,0,0,0,0,NA,NA
+"946","blank","79","accessible","medium","a6",0,0,0,0,0,0,0,0,0,NA,NA
+"947","blank","79","accessible","medium","a7",0,0,0,0,0,0,0,0,0,NA,NA
+"948","blank","79","accessible","medium","a8",1,0,0,1,0,0,0,0,0,NA,NA
+"949","blank","79","accessible","medium","a9",0,0,0,0,0,0,0,0,0,NA,NA
+"950","blank","79","accessible","medium","b1",0,0,0,0,0,0,0,0,0,NA,NA
+"951","blank","79","accessible","medium","b2",0,0,0,0,0,0,0,0,0,NA,NA
+"952","blank","79","accessible","medium","b3",4,0,0,4,0,0,0,0,0,NA,NA
+"953","blank","79","accessible","medium","b4",0,0,0,0,0,0,0,0,0,NA,NA
+"954","blank","79","accessible","medium","b5",0,4,1,0,4,1,0,0,0,NA,NA
+"955","blank","79","accessible","medium","b6",0,3,0,0,1,0,0,2,0,"Scarus niger",4
+"956","blank","79","accessible","medium","b7",0,1,0,0,1,0,0,0,0,NA,NA
+"957","blank","79","accessible","medium","b8",0,0,0,0,0,0,0,0,0,NA,NA
+"958","blank","79","accessible","medium","b9",1,0,0,1,0,0,0,0,0,NA,NA
+"959","blank","79","accessible","medium","c1",0,0,0,0,0,0,0,0,0,NA,NA
+"960","blank","79","accessible","medium","c2",0,2,0,0,2,0,0,0,0,NA,NA
+"961","blank","79","accessible","medium","c3",0,0,0,0,0,0,0,0,0,NA,NA
+"962","blank","79","accessible","medium","c4",0,2,0,0,2,0,0,0,0,NA,NA
+"963","blank","79","accessible","medium","c5",0,4,0,0,2,0,0,2,0,"Scarus niger",1
+"964","blank","79","accessible","medium","c6",0,1,0,0,1,0,0,0,0,NA,NA
+"965","blank","79","accessible","medium","c7",0,0,0,0,0,0,0,0,0,"Scarus niger",4
+"966","blank","79","accessible","medium","c8",2,0,0,2,0,0,0,0,0,NA,NA
+"967","blank","79","accessible","medium","c9",0,0,0,0,0,0,0,0,0,NA,NA
+"968","blank","79","accessible","medium","d1",1,2,0,1,2,0,0,0,0,NA,NA
+"969","blank","79","accessible","medium","d2",0,0,0,0,0,0,0,0,0,NA,NA
+"970","blank","79","accessible","medium","d3",0,1,0,0,1,0,0,0,0,NA,NA
+"971","blank","79","accessible","medium","d4",0,0,0,0,0,0,0,0,0,"Scarus niger",4
+"972","blank","79","accessible","medium","d5",0,2,0,0,2,0,0,0,0,NA,NA
+"973","blank","79","accessible","medium","d6",0,0,0,0,0,0,0,0,0,"Scarus niger",4
+"974","blank","79","accessible","medium","d7",0,2,0,0,2,0,0,0,0,NA,NA
+"975","blank","79","accessible","medium","d8",0,0,0,0,0,0,0,0,0,NA,NA
+"976","blank","79","accessible","medium","d9",0,1,0,0,1,0,0,0,0,NA,NA
+"977","blank","79","accessible","medium","e1",0,2,0,0,2,0,0,0,0,NA,NA
+"978","blank","79","accessible","medium","e2",0,3,0,0,3,0,0,0,0,NA,NA
+"979","blank","79","accessible","medium","e3",0,0,0,0,0,0,0,0,0,"Scarus niger",1
+"980","blank","79","accessible","medium","e4",0,1,0,0,1,0,0,0,0,NA,NA
+"981","blank","79","accessible","medium","e5",2,0,0,2,0,0,0,0,0,NA,NA
+"982","blank","79","accessible","medium","e6",0,1,0,0,1,0,0,0,0,NA,NA
+"983","blank","79","accessible","medium","e7",0,0,0,0,0,0,0,0,0,"Scarus niger",2
+"984","blank","79","accessible","medium","e8",0,0,0,0,0,0,0,0,0,NA,NA
+"985","blank","79","accessible","medium","e9",0,0,0,0,0,0,0,0,0,NA,NA
+"986","blank","79","accessible","medium","f1",2,0,0,2,0,0,0,0,0,NA,NA
+"987","blank","79","accessible","medium","f2",1,0,0,1,0,0,0,0,0,"Scarus niger",2
+"988","blank","79","accessible","medium","f3",0,3,0,0,3,0,0,0,0,NA,NA
+"989","blank","79","accessible","medium","f4",0,3,0,0,1,0,0,2,0,NA,NA
+"990","blank","79","accessible","medium","f5",0,1,0,0,1,0,0,0,0,NA,NA
+"991","blank","79","accessible","medium","f6",0,0,0,0,0,0,0,0,0,NA,NA
+"992","blank","79","accessible","medium","f7",0,0,0,0,0,0,0,0,0,NA,NA
+"993","blank","79","accessible","medium","f8",0,0,0,0,0,0,0,0,0,"Scarus niger",1
+"994","blank","79","accessible","medium","f9",0,0,0,0,0,0,0,0,0,NA,NA
+"995","blank","79","accessible","medium","g1",0,0,0,0,0,0,0,0,0,NA,NA
+"996","blank","79","accessible","medium","g2",0,4,0,0,4,0,0,0,0,NA,NA
+"997","blank","79","accessible","medium","g3",0,0,0,0,0,0,0,0,0,NA,NA
+"998","blank","79","accessible","medium","g4",0,3,0,0,3,0,0,0,0,NA,NA
+"999","blank","79","accessible","medium","g5",0,0,0,0,0,0,0,0,0,NA,NA
+"1000","blank","79","accessible","medium","g6",0,1,0,0,1,0,0,0,0,NA,NA
+"1001","blank","79","accessible","medium","g7",0,0,0,0,0,0,0,0,0,NA,NA
+"1002","blank","79","accessible","medium","g8",0,2,0,0,2,0,0,0,0,NA,NA
+"1003","blank","79","accessible","medium","g9",0,0,0,0,0,0,0,0,0,NA,NA
+"1004","blank","79","accessible","medium","h1",1,1,0,1,1,0,0,0,0,NA,NA
+"1005","blank","79","accessible","medium","h2",0,1,0,0,1,0,0,0,0,NA,NA
+"1006","blank","79","accessible","medium","h3",1,1,0,1,1,0,0,0,0,NA,NA
+"1007","blank","79","accessible","medium","h4",0,0,0,0,0,0,0,0,0,NA,NA
+"1008","blank","79","accessible","medium","h5",0,2,0,0,2,0,0,0,0,NA,NA
+"1009","blank","79","accessible","medium","h6",0,1,0,0,1,0,0,0,0,"Scarus niger",1
+"1010","blank","79","accessible","medium","h7",1,1,0,1,1,0,0,0,0,NA,NA
+"1011","blank","79","accessible","medium","h8",0,0,0,0,0,0,0,0,0,"Scarus niger",1
+"1012","blank","79","accessible","medium","h9",0,0,0,0,0,0,0,0,0,NA,NA
+"1013","blank","79","accessible","medium","i1",1,0,0,1,0,0,0,0,0,NA,NA
+"1014","blank","79","accessible","medium","i2",1,1,0,1,1,0,0,0,0,NA,NA
+"1015","blank","79","accessible","medium","i3",0,0,0,0,0,0,0,0,0,NA,NA
+"1016","blank","79","accessible","medium","i4",0,0,0,0,0,0,0,0,0,NA,NA
+"1017","blank","79","accessible","medium","i5",0,1,0,0,1,0,0,0,0,NA,NA
+"1018","blank","79","accessible","medium","i6",1,0,0,1,0,0,0,0,0,NA,NA
+"1019","blank","79","accessible","medium","i7",1,0,0,1,0,0,0,0,0,NA,NA
+"1020","blank","79","accessible","medium","i8",0,2,0,0,2,0,0,0,0,NA,NA
+"1021","blank","79","accessible","medium","i9",0,1,0,0,1,0,0,0,0,NA,NA
+"1022","black","107","accessible","medium","a1",0,0,0,0,0,0,0,0,0,NA,NA
+"1023","black","107","accessible","medium","a2",0,0,0,0,0,0,0,0,0,NA,NA
+"1024","black","107","accessible","medium","a3",0,0,0,0,0,0,0,0,0,NA,NA
+"1025","black","107","accessible","medium","a4",0,0,0,0,0,0,0,0,0,NA,NA
+"1026","black","107","accessible","medium","a5",0,0,0,0,0,0,0,0,0,NA,NA
+"1027","black","107","accessible","medium","a6",0,1,1,0,1,1,0,0,0,NA,NA
+"1028","black","107","accessible","medium","a7",0,0,0,0,0,0,0,0,0,NA,NA
+"1029","black","107","accessible","medium","a8",0,0,0,0,0,0,0,0,0,NA,NA
+"1030","black","107","accessible","medium","a9",0,1,0,0,1,0,0,0,0,NA,NA
+"1031","black","107","accessible","medium","b1",0,0,0,0,0,0,0,0,0,NA,NA
+"1032","black","107","accessible","medium","b2",0,0,0,0,0,0,0,0,0,"Chlorurus sordidus",1
+"1033","black","107","accessible","medium","b2",0,0,0,0,0,0,0,0,0,"Naso lituratus",1
+"1034","black","107","accessible","medium","b3",0,0,0,0,0,0,0,0,0,NA,NA
+"1035","black","107","accessible","medium","b4",0,1,0,0,0,0,0,1,0,NA,NA
+"1036","black","107","accessible","medium","b5",0,1,0,0,1,0,0,0,0,NA,NA
+"1037","black","107","accessible","medium","b6",0,0,0,0,0,0,0,0,0,"Chlorurus sordidus",1
+"1038","black","107","accessible","medium","b7",1,0,0,1,0,0,0,0,0,NA,NA
+"1039","black","107","accessible","medium","b8",1,1,0,1,1,0,0,0,0,"Chlorurus sordidus",1
+"1040","black","107","accessible","medium","b8",1,1,0,1,1,0,0,0,0,"Naso lituratus",1
+"1041","black","107","accessible","medium","b9",0,0,0,0,0,0,0,0,0,NA,NA
+"1042","black","107","accessible","medium","c1",0,0,0,0,0,0,0,0,0,NA,NA
+"1043","black","107","accessible","medium","c2",0,0,0,0,0,0,0,0,0,NA,NA
+"1044","black","107","accessible","medium","c3",0,0,0,0,0,0,0,0,0,"Chlorurus sordidus",1
+"1045","black","107","accessible","medium","c3",0,0,0,0,0,0,0,0,0,"unident wrasse",1
+"1046","black","107","accessible","medium","c4",0,0,0,0,0,0,0,0,0,NA,NA
+"1047","black","107","accessible","medium","c5",0,0,0,0,0,0,0,0,0,NA,NA
+"1048","black","107","accessible","medium","c6",0,1,0,0,1,0,0,0,0,NA,NA
+"1049","black","107","accessible","medium","c7",1,1,0,0,1,0,1,0,0,NA,NA
+"1050","black","107","accessible","medium","c8",1,0,0,1,0,0,0,0,0,NA,NA
+"1051","black","107","accessible","medium","c9",1,0,0,1,0,0,0,0,0,NA,NA
+"1052","black","107","accessible","medium","d1",0,0,0,0,0,0,0,0,0,NA,NA
+"1053","black","107","accessible","medium","d2",0,2,0,0,1,0,0,1,0,"Chlorurus sordidus",3
+"1054","black","107","accessible","medium","d2",0,2,0,0,1,0,0,1,0,"unident wrasse",1
+"1055","black","107","accessible","medium","d3",0,1,0,0,1,0,0,0,0,NA,NA
+"1056","black","107","accessible","medium","d4",0,0,0,0,0,0,0,0,0,NA,NA
+"1057","black","107","accessible","medium","d5",1,0,0,1,0,0,0,0,0,"Naso lituratus",1
+"1058","black","107","accessible","medium","d6",0,0,0,0,0,0,0,0,0,"Naso lituratus",4
+"1059","black","107","accessible","medium","d6",0,0,0,0,0,0,0,0,0,"unident wrasse",1
+"1060","black","107","accessible","medium","d7",1,0,0,1,0,0,0,0,0,NA,NA
+"1061","black","107","accessible","medium","d8",0,1,0,0,0,0,0,1,0,NA,NA
+"1062","black","107","accessible","medium","d9",0,0,0,0,0,0,0,0,0,NA,NA
+"1063","black","107","accessible","medium","e1",0,0,0,0,0,0,0,0,0,NA,NA
+"1064","black","107","accessible","medium","e2",1,0,0,1,0,0,0,0,0,"Chlorurus sordidus",1
+"1065","black","107","accessible","medium","e3",0,0,0,0,0,0,0,0,0,"Chlorurus sordidus",4
+"1066","black","107","accessible","medium","e4",0,0,0,0,0,0,0,0,0,NA,NA
+"1067","black","107","accessible","medium","e5",1,0,0,1,0,0,0,0,0,NA,NA
+"1068","black","107","accessible","medium","e6",0,1,0,0,1,0,0,0,0,NA,NA
+"1069","black","107","accessible","medium","e7",0,1,0,0,0,0,0,1,0,NA,NA
+"1070","black","107","accessible","medium","e8",1,0,0,1,0,0,0,0,0,NA,NA
+"1071","black","107","accessible","medium","e9",0,0,0,0,0,0,0,0,0,NA,NA
+"1072","black","107","accessible","medium","f1",0,0,0,0,0,0,0,0,0,NA,NA
+"1073","black","107","accessible","medium","f2",1,1,0,1,1,0,0,0,0,"Chlorurus sordidus",3
+"1074","black","107","accessible","medium","f3",1,1,0,1,1,0,0,0,0,NA,NA
+"1075","black","107","accessible","medium","f4",0,1,0,0,1,0,0,0,0,NA,NA
+"1076","black","107","accessible","medium","f5",0,0,0,0,0,0,0,0,0,NA,NA
+"1077","black","107","accessible","medium","f6",0,0,0,0,0,0,0,0,0,"Naso lituratus",1
+"1078","black","107","accessible","medium","f7",0,0,0,0,0,0,0,0,0,NA,NA
+"1079","black","107","accessible","medium","f8",0,0,0,0,0,0,0,0,0,"Naso lituratus",2
+"1080","black","107","accessible","medium","f9",0,0,0,0,0,0,0,0,0,NA,NA
+"1081","black","107","accessible","medium","g1",0,0,0,0,0,0,0,0,0,"Chlorurus sordidus",2
+"1082","black","107","accessible","medium","g2",2,0,0,2,0,0,0,0,0,"Ctenochaetus binotatus",3
+"1083","black","107","accessible","medium","g3",0,0,0,0,0,0,0,0,0,"Ctenochaetus binotatus",1
+"1084","black","107","accessible","medium","g4",0,0,0,0,0,0,0,0,0,NA,NA
+"1085","black","107","accessible","medium","g5",0,0,0,0,0,0,0,0,0,NA,NA
+"1086","black","107","accessible","medium","g6",0,0,0,0,0,0,0,0,0,NA,NA
+"1087","black","107","accessible","medium","g7",0,0,0,0,0,0,0,0,0,"Naso lituratus",3
+"1088","black","107","accessible","medium","g8",0,0,0,0,0,0,0,0,0,NA,NA
+"1089","black","107","accessible","medium","g9",0,0,0,0,0,0,0,0,0,NA,NA
+"1090","black","107","accessible","medium","h1",0,0,0,0,0,0,0,0,0,"Ctenochaetus binotatus",4
+"1091","black","107","accessible","medium","h2",0,0,0,0,0,0,0,0,0,"Chlorurus sordidus",3
+"1092","black","107","accessible","medium","h2",0,0,0,0,0,0,0,0,0,"Ctenochaetus binotatus",6
+"1093","black","107","accessible","medium","h2",0,0,0,0,0,0,0,0,0,"Naso lituratus",1
+"1094","black","107","accessible","medium","h3",1,0,0,1,0,0,0,0,0,NA,NA
+"1095","black","107","accessible","medium","h4",0,0,0,0,0,0,0,0,0,"Naso lituratus",2
+"1096","black","107","accessible","medium","h5",0,1,0,0,1,0,0,0,0,NA,NA
+"1097","black","107","accessible","medium","h6",0,0,0,0,0,0,0,0,0,NA,NA
+"1098","black","107","accessible","medium","h7",0,1,0,0,1,0,0,0,0,NA,NA
+"1099","black","107","accessible","medium","h8",0,0,0,0,0,0,0,0,0,NA,NA
+"1100","black","107","accessible","medium","h9",0,0,0,0,0,0,0,0,0,NA,NA
+"1101","black","107","accessible","medium","i1",0,0,0,0,0,0,0,0,0,NA,0
+"1102","black","107","accessible","medium","i2",1,0,0,1,0,0,0,0,0,"Ctenochaetus binotatus",4
+"1103","black","107","accessible","medium","i3",0,0,0,0,0,0,0,0,0,"Ctenochaetus binotatus",1
+"1104","black","107","accessible","medium","i4",0,0,0,0,0,0,0,0,0,"Naso lituratus",2
+"1105","black","107","accessible","medium","i5",0,0,0,0,0,0,0,0,0,"Naso lituratus",1
+"1106","black","107","accessible","medium","i6",1,0,0,1,0,0,0,0,0,NA,NA
+"1107","black","107","accessible","medium","i7",0,0,0,0,0,0,0,0,0,"Ctenochaetus binotatus",1
+"1108","black","107","accessible","medium","i8",0,0,0,0,0,0,0,0,0,NA,NA
+"1109","black","107","accessible","medium","i9",0,0,0,0,0,0,0,0,0,NA,NA
+"1110","black","6","accessible","small","a1",0,0,0,0,0,0,0,0,0,NA,NA
+"1111","black","6","accessible","small","a2",1,0,0,1,0,0,0,0,0,NA,NA
+"1112","black","6","accessible","small","a3",2,2,0,2,2,0,0,0,0,NA,NA
+"1113","black","6","accessible","small","a4",1,0,0,1,0,0,0,0,0,NA,NA
+"1114","black","6","accessible","small","a5",1,1,0,1,1,0,0,0,0,NA,NA
+"1115","black","6","accessible","small","a6",0,4,0,0,4,0,0,0,0,NA,NA
+"1116","black","6","accessible","small","a7",0,1,0,0,1,0,0,0,0,NA,NA
+"1117","black","6","accessible","small","a8",3,1,0,3,1,0,0,0,0,NA,NA
+"1118","black","6","accessible","small","a9",0,0,0,0,0,0,0,0,0,NA,NA
+"1119","black","6","accessible","small","b1",4,0,0,4,0,0,0,0,0,NA,NA
+"1120","black","6","accessible","small","b2",5,3,1,5,3,1,0,0,0,"Chlorurus sordidus",5
+"1121","black","6","accessible","small","b2",5,3,1,5,3,1,0,0,0,"Naso lituratus",4
+"1122","black","6","accessible","small","b3",2,0,0,2,0,0,0,0,0,NA,NA
+"1123","black","6","accessible","small","b4",2,4,0,2,4,0,0,0,0,NA,NA
+"1124","black","6","accessible","small","b5",2,2,0,2,2,0,0,0,0,NA,NA
+"1125","black","6","accessible","small","b6",1,2,0,1,2,0,0,0,0,NA,NA
+"1126","black","6","accessible","small","b7",0,2,0,0,2,0,0,0,0,NA,NA
+"1127","black","6","accessible","small","b8",0,0,0,0,0,0,0,0,0,"Chlorurus sordidus",4
+"1128","black","6","accessible","small","b8",0,0,0,0,0,0,0,0,0,"Naso lituratus",4
+"1129","black","6","accessible","small","b9",0,0,0,0,0,0,0,0,0,NA,NA
+"1130","black","6","accessible","small","c1",0,1,1,0,1,1,0,0,0,NA,NA
+"1131","black","6","accessible","small","c2",0,1,1,0,1,1,0,0,0,NA,NA
+"1132","black","6","accessible","small","c3",2,5,0,2,4,0,0,1,0,NA,NA
+"1133","black","6","accessible","small","c4",0,0,1,0,0,1,0,0,0,NA,NA
+"1134","black","6","accessible","small","c5",4,1,1,4,1,1,0,0,0,NA,NA
+"1135","black","6","accessible","small","c6",0,0,0,0,0,0,0,0,0,NA,NA
+"1136","black","6","accessible","small","c7",0,1,0,0,1,0,0,0,0,"Chlorurus sordidus",1
+"1137","black","6","accessible","small","c8",0,1,0,0,1,0,0,0,0,NA,NA
+"1138","black","6","accessible","small","c9",1,0,0,0,0,0,1,0,0,NA,NA
+"1139","black","6","accessible","small","d1",0,2,2,0,2,2,0,0,0,NA,NA
+"1140","black","6","accessible","small","d2",4,1,2,4,1,2,0,0,0,NA,NA
+"1141","black","6","accessible","small","d3",0,1,0,0,1,0,0,0,0,NA,NA
+"1142","black","6","accessible","small","d4",1,5,1,1,5,1,0,0,0,NA,NA
+"1143","black","6","accessible","small","d5",0,1,0,0,1,0,0,0,0,NA,NA
+"1144","black","6","accessible","small","d6",3,3,0,3,3,0,0,0,0,"Chlorurus sordidus",5
+"1145","black","6","accessible","small","d6",3,3,0,3,3,0,0,0,0,"Naso lituratus",1
+"1146","black","6","accessible","small","d7",1,1,0,0,1,0,1,0,0,NA,NA
+"1147","black","6","accessible","small","d8",0,2,0,0,2,0,0,0,0,"Naso lituratus",2
+"1148","black","6","accessible","small","d9",0,1,0,0,1,0,0,0,0,NA,NA
+"1149","black","6","accessible","small","e1",0,2,2,0,2,2,0,0,0,NA,NA
+"1150","black","6","accessible","small","e2",0,2,1,0,2,1,0,0,0,NA,NA
+"1151","black","6","accessible","small","e3",3,4,0,3,4,0,0,0,0,NA,NA
+"1152","black","6","accessible","small","e4",1,1,0,1,1,0,0,0,0,NA,NA
+"1153","black","6","accessible","small","e5",1,1,0,1,1,0,0,0,0,NA,NA
+"1154","black","6","accessible","small","e6",0,2,1,0,2,1,0,0,0,NA,NA
+"1155","black","6","accessible","small","e7",1,0,0,1,0,0,0,0,0,"Naso lituratus",1
+"1156","black","6","accessible","small","e8",0,0,0,0,0,0,0,0,0,NA,NA
+"1157","black","6","accessible","small","e9",3,1,0,1,1,0,2,0,0,NA,NA
+"1158","black","6","accessible","small","f1",2,0,0,2,0,0,0,0,0,NA,NA
+"1159","black","6","accessible","small","f2",0,0,0,0,0,0,0,0,0,"Chlorurus sordidus",1
+"1160","black","6","accessible","small","f2",0,0,0,0,0,0,0,0,0,"Naso lituratus",2
+"1161","black","6","accessible","small","f3",0,0,1,0,0,1,0,0,0,NA,NA
+"1162","black","6","accessible","small","f4",4,3,0,4,3,0,0,0,0,NA,NA
+"1163","black","6","accessible","small","f5",2,3,0,2,3,0,0,0,0,NA,NA
+"1164","black","6","accessible","small","f6",4,6,0,4,6,0,0,0,0,"Chlorurus sordidus",1
+"1165","black","6","accessible","small","f7",0,0,0,0,0,0,0,0,0,NA,NA
+"1166","black","6","accessible","small","f8",1,4,0,1,4,0,0,0,0,NA,NA
+"1167","black","6","accessible","small","f9",2,1,0,2,1,0,0,0,0,NA,NA
+"1168","black","6","accessible","small","g1",5,1,0,5,1,0,0,0,0,NA,NA
+"1169","black","6","accessible","small","g2",3,0,0,3,0,0,0,0,0,NA,NA
+"1170","black","6","accessible","small","g3",1,6,1,1,6,1,0,0,0,NA,NA
+"1171","black","6","accessible","small","g4",1,2,0,1,2,0,0,0,0,NA,NA
+"1172","black","6","accessible","small","g5",4,4,0,4,4,0,0,0,0,NA,NA
+"1173","black","6","accessible","small","g6",0,0,0,0,0,0,0,0,0,NA,NA
+"1174","black","6","accessible","small","g7",1,1,0,1,1,0,0,0,0,NA,NA
+"1175","black","6","accessible","small","g8",0,0,1,0,0,1,0,0,0,NA,NA
+"1176","black","6","accessible","small","g9",0,0,0,0,0,0,0,0,0,NA,NA
+"1177","black","6","accessible","small","h1",1,1,0,1,1,0,0,0,0,NA,NA
+"1178","black","6","accessible","small","h2",3,5,0,2,5,0,1,0,0,"Chlorurus sordidus",4
+"1179","black","6","accessible","small","h2",3,5,0,2,5,0,1,0,0,"Naso lituratus",1
+"1180","black","6","accessible","small","h3",3,1,0,3,1,0,0,0,0,"unident wrasse",1
+"1181","black","6","accessible","small","h4",5,1,0,5,1,0,0,0,0,NA,NA
+"1182","black","6","accessible","small","h5",1,0,0,1,0,0,0,0,0,NA,NA
+"1183","black","6","accessible","small","h6",3,3,0,3,3,0,0,0,0,"Chlorurus sordidus",1
+"1184","black","6","accessible","small","h7",2,1,0,2,1,0,0,0,0,NA,NA
+"1185","black","6","accessible","small","h8",8,0,0,8,0,0,0,0,0,"Naso lituratus",1
+"1186","black","6","accessible","small","h9",0,0,0,0,0,0,0,0,0,NA,NA
+"1187","black","6","accessible","small","i1",2,0,0,2,0,0,0,0,0,NA,NA
+"1188","black","6","accessible","small","i2",1,0,0,1,0,0,0,0,0,NA,NA
+"1189","black","6","accessible","small","i3",3,2,0,3,2,0,0,0,0,NA,NA
+"1190","black","6","accessible","small","i4",3,3,0,3,3,0,0,0,0,NA,NA
+"1191","black","6","accessible","small","i5",2,1,0,2,1,0,0,0,0,NA,NA
+"1192","black","6","accessible","small","i6",0,0,1,0,0,1,0,0,0,NA,NA
+"1193","black","6","accessible","small","i7",1,0,1,1,0,1,0,0,0,NA,NA
+"1194","black","6","accessible","small","i8",1,0,0,1,0,0,0,0,0,NA,NA
+"1195","black","6","accessible","small","i9",0,0,0,0,0,0,0,0,0,NA,NA
+"1196","yellow","12","caged control","small","a1",0,0,0,0,0,0,0,0,0,NA,NA
+"1197","yellow","12","caged control","small","a2",0,0,0,0,0,0,0,0,0,NA,NA
+"1198","yellow","12","caged control","small","a3",0,0,0,0,0,0,0,0,0,NA,NA
+"1199","yellow","12","caged control","small","a4",0,0,0,0,0,0,0,0,0,NA,NA
+"1200","yellow","12","caged control","small","a5",0,0,0,0,0,0,0,0,0,NA,NA
+"1201","yellow","12","caged control","small","a6",1,0,0,1,0,0,0,0,0,NA,NA
+"1202","yellow","12","caged control","small","a7",0,0,0,0,0,0,0,0,0,NA,NA
+"1203","yellow","12","caged control","small","a8",0,0,0,0,0,0,0,0,0,NA,NA
+"1204","yellow","12","caged control","small","a9",0,0,0,0,0,0,0,0,0,NA,NA
+"1205","yellow","12","caged control","small","b1",0,1,0,0,1,0,0,0,0,NA,NA
+"1206","yellow","12","caged control","small","b2",0,0,0,0,0,0,0,0,0,NA,NA
+"1207","yellow","12","caged control","small","b3",0,3,0,0,3,0,0,0,0,NA,NA
+"1208","yellow","12","caged control","small","b4",0,1,0,0,1,0,0,0,0,NA,NA
+"1209","yellow","12","caged control","small","b5",0,0,0,0,0,0,0,0,0,NA,NA
+"1210","yellow","12","caged control","small","b6",1,1,0,1,1,0,0,0,0,NA,NA
+"1211","yellow","12","caged control","small","b7",1,0,0,1,0,0,0,0,0,NA,NA
+"1212","yellow","12","caged control","small","b8",0,1,0,0,1,0,0,0,0,NA,NA
+"1213","yellow","12","caged control","small","b9",0,0,0,0,0,0,0,0,0,NA,NA
+"1214","yellow","12","caged control","small","c1",0,1,0,0,1,0,0,0,0,NA,NA
+"1215","yellow","12","caged control","small","c2",0,1,0,0,1,0,0,0,0,NA,NA
+"1216","yellow","12","caged control","small","c3",1,0,0,1,0,0,0,0,0,NA,NA
+"1217","yellow","12","caged control","small","c4",0,1,0,0,1,0,0,0,0,NA,NA
+"1218","yellow","12","caged control","small","c5",0,0,0,0,0,0,0,0,0,NA,NA
+"1219","yellow","12","caged control","small","c6",0,0,0,0,0,0,0,0,0,NA,NA
+"1220","yellow","12","caged control","small","c7",0,0,0,0,0,0,0,0,0,NA,NA
+"1221","yellow","12","caged control","small","c8",1,1,0,1,1,0,0,0,0,NA,NA
+"1222","yellow","12","caged control","small","c9",0,0,0,0,0,0,0,0,0,NA,NA
+"1223","yellow","12","caged control","small","d1",0,1,0,0,1,0,0,0,0,NA,NA
+"1224","yellow","12","caged control","small","d2",0,0,0,0,0,0,0,0,0,NA,NA
+"1225","yellow","12","caged control","small","d3",0,0,0,0,0,0,0,0,0,NA,NA
+"1226","yellow","12","caged control","small","d4",0,0,1,0,0,1,0,0,0,NA,NA
+"1227","yellow","12","caged control","small","d5",1,0,0,1,0,0,0,0,0,NA,NA
+"1228","yellow","12","caged control","small","d6",0,0,0,0,0,0,0,0,0,NA,NA
+"1229","yellow","12","caged control","small","d7",0,1,0,0,1,0,0,0,0,NA,NA
+"1230","yellow","12","caged control","small","d8",0,0,0,0,0,0,0,0,0,NA,NA
+"1231","yellow","12","caged control","small","d9",2,3,0,1,3,0,1,0,0,NA,NA
+"1232","yellow","12","caged control","small","e1",0,0,0,0,0,0,0,0,0,NA,NA
+"1233","yellow","12","caged control","small","e2",0,0,0,0,0,0,0,0,0,NA,NA
+"1234","yellow","12","caged control","small","e3",1,0,0,1,0,0,0,0,0,NA,NA
+"1235","yellow","12","caged control","small","e4",1,0,0,1,0,0,0,0,0,NA,NA
+"1236","yellow","12","caged control","small","e5",0,0,0,0,0,0,0,0,0,NA,NA
+"1237","yellow","12","caged control","small","e6",0,0,1,0,0,1,0,0,0,NA,NA
+"1238","yellow","12","caged control","small","e7",1,0,0,1,0,0,0,0,0,NA,NA
+"1239","yellow","12","caged control","small","e8",0,0,0,0,0,0,0,0,0,NA,NA
+"1240","yellow","12","caged control","small","e9",1,0,0,1,0,0,0,0,0,NA,NA
+"1241","yellow","12","caged control","small","f1",0,0,0,0,0,0,0,0,0,NA,NA
+"1242","yellow","12","caged control","small","f2",0,0,0,0,0,0,0,0,0,NA,NA
+"1243","yellow","12","caged control","small","f3",0,0,0,0,0,0,0,0,0,NA,NA
+"1244","yellow","12","caged control","small","f4",0,1,0,0,1,0,0,0,0,NA,NA
+"1245","yellow","12","caged control","small","f5",1,0,0,1,0,0,0,0,0,NA,NA
+"1246","yellow","12","caged control","small","f6",0,0,0,0,0,0,0,0,0,NA,NA
+"1247","yellow","12","caged control","small","f7",0,0,0,0,0,0,0,0,0,NA,NA
+"1248","yellow","12","caged control","small","f8",0,0,0,0,0,0,0,0,0,NA,NA
+"1249","yellow","12","caged control","small","f9",0,0,0,0,0,0,0,0,0,NA,NA
+"1250","yellow","12","caged control","small","g1",0,0,0,0,0,0,0,0,0,NA,NA
+"1251","yellow","12","caged control","small","g2",0,0,0,0,0,0,0,0,0,NA,NA
+"1252","yellow","12","caged control","small","g3",0,0,0,0,0,0,0,0,0,NA,NA
+"1253","yellow","12","caged control","small","g4",0,0,0,0,0,0,0,0,0,NA,NA
+"1254","yellow","12","caged control","small","g5",0,1,1,0,1,1,0,0,0,NA,NA
+"1255","yellow","12","caged control","small","g6",0,1,0,0,1,0,0,0,0,NA,NA
+"1256","yellow","12","caged control","small","g7",0,0,0,0,0,0,0,0,0,NA,NA
+"1257","yellow","12","caged control","small","g8",1,1,0,1,1,0,0,0,0,NA,NA
+"1258","yellow","12","caged control","small","g9",0,1,0,0,1,0,0,0,0,NA,NA
+"1259","yellow","12","caged control","small","h1",0,1,0,0,1,0,0,0,0,NA,NA
+"1260","yellow","12","caged control","small","h2",0,7,0,0,7,0,0,0,0,NA,NA
+"1261","yellow","12","caged control","small","h3",0,1,0,0,1,0,0,0,0,NA,NA
+"1262","yellow","12","caged control","small","h4",0,0,0,0,0,0,0,0,0,NA,NA
+"1263","yellow","12","caged control","small","h5",1,1,0,1,1,0,0,0,0,NA,NA
+"1264","yellow","12","caged control","small","h6",0,3,0,0,3,0,0,0,0,NA,NA
+"1265","yellow","12","caged control","small","h7",0,0,1,0,0,1,0,0,0,NA,NA
+"1266","yellow","12","caged control","small","h8",0,5,0,0,5,0,0,0,0,NA,NA
+"1267","yellow","12","caged control","small","h9",0,0,0,0,0,0,0,0,0,NA,NA
+"1268","yellow","12","caged control","small","i1",0,0,0,0,0,0,0,0,0,NA,NA
+"1269","yellow","12","caged control","small","i2",0,0,0,0,0,0,0,0,0,NA,NA
+"1270","yellow","12","caged control","small","i3",0,0,0,0,0,0,0,0,0,NA,NA
+"1271","yellow","12","caged control","small","i4",0,1,0,0,1,0,0,0,0,NA,NA
+"1272","yellow","12","caged control","small","i5",0,2,0,0,2,0,0,0,0,NA,NA
+"1273","yellow","12","caged control","small","i6",0,0,1,0,0,1,0,0,0,NA,NA
+"1274","yellow","12","caged control","small","i7",0,1,0,0,1,0,0,0,0,NA,NA
+"1275","yellow","12","caged control","small","i8",0,2,0,0,2,0,0,0,0,NA,NA
+"1276","yellow","12","caged control","small","i9",0,0,0,0,0,0,0,0,0,NA,NA
+"1277","blank","18","accessible","small","a1",0,0,0,0,0,0,0,0,0,NA,NA
+"1278","blank","18","accessible","small","a2",0,1,0,0,1,0,0,0,0,NA,NA
+"1279","blank","18","accessible","small","a3",1,1,0,1,1,0,0,0,0,NA,NA
+"1280","blank","18","accessible","small","a4",0,0,0,0,0,0,0,0,0,"Pomacentrus bankanensis",1
+"1281","blank","18","accessible","small","a5",0,0,0,0,0,0,0,0,0,NA,0
+"1282","blank","18","accessible","small","a6",0,0,0,0,0,0,0,0,0,NA,NA
+"1283","blank","18","accessible","small","a7",1,1,0,1,1,0,0,0,0,NA,NA
+"1284","blank","18","accessible","small","a8",2,1,0,2,1,0,0,0,0,NA,NA
+"1285","blank","18","accessible","small","a9",0,0,0,0,0,0,0,0,0,NA,NA
+"1286","blank","18","accessible","small","b1",1,0,0,0,0,0,1,0,0,"Scarus niger",1
+"1287","blank","18","accessible","small","b2",0,0,0,0,0,0,0,0,0,"Scarus niger",1
+"1288","blank","18","accessible","small","b3",0,0,0,0,0,0,0,0,0,NA,NA
+"1289","blank","18","accessible","small","b4",0,1,0,0,1,0,0,0,0,"Scarus niger",1
+"1290","blank","18","accessible","small","b5",0,0,0,0,0,0,0,0,0,NA,NA
+"1291","blank","18","accessible","small","b6",0,0,0,0,0,0,0,0,0,"Scarus niger",6
+"1292","blank","18","accessible","small","b7",1,3,0,2,1,0,0,2,0,NA,NA
+"1293","blank","18","accessible","small","b8",0,1,0,0,1,0,0,0,0,"Scarus niger",3
+"1294","blank","18","accessible","small","b9",0,0,0,0,0,0,0,0,0,NA,NA
+"1295","blank","18","accessible","small","c1",0,0,0,0,0,0,0,0,0,"Scarus niger",1
+"1296","blank","18","accessible","small","c2",1,0,0,1,0,0,0,0,0,NA,NA
+"1297","blank","18","accessible","small","c3",0,0,0,0,0,0,0,0,0,NA,NA
+"1298","blank","18","accessible","small","c4",0,2,0,0,2,0,0,0,0,NA,NA
+"1299","blank","18","accessible","small","c5",0,3,0,0,3,0,0,0,0,"Scarus niger",5
+"1300","blank","18","accessible","small","c6",0,0,0,0,0,0,0,0,0,NA,NA
+"1301","blank","18","accessible","small","c7",0,1,0,0,1,0,0,0,0,"Scarus niger",2
+"1302","blank","18","accessible","small","c8",0,1,0,0,1,0,0,0,0,NA,NA
+"1303","blank","18","accessible","small","c9",0,0,0,0,0,0,0,0,0,NA,NA
+"1304","blank","18","accessible","small","d1",0,1,0,0,1,0,0,0,0,"Scarus niger",1
+"1305","blank","18","accessible","small","d2",0,10,0,0,10,0,0,0,0,NA,NA
+"1306","blank","18","accessible","small","d3",1,0,0,1,0,0,0,0,0,NA,NA
+"1307","blank","18","accessible","small","d4",0,1,0,0,1,0,0,0,0,"Pomacentrus bankanensis",1
+"1308","blank","18","accessible","small","d5",2,2,1,2,2,1,0,0,0,NA,NA
+"1309","blank","18","accessible","small","d6",1,1,0,1,0,0,0,1,0,NA,NA
+"1310","blank","18","accessible","small","d7",0,1,0,0,1,0,0,0,0,NA,NA
+"1311","blank","18","accessible","small","d8",0,2,0,0,2,0,0,0,0,NA,NA
+"1312","blank","18","accessible","small","d9",0,1,0,0,1,0,0,0,0,NA,NA
+"1313","blank","18","accessible","small","e1",0,0,0,0,0,0,0,0,0,"Scarus niger",1
+"1314","blank","18","accessible","small","e2",0,1,0,0,1,0,0,0,0,NA,NA
+"1315","blank","18","accessible","small","e3",1,0,0,1,0,0,0,0,0,NA,NA
+"1316","blank","18","accessible","small","e4",0,1,0,0,1,0,0,0,0,NA,NA
+"1317","blank","18","accessible","small","e5",0,0,0,0,0,0,0,0,0,NA,NA
+"1318","blank","18","accessible","small","e6",0,1,0,0,1,0,0,0,0,NA,NA
+"1319","blank","18","accessible","small","e7",0,0,0,0,0,0,0,0,0,NA,NA
+"1320","blank","18","accessible","small","e8",0,1,0,0,1,0,0,0,0,NA,NA
+"1321","blank","18","accessible","small","e9",1,0,0,1,0,0,0,0,0,NA,NA
+"1322","blank","18","accessible","small","f1",0,1,0,0,1,0,0,0,0,NA,NA
+"1323","blank","18","accessible","small","f2",0,2,0,0,2,0,0,0,0,NA,NA
+"1324","blank","18","accessible","small","f3",0,0,0,0,0,0,0,0,0,NA,NA
+"1325","blank","18","accessible","small","f4",0,2,0,0,2,0,0,0,0,"Scarus niger",1
+"1326","blank","18","accessible","small","f5",0,0,0,0,0,0,0,0,0,NA,NA
+"1327","blank","18","accessible","small","f6",0,0,0,0,0,0,0,0,0,"Scarus niger",4
+"1328","blank","18","accessible","small","f7",0,0,0,0,0,0,0,0,0,NA,NA
+"1329","blank","18","accessible","small","f8",1,1,0,1,1,0,0,0,0,NA,NA
+"1330","blank","18","accessible","small","f9",0,1,0,0,1,0,0,0,0,NA,NA
+"1331","blank","18","accessible","small","g1",0,2,0,0,2,0,0,0,0,NA,NA
+"1332","blank","18","accessible","small","g2",0,0,0,0,0,0,0,0,0,NA,NA
+"1333","blank","18","accessible","small","g3",0,3,0,0,1,0,0,2,0,NA,NA
+"1334","blank","18","accessible","small","g4",0,1,0,0,1,0,0,0,0,NA,NA
+"1335","blank","18","accessible","small","g5",0,1,0,0,1,0,0,0,0,"Scarus niger",3
+"1336","blank","18","accessible","small","g6",0,1,0,0,1,0,0,0,0,NA,0
+"1337","blank","18","accessible","small","g7",4,0,0,3,0,0,1,0,0,"Scarus niger",3
+"1338","blank","18","accessible","small","g8",0,0,0,0,0,0,0,0,0,NA,NA
+"1339","blank","18","accessible","small","g9",0,0,0,0,0,0,0,0,0,NA,NA
+"1340","blank","18","accessible","small","h1",0,0,0,0,0,0,0,0,0,NA,NA
+"1341","blank","18","accessible","small","h2",0,1,0,0,1,0,0,0,0,"Scarus niger",1
+"1342","blank","18","accessible","small","h3",0,0,0,0,0,0,0,0,0,NA,NA
+"1343","blank","18","accessible","small","h4",0,0,0,0,0,0,0,0,0,NA,NA
+"1344","blank","18","accessible","small","h5",1,1,0,1,1,0,0,0,0,NA,NA
+"1345","blank","18","accessible","small","h6",0,1,0,0,1,0,0,0,0,"Scarus niger",2
+"1346","blank","18","accessible","small","h7",0,0,0,0,0,0,0,0,0,NA,NA
+"1347","blank","18","accessible","small","h8",0,1,0,0,1,0,0,0,0,"Scarus niger",1
+"1348","blank","18","accessible","small","h9",0,1,0,0,1,0,0,0,0,NA,NA
+"1349","blank","18","accessible","small","i1",0,0,0,0,0,0,0,0,0,NA,NA
+"1350","blank","18","accessible","small","i2",0,0,0,0,0,0,0,0,0,NA,NA
+"1351","blank","18","accessible","small","i3",0,1,0,0,1,0,0,0,0,NA,NA
+"1352","blank","18","accessible","small","i4",1,1,0,1,1,0,0,0,0,"Scarus niger",1
+"1353","blank","18","accessible","small","i5",1,0,0,1,0,0,0,0,0,"Scarus niger",2
+"1354","blank","18","accessible","small","i6",1,2,0,1,2,0,0,0,0,"Scarus niger",1
+"1355","blank","18","accessible","small","i7",0,2,0,0,2,0,0,0,0,NA,NA
+"1356","blank","18","accessible","small","i8",0,0,0,0,0,0,0,0,0,NA,NA
+"1357","blank","18","accessible","small","i9",0,0,0,0,0,0,0,0,0,NA,NA
+"1358","green","78","caged control","small","a1",0,0,0,0,0,0,0,0,0,NA,NA
+"1359","green","78","caged control","small","a2",0,0,0,0,0,0,0,0,0,NA,NA
+"1360","green","78","caged control","small","a3",0,0,0,0,0,0,0,0,0,NA,NA
+"1361","green","78","caged control","small","a4",2,0,0,2,0,0,0,0,0,NA,NA
+"1362","green","78","caged control","small","a5",0,2,0,0,2,0,0,0,0,NA,NA
+"1363","green","78","caged control","small","a6",1,2,0,1,2,0,0,0,0,NA,NA
+"1364","green","78","caged control","small","a7",1,2,0,1,2,0,0,0,0,NA,NA
+"1365","green","78","caged control","small","a8",2,0,0,2,0,0,0,0,0,NA,NA
+"1366","green","78","caged control","small","a9",0,0,0,0,0,0,0,0,0,NA,NA
+"1367","green","78","caged control","small","b1",0,1,0,0,1,0,0,0,0,NA,NA
+"1368","green","78","caged control","small","b2",0,2,0,0,2,0,0,0,0,NA,NA
+"1369","green","78","caged control","small","b3",1,0,0,1,0,0,0,0,0,NA,NA
+"1370","green","78","caged control","small","b4",0,1,0,0,1,0,0,0,0,NA,NA
+"1371","green","78","caged control","small","b5",0,1,0,0,1,0,0,0,0,NA,NA
+"1372","green","78","caged control","small","b6",0,0,1,0,0,1,0,0,0,NA,NA
+"1373","green","78","caged control","small","b7",1,1,0,1,1,0,0,0,0,NA,NA
+"1374","green","78","caged control","small","b8",0,3,0,0,3,0,0,0,0,NA,NA
+"1375","green","78","caged control","small","b9",0,0,0,0,0,0,0,0,0,NA,NA
+"1376","green","78","caged control","small","c1",0,0,0,0,0,0,0,0,0,NA,NA
+"1377","green","78","caged control","small","c2",0,0,0,0,0,0,0,0,0,NA,NA
+"1378","green","78","caged control","small","c3",0,2,0,0,2,0,0,0,0,NA,NA
+"1379","green","78","caged control","small","c4",0,0,0,0,0,0,0,0,0,NA,NA
+"1380","green","78","caged control","small","c5",0,4,0,0,3,0,0,1,0,NA,NA
+"1381","green","78","caged control","small","c6",0,0,0,0,0,0,0,0,0,NA,NA
+"1382","green","78","caged control","small","c7",0,1,0,0,1,0,0,0,0,NA,NA
+"1383","green","78","caged control","small","c8",0,1,0,0,1,0,0,0,0,NA,NA
+"1384","green","78","caged control","small","c9",0,0,0,0,0,0,0,0,0,NA,NA
+"1385","green","78","caged control","small","d1",1,1,0,1,1,0,0,0,0,NA,NA
+"1386","green","78","caged control","small","d2",1,0,0,1,0,0,0,0,0,NA,NA
+"1387","green","78","caged control","small","d3",0,0,0,0,0,0,0,0,0,NA,NA
+"1388","green","78","caged control","small","d4",0,0,0,0,0,0,0,0,0,NA,NA
+"1389","green","78","caged control","small","d5",1,1,0,1,1,0,0,0,0,NA,NA
+"1390","green","78","caged control","small","d6",3,2,0,3,2,0,0,0,0,NA,NA
+"1391","green","78","caged control","small","d7",0,0,0,0,0,0,0,0,0,NA,NA
+"1392","green","78","caged control","small","d8",0,1,0,0,1,0,0,0,0,NA,NA
+"1393","green","78","caged control","small","d9",0,0,0,0,0,0,0,0,0,NA,NA
+"1394","green","78","caged control","small","e1",1,1,0,1,1,0,0,0,0,NA,NA
+"1395","green","78","caged control","small","e2",0,1,0,0,1,0,0,0,0,NA,NA
+"1396","green","78","caged control","small","e3",0,3,0,0,3,0,0,0,0,NA,NA
+"1397","green","78","caged control","small","e4",0,2,0,0,2,0,0,0,0,NA,NA
+"1398","green","78","caged control","small","e5",0,1,0,0,1,0,0,0,0,NA,NA
+"1399","green","78","caged control","small","e6",0,1,0,0,1,0,0,0,0,NA,NA
+"1400","green","78","caged control","small","e7",0,1,0,0,1,0,0,0,0,NA,NA
+"1401","green","78","caged control","small","e8",0,1,0,0,1,0,0,0,0,NA,NA
+"1402","green","78","caged control","small","e9",0,0,0,0,0,0,0,0,0,NA,NA
+"1403","green","78","caged control","small","f1",0,2,0,0,2,0,0,0,0,NA,NA
+"1404","green","78","caged control","small","f2",0,3,0,0,3,0,0,0,0,NA,NA
+"1405","green","78","caged control","small","f3",0,1,2,0,1,1,0,0,1,NA,NA
+"1406","green","78","caged control","small","f4",0,2,0,0,2,0,0,0,0,NA,NA
+"1407","green","78","caged control","small","f5",0,2,0,0,2,0,0,0,0,NA,NA
+"1408","green","78","caged control","small","f6",0,2,1,0,1,1,0,1,0,NA,NA
+"1409","green","78","caged control","small","f7",1,0,0,1,0,0,0,0,0,NA,NA
+"1410","green","78","caged control","small","f8",0,0,0,0,0,0,0,0,0,NA,NA
+"1411","green","78","caged control","small","f9",0,1,0,0,1,0,0,0,0,NA,NA
+"1412","green","78","caged control","small","g1",0,0,0,0,0,0,0,0,0,NA,NA
+"1413","green","78","caged control","small","g2",0,1,0,0,1,0,0,0,0,NA,NA
+"1414","green","78","caged control","small","g3",0,1,0,0,1,0,0,0,0,NA,NA
+"1415","green","78","caged control","small","g4",0,0,0,0,0,0,0,0,0,NA,NA
+"1416","green","78","caged control","small","g5",0,2,0,0,2,0,0,0,0,NA,NA
+"1417","green","78","caged control","small","g6",0,0,0,0,0,0,0,0,0,NA,NA
+"1418","green","78","caged control","small","g7",1,1,0,1,1,0,0,0,0,NA,NA
+"1419","green","78","caged control","small","g8",1,1,0,1,1,0,0,0,0,NA,NA
+"1420","green","78","caged control","small","g9",0,0,2,0,0,2,0,0,0,NA,NA
+"1421","green","78","caged control","small","h1",1,0,0,1,0,0,0,0,0,NA,NA
+"1422","green","78","caged control","small","h2",0,1,0,0,1,0,0,0,0,NA,NA
+"1423","green","78","caged control","small","h3",0,2,1,0,2,1,0,0,0,NA,NA
+"1424","green","78","caged control","small","h4",0,1,0,0,1,0,0,0,0,NA,NA
+"1425","green","78","caged control","small","h5",0,0,0,0,0,0,0,0,0,NA,NA
+"1426","green","78","caged control","small","h6",2,0,0,2,0,0,0,0,0,NA,NA
+"1427","green","78","caged control","small","h7",1,1,0,1,1,0,0,0,0,NA,NA
+"1428","green","78","caged control","small","h8",0,0,0,0,0,0,0,0,0,NA,NA
+"1429","green","78","caged control","small","h9",0,1,0,0,1,0,0,0,0,NA,NA
+"1430","green","78","caged control","small","i1",0,0,0,0,0,0,0,0,0,NA,NA
+"1431","green","78","caged control","small","i2",4,0,0,4,0,0,0,0,0,NA,NA
+"1432","green","78","caged control","small","i3",0,0,0,0,0,0,0,0,0,NA,NA
+"1433","green","78","caged control","small","i4",0,1,0,0,1,0,0,0,0,NA,NA
+"1434","green","78","caged control","small","i5",0,1,0,0,1,0,0,0,0,NA,NA
+"1435","green","78","caged control","small","i6",0,1,0,0,1,0,0,0,0,NA,NA
+"1436","green","78","caged control","small","i7",0,0,0,0,0,0,0,0,0,NA,NA
+"1437","green","78","caged control","small","i8",0,0,0,0,0,0,0,0,0,NA,NA
+"1438","green","78","caged control","small","i9",0,0,0,0,0,0,0,0,0,NA,NA
